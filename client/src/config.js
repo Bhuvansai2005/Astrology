@@ -20,7 +20,7 @@ export const BUSINESS = {
 };
 
 export const HERO_IMAGES = {
-  hero: '/images/books/rigveda-samhita-14-pustakagalu.webp',
+  hero: 'https://images.unsplash.com/photo-1603366615917-1fa6dad5c4fa?auto=format&fit=crop&w=2000&q=85',
   about: '/images/books/charaka-samhite.webp',
   location: '/images/books/dharmasimdhu.webp',
 };
