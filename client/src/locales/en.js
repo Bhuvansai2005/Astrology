@@ -1,0 +1,3168 @@
+export const en = {
+      "topStrip": {
+            "tagline": "✦ Authentic Classical Indian Literature & Shastric Consultations",
+            "langToggle": "ಕನ್ನಡ"
+      },
+      "brand": {
+            "title": "ADYA JYOTHIRVIJNANA SAMSHODHANA KENDRA",
+            "subtitle": "ADYA PUSTAKA BHANDARA"
+      },
+      "nav": {
+            "home": "Home",
+            "about": "About Us",
+            "catalogue": "Book Catalogue",
+            "services": "Services",
+            "servicesDropdown": {
+                  "astrology": "Astrology Consultations",
+                  "vastu": "Vastu Consultations",
+                  "religious": "Vedic Poojas & Homas"
+            },
+            "classes": "Classes",
+            "announcements": "Announcements",
+            "contact": "Contact",
+            "cart": "Cart",
+            "whatsapp": "WhatsApp"
+      },
+      "hero": {
+            "eyebrow": "TRADITION • SHASTRAS • HERITAGE",
+            "title1": "Adya Pustaka",
+            "title2": "Bhandara",
+            "subtitle": "Preserving and Illuminating India’s Classical Literary Heritage",
+            "description": "Authorized editions across classical Indian knowledge traditions including Jyotishya, Vastu, Tantra-Mantra, Vedas, Agamas, Puranas, Yoga, and Dharmashastra.",
+            "exploreBtn": "Browse Catalogue",
+            "whatsappBtn": "Enquire on WhatsApp",
+            "note": "Dedicated to authentic scriptural preservation and study"
+      },
+      "intro": {
+            "kickerNumber": "01",
+            "kickerLabel": "CURATED COLLECTION",
+            "title1": "Wisdom that",
+            "title2": "transcends time.",
+            "description": "Adya Pustaka Bhandara and Adya Jyothirvijnana Samshodhana Kendra are dedicated to preserving, publishing, and teaching India’s classical knowledge traditions, from Vedic and Agamic literature to astrology, Vastu, and sacred practices.",
+            "aboutBtn": "Learn About Us"
+      },
+      "categories": {
+            "kickerNumber": "02",
+            "kickerLabel": "EXPLORE BY DISCIPLINE",
+            "title1": "Our",
+            "title2": "Book Categories",
+            "subtitle": "Explore foundational disciplines across India’s classical knowledge traditions.",
+            "viewCatalogueBtn": "View Complete Catalogue",
+            "addToCart": "Add to cart",
+            "emptyState": "Book catalogue is currently being updated with new titles. Please check back shortly.",
+            "items": {
+                  "astrology": {
+                        "title": "Astrology Books",
+                        "sanskrit": "JYOTISHYA",
+                        "description": "Authentic classical works in Astrology Books."
+                  },
+                  "vastu": {
+                        "title": "Vastu Shastra",
+                        "sanskrit": "VASTU",
+                        "description": "Authentic classical works in Vastu Shastra."
+                  },
+                  "prashna": {
+                        "title": "Prashna Shastra",
+                        "sanskrit": "PRASHNA",
+                        "description": "Authentic classical works in Prashna Shastra."
+                  },
+                  "numerology": {
+                        "title": "Numerology",
+                        "sanskrit": "SANKHYA",
+                        "description": "Authentic classical works in Numerology."
+                  },
+                  "tantra-mantra": {
+                        "title": "Yantra Mantra Tantra",
+                        "sanskrit": "TANTRA",
+                        "description": "Authentic classical works in Yantra Mantra Tantra."
+                  },
+                  "remedies-shanti": {
+                        "title": "Remedies & Shanti",
+                        "sanskrit": "SHANTI",
+                        "description": "Authentic classical works in Remedies & Shanti."
+                  },
+                  "vedas-agamas": {
+                        "title": "Vedas & Agamas",
+                        "sanskrit": "SAMHITA",
+                        "description": "Authentic classical works in Vedas & Agamas."
+                  },
+                  "pooja-homa": {
+                        "title": "Pooja, Homa & Samskara",
+                        "sanskrit": "HAVANA",
+                        "description": "Authentic classical works in Pooja, Homa & Samskara."
+                  },
+                  "puranas-upanishads": {
+                        "title": "Puranas, Upanishads & Stotras",
+                        "sanskrit": "VEDANTA",
+                        "description": "Authentic classical works in Puranas, Upanishads & Stotras."
+                  },
+                  "yoga-ayurveda": {
+                        "title": "Yoga, Ayurveda & Spirituality",
+                        "sanskrit": "ADHYATMA",
+                        "description": "Authentic classical works in Yoga, Ayurveda & Spirituality."
+                  },
+                  "dharmashastra": {
+                        "title": "Dharmashastra & Literature",
+                        "sanskrit": "DHARMA",
+                        "description": "Authentic classical works in Dharmashastra & Literature."
+                  },
+                  "sacred-articles": {
+                        "title": "Sacred Articles & Malas",
+                        "sanskrit": "MANGALA",
+                        "description": "Authentic classical works in Sacred Articles & Malas."
+                  }
+            }
+      },
+      "videos": {
+            "kickerNumber": "03",
+            "kickerLabel": "LECTURE ARCHIVE",
+            "title1": "Jyotishya",
+            "title2": "Discourse Series",
+            "subtitle": "Introductory video discourses examining foundational principles of Vedic astrology.",
+            "video1Category": "JYOTISHYA FUNDAMENTALS",
+            "video1Title": "The Twelve Rashis and Their Attributes",
+            "video1Desc": "An introductory discourse examining the nature, rulership, and interpretive role of the twelve zodiac signs.",
+            "video2Category": "SIDEREAL ASTRONOMY",
+            "video2Title": "Understanding the Nakshatra Mandala",
+            "video2Desc": "A foundational primer on the twenty-seven lunar mansions and traditional planetary calculation."
+      },
+      "about": {
+            "kickerNumber": "04",
+            "kickerLabel": "OUR INSTITUTION",
+            "title": "About",
+            "subtitle1": "A Trusted Sanctuary for",
+            "subtitle2": "Seekers & Scholars.",
+            "desc1": "Adya Pustaka Bhandara is dedicated to preserving, publishing, and distributing authentic literature across Vedic studies, Agamas, Jyotishya, Vastu Shastra, and classical philosophy.",
+            "desc2": "Whether you are taking your first step into traditional study or pursuing lifelong scholarship, our collection offers reliable editions rooted in living lineage and textual accuracy.",
+            "readStoryBtn": "Read institutional profile",
+            "connectBtn": "Contact our office",
+            "visualText1": "A doorway to",
+            "visualText2": "classical scholarship"
+      },
+      "catalogueCTA": {
+            "kickerNumber": "05",
+            "kickerLabel": "FIND YOUR NEXT EDITION",
+            "title1": "Explore Our Complete",
+            "title2": "Book Catalogue",
+            "description": "Browse our entire collection online or place an order directly through our WhatsApp desk.",
+            "browseBtn": "Browse Catalogue",
+            "whatsappBtn": "WhatsApp Catalogue"
+      },
+      "communities": {
+            "whatsappBadge": "READER COMMUNITY",
+            "whatsappTitle": "Join Our WhatsApp Community",
+            "whatsappDesc": "Receive timely announcements on new book releases, upcoming classes, and special observances.",
+            "whatsappBtn": "Join WhatsApp Group",
+            "telegramBadge": "PUBLICATION UPDATES",
+            "telegramTitle": "Connect on Telegram",
+            "telegramDesc": "Stay informed on newly reprinted editions, shastric notes, and institutional notices.",
+            "telegramBtn": "Join Telegram Channel"
+      },
+      "contact": {
+            "kickerNumber": "06",
+            "kickerLabel": "DIRECT INQUIRIES",
+            "title1": "Book & Consultation",
+            "title2": "Inquiries",
+            "description": "Seeking a specific edition or guidance on consultations? Our office will be pleased to assist you.",
+            "viewAllBtn": "View complete contact details & office hours",
+            "callUs": "Call Office",
+            "messageUs": "WhatsApp Desk",
+            "whatsappLabel": "WhatsApp"
+      },
+      "location": {
+            "kickerNumber": "07",
+            "kickerLabel": "VISIT THE CENTRE",
+            "title": "Our Location",
+            "description": "Visit our bookshop and research centre in person to inspect classical editions and schedule consultations.",
+            "directionsBtn": "Get Directions",
+            "visualText1": "Welcome to our",
+            "visualText2": "bookshop & centre"
+      },
+      "social": {
+            "kicker": "INSTITUTIONAL UPDATES",
+            "title": "Connect with us on Facebook",
+            "button": "Visit Official Page",
+            "instagramKicker": "INSTAGRAM UPDATES",
+            "instagramTitle": "Follow us on Instagram",
+            "instagramButton": "Open Instagram",
+            "instagramScanNote": "Scan QR to Follow"
+      },
+      "sacredOfferings": {
+            "kickerNumber": "08",
+            "kickerLabel": "SACRED OFFERINGS & SUBJECTS",
+            "title1": "Shastric Book Disciplines &",
+            "title2": "Consecrated Spiritual Articles",
+            "subtitle": "Alongside authentic Vedic and Agamic texts across classical subjects, we provide hand-inscribed consecrated yantras, pyramid Vastu remedies, and sacred spiritual articles.",
+            "subjectsHeading": "Classical Book Disciplines & Subjects Available",
+            "subjects": [
+                  "Astrology (Jyotishya)",
+                  "Vastu Shastra",
+                  "Sahasranama",
+                  "Pooja Vidhi-Vidhana",
+                  "Yantra Shastra",
+                  "Mantra Shastra",
+                  "Tantra Shastra",
+                  "Sri Vidya",
+                  "Puranas",
+                  "Yoga",
+                  "Agamas",
+                  "Numerology (Sankhyashastra)",
+                  "Palmistry (Hastasamudrika)",
+                  "Spirituality & Philosophy"
+            ],
+            "articlesHeading": "Spiritual Articles & Special Sacred Offerings",
+            "inquireBtn": "Inquire on WhatsApp",
+            "articles": [
+                  {
+                        "tag": "SACRED BEADS",
+                        "title": "Rudraksha",
+                        "description": "Authentic Rudraksha beads selected for daily japa, spiritual sadhana, and traditional wearing."
+                  },
+                  {
+                        "tag": "JAPA & MEDITATION",
+                        "title": "Sphatika Mala",
+                        "description": "Natural crystal quartz malas suitable for mantra japa, Devi upasana, and peaceful contemplation."
+                  },
+                  {
+                        "tag": "DAILY WORSHIP",
+                        "title": "Sphatika Linga",
+                        "description": "Sacred Sphatika Shiva Lingas suited for daily abhisheka and household shrine worship."
+                  },
+                  {
+                        "tag": "PROTECTIVE MALA",
+                        "title": "Karanguli Mala",
+                        "description": "Traditional Karanguli malas crafted for dedicated spiritual practice and protective observance."
+                  },
+                  {
+                        "tag": "CONSECRATED RITUAL YANTRA",
+                        "title": "Hand-Drawn Consecrated Yantras",
+                        "description": "Traditionally hand-inscribed yantras consecrated through authentic Vedic and Agamic pooja rituals prior to delivery."
+                  },
+                  {
+                        "tag": "VASTU REMEDY",
+                        "title": "Pyramid Vastu Remedies",
+                        "description": "Methodical Vastu dosha corrections for homes using calibrated pyramid placements without structural alterations."
+                  }
+            ]
+      },
+      "footer": {
+            "brandDesc": "Connecting seekers and scholars with authentic Vedic literature, astrology, classical Indian philosophy, and consecrated spiritual articles.",
+            "centreDesc": "Adya Jyothirvijnana Samshodhana Kendra — Centre for Astrology, Prashna & Complete Vastu Research.",
+            "exploreHeading": "Explore",
+            "consultationsHeading": "Consultations",
+            "connectHeading": "Connect",
+            "copyright": "Adya Pustaka Bhandara. All rights reserved.",
+            "knowledgeTag": "Dedicated to the preservation of classical Indian knowledge ✦",
+            "vedasAgamasLink": "Vedas & Agamas Collection",
+            "whatsappLink": "WhatsApp ↗",
+            "telegramLink": "Telegram ↗",
+            "facebookLink": "Facebook ↗",
+            "instagramLink": "Instagram ↗",
+            "privacyPolicyLink": "Privacy Policy",
+            "termsLink": "Terms and Conditions"
+      },
+      "cart": {
+            "yourCart": "Your Cart",
+            "empty": "Your cart is currently empty. Add a book to begin.",
+            "emptyTitle": "Your cart is empty",
+            "emptyDesc": "Explore our curated collection of classical Indian scriptures and treatises.",
+            "exploreBooksBtn": "Browse Book Catalogue",
+            "pageKickerNumber": "ORDER REVIEW",
+            "pageKickerLabel": "SHOPPING CART",
+            "pageTitle": "Selected Books",
+            "pageSubtitle": "Review your selected editions and quantities prior to order confirmation.",
+            "subtotal": "Subtotal",
+            "booksSubtotal": "Books Subtotal:",
+            "shippingLabel": "Dispatch & Postage:",
+            "proceedBtn": "Proceed to Checkout",
+            "clearAll": "Clear all",
+            "itemsCount": "Selected Items",
+            "shippingNotice": "Confirmed via WhatsApp",
+            "estimatedTotal": "Estimated Subtotal:",
+            "noPaymentNotice": "✦ No online payment is collected here. Book availability, postage, and payment instructions are confirmed via WhatsApp.",
+            "removeOne": "Decrease quantity",
+            "addOne": "Increase quantity"
+      },
+      "checkout": {
+            "kickerNumber": "01",
+            "kickerLabel": "COMPLETE YOUR ORDER",
+            "title1": "Confirm",
+            "title2": "Your Order.",
+            "note": "Review your selected books and provide your delivery address. Our team confirms availability and dispatch via WhatsApp.",
+            "fullName": "Full Name",
+            "fullNamePlaceholder": "Enter your full name",
+            "phone": "Mobile Number",
+            "phonePlaceholder": "Enter 10-digit mobile number",
+            "email": "Email Address (Optional)",
+            "emailPlaceholder": "name@example.com",
+            "deliveryAddress": "Delivery Address",
+            "addressPlaceholder": "Enter street address, city, state, and PIN code",
+            "placeOrderBtn": "Continue to WhatsApp",
+            "savingBtn": "Verifying WhatsApp & Recording Order...",
+            "whatsappStepTitle": "Open WhatsApp & Place Order",
+            "whatsappStepDesc": "Click below to open WhatsApp and send your pre-filled order summary. Your order is recorded only after WhatsApp opens successfully.",
+            "openWhatsappOrderBtn": "Open WhatsApp & Place Order",
+            "whatsappFollowUpNotice": "After WhatsApp opens, check WhatsApp for further details about availability, postage, and payment.",
+            "retryWhatsappBtn": "Open WhatsApp Again",
+            "popupBlockedError": "WhatsApp could not open or was closed immediately. Please allow browser pop-ups and try again.",
+            "editDetailsBtn": "Edit Details",
+            "summaryTitle": "Order Summary",
+            "emptySummary": "Your cart is empty.",
+            "total": "Total",
+            "noPaymentNote": "No online payment is required at this stage. Edition availability, postage, and payment instructions are confirmed directly via WhatsApp.",
+            "legalNotice": "By placing your order, you acknowledge that you have read our",
+            "privacyPolicyLink": "Privacy Policy",
+            "andAgree": "and agree to our",
+            "termsLink": "Terms and Conditions",
+            "legalNoticeEnd": "The information you provide will be used to process your order and contact you regarding your purchase through WhatsApp.",
+            "saveError": "Unable to record your order at this moment. Please try again.",
+            "thankYouTitle": "Thank You for Your Order",
+            "orderRefIs": "Your order reference number is:",
+            "orderDesc": "Your order details have been recorded. Click below to continue on WhatsApp.",
+            "openWhatsappBtn": "Open in WhatsApp",
+            "returnHomeBtn": "Return to Home"
+      },
+      "orderConfirmation": {
+            "kickerNumber": "ORDER RECORDED",
+            "kickerLabel": "CONFIRMATION",
+            "title": "Thank You",
+            "refIs": "Order Reference Number:",
+            "desc": "Your order has been recorded. Our office will verify edition availability and share postage along with payment instructions via WhatsApp.",
+            "whatsappNotice": "Please check WhatsApp for further details about availability, postage, and payment.",
+            "customerDetailsHeading": "Recipient Details",
+            "itemsHeading": "Ordered Books",
+            "totalPaidLabel": "Order Total",
+            "openWhatsappBtn": "View Order on WhatsApp",
+            "returnHomeBtn": "Return to Home",
+            "nameLabel": "Name:",
+            "phoneLabel": "Phone:",
+            "addressLabel": "Address:"
+      },
+      "cataloguePage": {
+            "kickerNumber": "01",
+            "kickerLabel": "COMPLETE CATALOGUE",
+            "title": "Book Catalogue",
+            "subtitle": "Browse our curated collection of authentic Vedic texts, commentaries, and traditional shastric works.",
+            "searchPlaceholder": "Search by title, subject, or keyword...",
+            "emptyState": "No books found matching your criteria. New catalogue will be updated soon.",
+            "filters": [
+                  {
+                        "id": "all",
+                        "label": "All Categories"
+                  },
+                  {
+                        "id": "astrology",
+                        "label": "Astrology Books"
+                  },
+                  {
+                        "id": "vastu",
+                        "label": "Vastu Shastra"
+                  },
+                  {
+                        "id": "prashna",
+                        "label": "Prashna Shastra"
+                  },
+                  {
+                        "id": "numerology",
+                        "label": "Numerology"
+                  },
+                  {
+                        "id": "tantra-mantra",
+                        "label": "Yantra Mantra Tantra"
+                  },
+                  {
+                        "id": "remedies-shanti",
+                        "label": "Remedies & Shanti"
+                  },
+                  {
+                        "id": "vedas-agamas",
+                        "label": "Vedas & Agamas"
+                  },
+                  {
+                        "id": "pooja-homa",
+                        "label": "Pooja, Homa & Samskara"
+                  },
+                  {
+                        "id": "puranas-upanishads",
+                        "label": "Puranas, Upanishads & Stotras"
+                  },
+                  {
+                        "id": "yoga-ayurveda",
+                        "label": "Yoga, Ayurveda & Spirituality"
+                  },
+                  {
+                        "id": "dharmashastra",
+                        "label": "Dharmashastra & Literature"
+                  },
+                  {
+                        "id": "sacred-articles",
+                        "label": "Sacred Articles & Malas"
+                  }
+            ]
+      },
+      "bookDetailsPage": {
+            "home": "Home",
+            "catalogue": "Catalogue",
+            "authorLabel": "Author / Lineage:",
+            "languageLabel": "Language:",
+            "formatLabel": "Edition:",
+            "pagesLabel": "Pages:",
+            "availabilityLabel": "Availability:",
+            "addToCartBtn": "Add to Cart",
+            "whatsappBtn": "Inquire on WhatsApp",
+            "backBtn": "Back to Catalogue",
+            "books": {
+                  "4": {
+                        "title": "ಯಜುರ್ವೇದ ತೈತರಿಯ ಸಂಹಿತೆ 4 ಪುಸ್ತಕಗಳು",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಜುರ್ವೇದ ತೈತರಿಯ 4 ಪುಸ್ತಕಗಳು ಎದುರು ವೇದದ ಬಗ್ಗೆ ಅಧ್ಯಯನ ಮಾಡಲು ತುಂಬಾ ಸುಂದರವಾಗಿದೆ",
+                        "price": 1300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "14": {
+                        "title": "ಋಗ್ವೇದ ಸಂಹಿತ 14 ಪುಸ್ತಕಗಳು",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಋಗ್ವೇದಕ್ಕೆ ಸಂಬಂಧಪಟ್ಟಂತಹ 14 ಪುಸ್ತಕಗಳು ಸಂಪೂರ್ಣ ಋಗ್ವೇದ ಮಂತ್ರಗಳನ್ನು ಹೊಂದಿದೆ ವಿಸ್ತಾರವಾಗಿ ತುಂಬಾ ಚೆನ್ನಾಗಿ ವಿವರಿಸಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 5025,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "30": {
+                        "title": "30 ದಿನದಲ್ಲಿ ಜ್ಯೋತಿಷ್ಯ ಕಲಿಯಿರಿ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಜ್ಯೋತಿಷ್ಯ ಕಲಿಯುವವರಿಗೆ ಹಾಗೂ ಕಲಿತು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿರುವವರಿಗೆ ಅದ್ಭುತವಾದಂತಹ ಜ್ಯೋತಿಷ್ಯವನ್ನು ಕಲಿಯುವಂತ ಅತಿ ಸುಲಭವಾಗಿ ಇರುವಂತಹ ಗ್ರಂಥ 30 ದಿನದಲ್ಲಿ ಜ್ಯೋತಿಷ್ಯ ಕಲಿಯಿರಿ ಎಂಬುವುದು ತುಂಬಾ ಸುಂದರವಾಗಿದೆ",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "301": {
+                        "title": "301 ಬೃಹತ್ ಯಂತ್ರ ರಾಜ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಈ ಗ್ರಂಥದಲ್ಲಿ ಸ್ತಂಭದ ಮೋಹನ ಆಕರ್ಷಣ ವಿದ್ವೇಶನ ಮಾರಣ ಉಚ್ಚಾಟನಾ ಕ್ರಿಯೆಗಳು ಯಂತ್ರಗಳು ಎಲ್ಲಾ ದೇವರ ಯಂತ್ರಗಳು ಪೂಜಾ ವಿಧಾನ ಎಲ್ಲವನ್ನು ಸಹ ಸಂಪೂರ್ಣವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 600,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "400": {
+                        "title": "ಸಟಿಕಾ ಮಂತ್ರ ಮೊಹೋದದಿ 400 ವರ್ಷ ಪ್ರಾಚೀನ ಗ್ರಂಥ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ದಶಮಹಾ ವಿದ್ಯೆ ಮಂತ್ರ ತಂತ್ರ ವಿಧಾನ ಬಲಿ ವಿಧಾನ ಭೂತ ಶುದ್ದಿ ಪೀಠ ಮಂತ್ರ ಪೂಜಾ ಕ್ರಮ ಪುರಸ್ಚರನ ಹೋಮವಿಧಿ ಅಗ್ನಿ ಪೂಜೆ ಶಾಬರಿ ವಿದ್ಯೆ ಇನ್ನೂ ಹಲವಾರು ಮಂತ್ರ ಯಂತ್ರ ವಿದ್ಯೆ ಬಗ್ಗೆ ವಿಸ್ತಾರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 999,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "501": {
+                        "title": "ಲಾಲ್ ಕಿತಾಬ್ 501 ಸರಳ ಉಪಾಯ ಪರಿಹಾರಗಳು",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಜೀವನದಲ್ಲಿ ಆಗುವಂತ ಪ್ರತಿಯೊಂದು ತೊಂದರೆಗಳಿಗೂ ಪುರಾತನ ಜ್ಯೋತಿಷ್ಯ ಪರಿಹಾರ ಗ್ರಂಥ ತುಂಬಾ ಸುಂದರವಾಗಿ ಪರಿಹಾರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ಎಲ್ಲರೂ ಸಹ ಓದಿ ತಿಳಿದುಕೊಳ್ಳಬಹುದಾದಂತ ಗ್ರಂಥ ಇದು",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-176": {
+                        "title": "ಅಸಲಿ ಪ್ರಾಚೀನ ಬೃಹತ್ ರಾವಣ ಸಂಹಿತ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ರಾವಣ ಸಂಹಿತ ಗ್ರಂಥದಲ್ಲಿ ಸುನಹರಿ ಸಿದ್ಧಾಂತ ದ್ವಾದಶ ಲಗ್ನಕ್ಕೆ ಸಂಬಂಧಪಟ್ಟ ಫಲಗಳು ನಕ್ಷತ್ರ ರಾಶಿ ಗ್ರಹಗಳ ಬಗ್ಗೆ ವಿವರಣೆ ಹಾಗೂ ಗ್ರಹಗಳ ಸಂಯೋಗ ಫಲಗಳನ್ನು ವಿಸ್ತಾರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 800,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-217": {
+                        "title": "ಅಸಲಿ ಲಾಲ್ ಕಿತಾಬ್ನ ಅದ್ಭುತ ತಂತ್ರ ಉಪಾಯಗಳು",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸರಳವಾದ ಗ್ರಹಗಳ ರಕ್ಷಣೆಯನ್ನು ಪಡೆಯಲು ಪ್ರಭಾವಿ ಮತ್ತು ಕಡಿಮೆ ವೆಚ್ಚದಲ್ಲಿ ತುಂಬಾ ಅದ್ಭುತ ಪೂರ್ವವಾದಂತ ಪ್ರಯೋಗಗಳನ್ನು ಮಾಡಲು ಈ ಗ್ರಂಥ ತುಂಬಾ ಉಪಯುಕ್ತವಾಗಿದೆ ಇದರಲ್ಲಿ ಗ್ರಹಗಳಿಗೆ ಸಂಬಂಧಪಟ್ಟಂತ ದೋಷಗಳಿಗೆ ಪರಿಹಾರವನ್ನು ಸಹ ನೀಡಿದ್ದಾರೆ",
+                        "price": 220,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-113": {
+                        "title": "ಉತ್ತರ ಕಾಲಾಮೃತ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಉತ್ತರ ಕಾಲಾಮೃತ - Classical edition under Astrology Books.",
+                        "price": 110,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-58": {
+                        "title": "ಕಾಲ ನಿರ್ಣಯ ಜ್ಯೋತಿಷ್ಯ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕಾಲ ನಿರ್ಣಯ ಜ್ಯೋತಿಷ್ಯ - Classical edition under Astrology Books.",
+                        "price": 160,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-209": {
+                        "title": "ಕಾಲಾ ಕಿತಾಬ್",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕಾಲಾ ಕಿತಾಬ್ - Classical edition under Astrology Books.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-105": {
+                        "title": "ಜ್ಯೋತಿಷ್ಯ ನಿಘಂಟು",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಜ್ಯೋತಿಷ್ಯ ನಿಘಂಟು - Classical edition under Astrology Books.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-66": {
+                        "title": "ಜ್ಯೋತಿಷ್ಯ ಪಾರಿಜಾತ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಜ್ಯೋತಿಷ್ಯ ಪಾರಿಜಾತ - Classical edition under Astrology Books.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-96": {
+                        "title": "ಜ್ಯೋತಿಷ್ಯ ಸಾರಕೋಶ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಜ್ಯೋತಿಷ್ಯ ಸಾರಕೋಶ - Classical edition under Astrology Books.",
+                        "price": 800,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-168": {
+                        "title": "ಜ್ಯೋತಿಷ್ಯಾಮೃತ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಜ್ಯೋತಿಷ್ಯಾಮೃತ - Classical edition under Astrology Books.",
+                        "price": 100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-64": {
+                        "title": "ಧ್ರುವನಾಡಿ ಸಿದ್ದಾಂತ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಧ್ರುವನಾಡಿ ಸಿದ್ದಾಂತ - Classical edition under Astrology Books.",
+                        "price": 125,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-27": {
+                        "title": "ನಕ್ಷತ್ರಧಾರಿತ ಜ್ಯೋತಿಷ್ಯ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಕ್ಷತ್ರಧಾರಿತ ಜ್ಯೋತಿಷ್ಯ - Classical edition under Astrology Books.",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-128": {
+                        "title": "ನಾಡಿ ಜ್ಯೋತಿಷ್ಯ ಮಾರ್ಗದರ್ಶಿ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಾಡಿ ಜ್ಯೋತಿಷ್ಯ ಮಾರ್ಗದರ್ಶಿ - Classical edition under Astrology Books.",
+                        "price": 220,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "1-2": {
+                        "title": "ನೀವು ಜ್ಯೋತಿಷ್ಯರೇ ಭಾಗ-1 ಭಾಗ-2",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನೀವು ಜ್ಯೋತಿಷ್ಯರೇ ಭಾಗ-1 ಭಾಗ-2 - Classical edition under Astrology Books.",
+                        "price": 2100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-148": {
+                        "title": "ಫಲ ದೀಪಿಕಾ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಫಲ ದೀಪಿಕಾ - Classical edition under Astrology Books.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-91": {
+                        "title": "ಫಲದೀಪಿಕ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಫಲದೀಪಿಕ - Classical edition under Astrology Books.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-45": {
+                        "title": "ಬೃಹಜ್ಜಾತಕಮ್",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ರಾಶಿ ಪ್ರಭೇದ ಗ್ರಹಯೋನಿ ದಶ ಅಂತರ್ದಶ ಅಷ್ಟಕ ವರ್ಗ ಕರ್ಮಜೀವ ಆಯುರ್ದಾಯ ಅರಿಷ್ಟ ಲಾಭ ನಾಮದ ಯೋಗ ರಾಜಯೋಗ ಚಂದ್ರಯೋಗ ದ್ವಿಗ್ರಹ ಯೋಗ ದೃಷ್ಟಿ ಫಲದಾಯ ಭಾವಧ್ಯಾಯ ಇನ್ನು ಹಲವಾರು ವಿಚಾರದ ಬಗ್ಗೆ ವಿಸ್ತಾರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-155": {
+                        "title": "ಬೃಹಜ್ಜಾತಕಮ್",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಬೃಹಜ್ಜಾತಕಮ್ - Classical edition under Astrology Books.",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-73": {
+                        "title": "ಬೃಹತ್ ಪರಾಶರ ಹೋರ ಶಾಸ್ತ್ರಮ್",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಬೃಹತ್ ಪರಾಶರ ಹೋರ ಶಾಸ್ತ್ರಮ್ - Classical edition under Astrology Books.",
+                        "price": 1100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-37": {
+                        "title": "ಬೃಹತ್ ಸಂಹಿತ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಬೃಹತ್ ಸಂಹಿತ - Classical edition under Astrology Books.",
+                        "price": 700,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-126": {
+                        "title": "ಬೃಹತ್ ಸಂಹಿತ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನವಗ್ರಹಗಳ ಬಗ್ಗೆ ವಿಸ್ತಾರವಾದ ಅಧ್ಯಾಯ ಸಪ್ತಋಷಿಗಳ ಬಗ್ಗೆ ನಕ್ಷತ್ರದ ಬಗ್ಗೆ ಗ್ರಹ ಬುತ್ತಿ ಯೋಗದ ಬಗ್ಗೆ ಮಳೆಯ ಬಗ್ಗೆ ಮಳೆಯ ಲಕ್ಷಣದ ಬಗ್ಗೆ ಶಕುನಗಳ ಬಗ್ಗೆ ವಾಸ್ತು ವಿದ್ಯೆಯ ಬಗ್ಗೆ ಮಹಾಪುರುಷ ಸ್ತ್ರೀ ಲಕ್ಷಣ ವಸ್ತ್ರ ಭೇದ ಚಾಮರ ಲಕ್ಷಣ ಕೋರ್ಮಲಕ್ಷಣ ಪಶ್ವಲಕ್ಷಣ ಇತ್ಯಾದಿ ಲಕ್ಷಣಗಳ ಬಗ್ಗೆ ವಿಸ್ತಾರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 700,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-31": {
+                        "title": "ಬೃಹತ್ ಸಂಹಿತಾ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಬೃಹತ್ ಸಂಹಿತಾ - Classical edition under Astrology Books.",
+                        "price": 700,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-171": {
+                        "title": "ಮುಹೂರ್ತ ನಿರ್ಣಯ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮುಹೂರ್ತ ನಿರ್ಣಯ - Classical edition under Astrology Books.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-90": {
+                        "title": "ಮೇಳಾ- ಮೇಳಿ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮೇಳಾ- ಮೇಳಿ - Classical edition under Astrology Books.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-175": {
+                        "title": "ರಾವಣ ಸಂಹಿತಾ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ರಾವಣ ಸಂಹಿತಾ - Classical edition under Astrology Books.",
+                        "price": 800,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-143": {
+                        "title": "ರಾಶಿ, ಲಗ್ನಾದಿ ಫಲಗಳು",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ರಾಶಿ, ಲಗ್ನಾದಿ ಫಲಗಳು - Classical edition under Astrology Books.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-6": {
+                        "title": "ಶಂಭು ಹೋರಾ ಪ್ರಕಾಶ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶಂಭು ಹೋರಾ ಪ್ರಕಾಶ - Classical edition under Astrology Books.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-17": {
+                        "title": "ಸಂಕ್ಷಿಪ್ತ ನಾಡಿ ಸೂತ್ರಗಳು ಮತ್ತು ಜೀವಿತಾವಧಿಯ ಮುಖ್ಯ ಘಟನೆಗಳು",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಂಕ್ಷಿಪ್ತ ನಾಡಿ ಸೂತ್ರಗಳು ಮತ್ತು ಜೀವಿತಾವಧಿಯ ಮುಖ್ಯ ಘಟನೆಗಳು - Classical edition under Astrology Books.",
+                        "price": 250,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-123": {
+                        "title": "ಸಾಮುದ್ರಿಕಾ ಸಮುಚ್ಛಯ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಾಮುದ್ರಿಕಾ ಸಮುಚ್ಛಯ - Classical edition under Astrology Books.",
+                        "price": 450,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-18": {
+                        "title": "ಹಸ್ತ ಸಾಮುದ್ರಿಕ ಫಲಶಾಸ್ತ್ರ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಹಸ್ತ ಸಾಮುದ್ರಿಕ ಫಲಶಾಸ್ತ್ರ - Classical edition under Astrology Books.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-70": {
+                        "title": "ಹೋರಾ ತಂತ್ರ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಹೋರಾ ತಂತ್ರ - Classical edition under Astrology Books.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-204": {
+                        "title": "ಹೋರಾತಂತ್ರ",
+                        "sanskrit": "JYOTISHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಹೋರಾತಂತ್ರ - Classical edition under Astrology Books.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-178": {
+                        "title": "ನಿಮ್ಮ ಮನೆ ವಾಸ್ತು ನೀವೇ ನೋಡಿಕೊಳ್ಳಿ",
+                        "sanskrit": "VASTU",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಿಮ್ಮ ಮನೆ ವಾಸ್ತು ನೀವೇ ನೋಡಿಕೊಳ್ಳಿ - Classical edition under Vastu Shastra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-160": {
+                        "title": "ನಿಮ್ಮ ಮನೆಗೆ ನೀವೇ ಇಂಜಿನಿಯರ್",
+                        "sanskrit": "VASTU",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಿಮ್ಮ ಮನೆಗೆ ನೀವೇ ಇಂಜಿನಿಯರ್ - Classical edition under Vastu Shastra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-153": {
+                        "title": "ವರ್ಗ ಸಮೀಕ್ಷೆ",
+                        "sanskrit": "VASTU",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವರ್ಗ ಸಮೀಕ್ಷೆ - Classical edition under Vastu Shastra.",
+                        "price": 440,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-4": {
+                        "title": "ವಾಸ್ತು ಶಾಸ್ತ್ರ ರೀತ್ಯ ಆಯಾದಿ ವರ್ಗಗಣಿತ",
+                        "sanskrit": "VASTU",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವಾಸ್ತು ಶಾಸ್ತ್ರ ರೀತ್ಯ ಆಯಾದಿ ವರ್ಗಗಣಿತ - Classical edition under Vastu Shastra.",
+                        "price": 475,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-95": {
+                        "title": "ವೈಜ್ಞಾನಿಕ ವಾಸ್ತು ಶಾಸ್ತ್ರದ ಅದ್ಭುತ ಪ್ರಶ್ನೋತ್ತರಗಳು",
+                        "sanskrit": "VASTU",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವೈಜ್ಞಾನಿಕ ವಾಸ್ತು ಶಾಸ್ತ್ರದ ಅದ್ಭುತ ಪ್ರಶ್ನೋತ್ತರಗಳು - Classical edition under Vastu Shastra.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-151": {
+                        "title": "ಸಶಾಸ್ತ್ರೀಯ ವಾಸ್ತು",
+                        "sanskrit": "VASTU",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಶಾಸ್ತ್ರೀಯ ವಾಸ್ತು - Classical edition under Vastu Shastra.",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-149": {
+                        "title": "ಅಷ್ಟಮಂಗಲ ಪ್ರಶ್ನ ದೀಪಿಕಾ",
+                        "sanskrit": "PRASHNA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಅಷ್ಟಮಂಗಲ ಪ್ರಶ್ನ ದೀಪಿಕಾ - Classical edition under Prashna Shastra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-121": {
+                        "title": "ನಿಮ್ಮ ಪ್ರಶ್ನೆಗೆ ಆಂಜನೇಯನ ಉತ್ತರ",
+                        "sanskrit": "PRASHNA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಿಮ್ಮ ಪ್ರಶ್ನೆಗೆ ಆಂಜನೇಯನ ಉತ್ತರ - Classical edition under Prashna Shastra.",
+                        "price": 100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-210": {
+                        "title": "ಪ್ರಶ್ನ ಚಂಡೇಶ್ವರ",
+                        "sanskrit": "PRASHNA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪ್ರಶ್ನ ಚಂಡೇಶ್ವರ - Classical edition under Prashna Shastra.",
+                        "price": 70,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-110": {
+                        "title": "ಪ್ರಶ್ನ ಸಂಜೀವಿನಿ",
+                        "sanskrit": "PRASHNA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪ್ರಶ್ನ ಸಂಜೀವಿನಿ - Classical edition under Prashna Shastra.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-30": {
+                        "title": "ಪ್ರಶ್ನಮಾರ್ಗ ಶ್ಲೋಕ ಸಂಗ್ರಹ",
+                        "sanskrit": "PRASHNA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪ್ರಶ್ನಮಾರ್ಗ ಶ್ಲೋಕ ಸಂಗ್ರಹ - Classical edition under Prashna Shastra.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-152": {
+                        "title": "ಪ್ರಶ್ನೆ ಸಂದೇಶ ದೇವ ಪ್ರಶ್ನೆ",
+                        "sanskrit": "PRASHNA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪ್ರಶ್ನೆ ಸಂದೇಶ ದೇವ ಪ್ರಶ್ನೆ - Classical edition under Prashna Shastra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-98": {
+                        "title": "ನೇಮಲಜಿ",
+                        "sanskrit": "SANKHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಂಖ್ಯಾಶಾಸ್ತ್ರದಲ್ಲಿ ಅಕ್ಷರಗಳ ವಿಜ್ಞಾನ ಅಕ್ಷರಗಳ ಸ್ಥಾನ ಹೆಸರಿನಲ್ಲಿ ಏನೇನಿದೆ ನಾಮಕರಣ ಮಾಡುವಾಗ ಸಂಸ್ಕಾರದಲ್ಲಿ ಹೆಸರು ಹೇಗೆ ಇಡಬೇಕು ಹೇಗೆ ನಾಮಾಂಕಿತವನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು ಹೆಸರಿನಿಂದ ಹೇಗೆ ಭಾಗ್ಯ ಬದಲಾಗುತ್ತೆ ಹೆಸರುಗಳಿಗೆ ಹೇಗೆ ಶತ್ರು ಹೆಸರುಗಳು ಇರುತ್ತೆ ಸೂಕ್ತ ಸಂಗಾತಿಯಾಗಿ ಸಿಕ್ತಾರೆ ವಿದ್ಯೆ ಉದ್ಯೋಗ ಹೆಸರು ಗೌರವ ಎಲ್ಲ ಹೇಗೆ ಸಂಪಾದನೆ ಆಗುತ್ತೆ ಎಂಬುದನ್ನು ಇದರಲ್ಲಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-211": {
+                        "title": "ಭವಿಷ್ಯ ನುಡಿಯುವ ಸಂಖ್ಯೆಗಳು",
+                        "sanskrit": "SANKHYA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಭವಿಷ್ಯ ನುಡಿಯುವ ಸಂಖ್ಯೆಗಳು - Classical edition under Numerology.",
+                        "price": 170,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-193": {
+                        "title": "ಅಷ್ಟಕರ್ಮಯುಕ್ತ ಸಿದ್ಧ ಶಾಬರ ಮಂತ್ರ ಪ್ರಯೋಗ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಅಷ್ಟಕರ್ಮಯುಕ್ತ ಸಿದ್ಧ ಶಾಬರ ಮಂತ್ರ ಪ್ರಯೋಗ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-57": {
+                        "title": "ಆಶೀರ್ವಚನ ಮಂತ್ರಃ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಶೀರ್ವಚನ ಮಂತ್ರಃ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 430,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-7": {
+                        "title": "ಉಡ್ಡೀಶಾ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಉಡ್ಡೀಶಾ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-137": {
+                        "title": "ಕಾಕ ಚಂಡೀಶ್ವರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕಾಕ ಚಂಡೀಶ್ವರ ತಂತ್ರ ಎಂಬ ಗ್ರಂಥದಲ್ಲಿ ಗಿಡಮೂಲಿಕ ಔಷಧಿಗಳೊಂದಿಗೆ ವಿವಿಧ ಮಂತ್ರಗಳು ತಾಂತ್ರಿಕ ಕ್ರಿಯೆಗಳ ಸಾಧನೆಯ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-85": {
+                        "title": "ಕಾಕಚಂಡೀಶ್ವರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕಾಕಚಂಡೀಶ್ವರ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-112": {
+                        "title": "ಕಾರ್ತವೀರ್ಯಾರ್ಜುನ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಧುನಿಕ ಪ್ರಪಂಚದಲ್ಲಿ ಅನೇಕ ಕಷ್ಟ ನೋವುಗಳಿಗೂ ನಿವಾರಣೋಪಾಯಗಳನ್ನ ತೋರಿಸುವುದಾಗಿ ಇದರಲ್ಲಿ ಮಂತ್ರ ಕವಚ ಅದ್ಬುತವಾದ ಪ್ರಭಾವವನ್ನು ತೋರಿಸಬಲ್ಲವು ಶತ್ರು ಬಾದೆ ಚೋರ ಬಾದೆ ವಿಘ್ನಗಳು ಕಾರ್ಯ ನಷ್ಟ ವ್ಯಾಘ್ರಗಳಿಂದ ಜಂತುಗಳಿಂದ ಬಾದೆ ಇನ್ನು ಅನೇಕ ವಿಧವಾದಂತ ತೊಂದರೆಗೆ ಈ ತಂತ್ರವನ್ನು ಉಪಯೋಗಿಸಲಾಗುತ್ತದೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-2": {
+                        "title": "ಕಾಳಿ ಉಪಾಸನಾ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕಾಳಿ ಉಪಾಸನಾ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-5": {
+                        "title": "ಗಣಪತಿ ಮಂತ್ರೋಪಾಸನ ದೀಪಿಕಾ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಗಣಪತಿ ಮಂತ್ರೋಪಾಸನ ದೀಪಿಕಾ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 450,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-32": {
+                        "title": "ಗಣಪತಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಗಣಪತಿಯ ಪೂಜೆ ಗಣಪತಿಯ ಚಿಂತನೆ ಚತುರ್ಥಿ ವ್ರತ ಕಥೆ ಹಲವಾರು ಗಣಪತಿಗಳ ಪೂಜೆ ಯಂತ್ರ ಮಂತ್ರಗಳ ವಿಧಾನವನ್ನು ಈ ಪುಸ್ತಕದಲ್ಲಿ ನೋಡಬಹುದು",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-184": {
+                        "title": "ಗಣಪತಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಗಣಪತಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-12": {
+                        "title": "ಡಾಮರ ತಂತ್ರ ರಹಸ್ಯ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಂತ್ರ ಮಂತ್ರ ಭೈರವ ಸಿದ್ದಿ ಯಕ್ಷ ಯಕ್ಷಣಿ ಸಾಧನೆ ಮಾಡುವ ಬಗ್ಗೆ ಮಹಾ ಚಂಡ ಕಾತ್ಯಾಯಿನಿ ಮಂತ್ರ ಸಾಧನೆ ಬಗ್ಗೆ ವಶೀಕರಣ ಪುರುಷ ವಶೀಕರಣ ಆಕರಶನ ಮೋಹನ ವಿದ್ವೇಶನ ಉಚ್ಚಾಟನ ಸ್ತಂಭನ ಡಾಮರ ಮಾರಣ ಕಾರಕ ರೋಗ ನಿವಾರಕದ ಬಗ್ಗೆ ವಿಸ್ತಾರವಾಗಿ ತಿಳಿಸಿದ್ದಾರೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-212": {
+                        "title": "ತಂತ್ರ ಕುಸುಮಾಂಜಲಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ತಂತ್ರ ಕುಸುಮಾಂಜಲಿ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 600,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-147": {
+                        "title": "ತಂತ್ರ ಸಾಧನ ರಹಸ್ಯ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ತಂತ್ರ ಸಾಧನ ರಹಸ್ಯ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-200": {
+                        "title": "ತಂತ್ರದ ಮೂಲಕ ಮನೋಕಾಮನೆಗಳ ಪ್ರಾಪ್ತಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಂತ್ರಗಳು ತಂತ್ರಗಳು ತಂತ್ರ ಎಂದರೇನು? ತಂತ್ರದ ವಿಚಾರಗಳು ದೇವಿಯ ಯಂತ್ರಗಳು ದಶಮಾವಿದ್ಯ ಸಿದ್ಧಿಯ ಬಗ್ಗೆ ರಕ್ಷಣೆಯ ಬಗ್ಗೆ ಗಾಯಿತ್ರಿ ಮಂತ್ರ ಸಿದ್ಧಿಯ ಬಗ್ಗೆ ವಿಭಿನ್ನ ಪ್ರಭಾವಶಾಲಿ ಮಂತ್ರಗಳ ಬಗ್ಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಇದರಲ್ಲಿ ತಿಳಿಸಲಾಗಿದೆ",
+                        "price": 220,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-107": {
+                        "title": "ತಾರಾ ಪ್ರತ್ಯಂಗಿರಾ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ತಾರಾದೇವಿಯ ಬಗ್ಗೆ ವೈಜ್ಞಾನಿಕವಾಗಿ ತಾರಾದೇವಿ ಆರಾಧನೆ ಧ್ಯಾನ ಕವಚ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರಗಳು ಪ್ರತ್ಯಂಗಿರಾ ದೇವಿಯ ಆರಾಧನೆ ಬಗ್ಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-115": {
+                        "title": "ತಾರಾ ಪ್ರತ್ಯಂಗಿರಾ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ತಾರಾ ಪ್ರತ್ಯಂಗಿರಾ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-179": {
+                        "title": "ನಿರ್ವಾಣ ತಂತ್ರಮ್",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಿರ್ವಾಣ ತಂತ್ರಮ್ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-195": {
+                        "title": "ಪ್ರಾಚೀನ ಅಸಲಿ ಇಂದ್ರಜಾಲ ಮಹೇಂದ್ರಜಾಲ ವಿದ್ಯೆ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪ್ರಾಚೀನ ಅಸಲಿ ಇಂದ್ರಜಾಲ ಮಹೇಂದ್ರಜಾಲ ವಿದ್ಯೆ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 230,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-141": {
+                        "title": "ಬಟುಕಭೈರವ ತಂತ್ರಕಲ್ಪಹ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಬಟುಕಭೈರವ ತಂತ್ರಕಲ್ಪಹ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 170,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-119": {
+                        "title": "ಬೃಹತ್ ಭೈರವ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಬೃಹತ್ ಭೈರವ ತಂತ್ರ ಯಂತ್ರಸಾದನೆ ರಹಸ್ಯ ತಂತ್ರಸಾದನೆ ಭೈರವನ ಆರಾಧನೆ ಮಾಡಲು ಭೈರವನ ಪೂಜೆ ಮಾಡಲು ಭೈರವನ ಬಗ್ಗೆ ಯಥೇಚ್ಛವಾಗಿ ತಿಳಿದುಕೊಳ್ಳಲು ಭೈರವನ ಉಪಾಸನೆ ಮಾಡಿಕೊಳ್ಳುವವರಿಗೆ ತುಂಬಾ ಅತ್ಯುತ್ತಮವಾದಂತ ಗ್ರಂಥ ಇದರಲ್ಲಿ ಭೈರವ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರಗಳು ಇವೆ",
+                        "price": 1200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-213": {
+                        "title": "ಬೃಹತ್ ಭೈರವ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಬೃಹತ್ ಭೈರವ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 120,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-185": {
+                        "title": "ಮಂತ್ರ ಮಂಜರಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಎಲ್ಲಾ ದೇವರ ಮಂತ್ರಗಳು ಹಾಗೂ ಎಲ್ಲಾ ಸೂಕ್ತಗಳು ಇರುವಂತ ಒಂದು ಗ್ರಂಥ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಮಂತ್ರಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 195,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-94": {
+                        "title": "ಮಂತ್ರಗಳ ಚಮತ್ಕಾರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮಂತ್ರಗಳ ಚಮತ್ಕಾರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-20": {
+                        "title": "ಮನೆಗೊಬ್ಬ ಮಾಂತ್ರಿಕ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಈ ಮನೆಗೊಬ್ಬ ಮಾಂತ್ರಿಕ ಎಂಬ ಪುಸ್ತಕದಲ್ಲಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ ಆಧಾರಿತ ದುರ್ಬಲ ಚಮತ್ಕಾರಿ ಪ್ರಯೋಗಗಳನ್ನು ಹೊಂದಿದೆ ದಿಗ್ಬಂಧನ ರೋಗ ನಿವಾರಣ ಸ್ತಂಭನ ಉಚ್ಛಾಟನಾ ಹಲವಾರು ಯಂತ್ರಗಳು ವಶೀಕರಣ ಪ್ರಯೋಗ ಪ್ರೇತವಾದ ನಿವಾರಣ ನೌಕರಿ ಪ್ರಾಪ್ತಿಗಾಗಿ ದಾರಿದ್ರ ನಾಶಕ್ಕೆ ಯಂತ್ರ ಇನ್ನೂ ಹಲವಾರು ರೀತಿಯ ಉಪಯೋಗಕ್ಕಾಗಿ ಈ ಪುಸ್ತಕ ಇದೆ",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-71": {
+                        "title": "ಮಲಯಾಳ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮಲಯಾಳ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-131": {
+                        "title": "ಮಲಯಾಳ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಕರ್ಷಣ ಮೋಹನ ಸ್ತಂಭನ ಉಚ್ಛಾಟನ ಮಾರಣ ವಶೀಕರಣ ಇತ್ಯಾದಿ ಕ್ರಿಯೆಗಳನ್ನ ಮಾಡಲು ಅದ್ಭುತವಾದ ಯಂತ್ರಗಳು ಮಂತ್ರಗಳು ತಂತ್ರದ ಜೊತೆಗೆ ಇರುವಂತಹ ಒಂದು ಸುಂದರ ಗ್ರಂಥ ಮಲಯಾಳ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ ಇದಾಗಿದೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-162": {
+                        "title": "ಮಹಾಪ್ರತ್ಯಂಗಿರಾ ಸಂಪುಟ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪ್ರತ್ಯಂಗಿರಾ ಹೋಮ ಪೂಜೆ ನ್ಯಾಸಗಳು ಯಂತ್ರಗಳು ಹಾಗೂ ಉಪಾಸನೆಯ ಬಗ್ಗೆ ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಸಿಕೊಡಲಾಗಿದೆ",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-158": {
+                        "title": "ಮೂಲಮಂತ್ರ ಪ್ರಯೋಗಃ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮೂಲಮಂತ್ರ ಪ್ರಯೋಗಃ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-133": {
+                        "title": "ಯಂತ್ರ ಕಟ್ಟು",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಂತ್ರ ಕಟ್ಟು - Classical edition under Yantra Mantra Tantra.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-161": {
+                        "title": "ಯಂತ್ರ ಚಿಂತಾಮಣಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಂತ್ರ ಚಿಂತಾಮಣಿ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-52": {
+                        "title": "ಯಂತ್ರ ಮಂತ್ರ ಆಂಜನೇಯ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಂತ್ರ ಮಂತ್ರ ಆಂಜನೇಯ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 270,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-145": {
+                        "title": "ಯಂತ್ರ ಮಂತ್ರ ಆಂಜನೇಯ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಂಜನೇಯ ಸ್ವಾಮಿಯ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ ವಿದ್ಯೆಯಿಂದ ನಿಮ್ಮ ಎಲ್ಲಾ ಸಮಸ್ಯೆಗಳಿಗೆ ಶೀಘ್ರ ಪರಿಹಾರ ಆಗುವಂತೆ ಈ ಗ್ರಂಥದಲ್ಲಿ ಸುಲಭವಾಗಿ",
+                        "price": 270,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item": {
+                        "title": "ಯಕ್ಷಿಣಿ ಸಂಪುಟ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಕ್ಷಿಣಿ ಸಂಪುಟ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 170,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-142": {
+                        "title": "ರೂಢಿಗತ ವಾಮಾಚಾರ ಪ್ರಯೋಗ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ರೂಢಿಗತ ವಾಮಾಚಾರ ಪ್ರಯೋಗ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-3": {
+                        "title": "ವಾಮಕೇಶ್ವರಿ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವಾಮಕೇಶ್ವರಿ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 110,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "1-2-2": {
+                        "title": "ವಿಜ್ಞಾನ ಭೈರವ ತಂತ್ರ ಭಾಗ 1 ಮತ್ತು 2",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವಿಜ್ಞಾನ ಭೈರವ ತಂತ್ರ ಭಾಗ 1 ಮತ್ತು 2 - Classical edition under Yantra Mantra Tantra.",
+                        "price": 1800,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-35": {
+                        "title": "ಶಾಬರ ಮಂತ್ರ ಪ್ರಯೋಗ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶಾಬರ ಮಂತ್ರ ಪ್ರಯೋಗ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-187": {
+                        "title": "ಶಾರದಾ ತಿಲಕ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶಾರದಾ ತಿಲಕ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 1200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-25": {
+                        "title": "ಶೀಘ್ರ ಫಲದಾಯಕ ಪುರಾತನ ಮಂತ್ರ ರಹಸ್ಯ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಗಣೇಶ ಮಂತ್ರ ಸಿದ್ಧಿ ಭೈರವ ಮಂತ್ರ ಸಿದ್ಧಿ ಹನುಮಾನ್ ಸಾಧನೆ ಸಕಲ ಶತ್ರು ದೋಷ ನಿವಾರಣೆಗೆ ಸಾಧನೆಯ ರಕ್ಷಾ ಕವಚ ರಕ್ಷಾ ಯಂತ್ರಗಳು ಪ್ರತ್ಯಂಗಿರಾ ದೇವಿ ಮೃತ್ಯು ನಾಶಕ ಯಂತ್ರಗಳು ಯೋಗಿಣಿ ಸಾಧನೆ ಕುಬೇರ ಯಕ್ಷಣಿ ಹಾಗೂ ಇನ್ನು ಹಲವಾರು ಯಂತ್ರ ಮಂತ್ರ ಸಾಧನೆಗಳ ಬಗ್ಗೆ ವಿಸ್ತಾರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-167": {
+                        "title": "ಶೀಘ್ರ ಫಲದಾಯಕ ಪುರಾತನ ಮಂತ್ರ ರಹಸ್ಯ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶೀಘ್ರ ಫಲದಾಯಕ ಪುರಾತನ ಮಂತ್ರ ರಹಸ್ಯ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-157": {
+                        "title": "ಶ್ರೀ ದತ್ತಾತ್ರೇಯ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸರ್ವ ರೀತಿಯ ಉಪಕಾರಿಯಾದಂತ ಮಂತ್ರಗಳು ಪ್ರಯೋಗಗಳು ಮಾರಣ ವಶೀಕರಣ ಸ್ಮ್ಬನ ವಿದ್ವೇಶನ ದೃಷ್ಟಿ ಸ್ತಂಭನ ಆಕರ್ಷಣ ಶರೀರ ಲಕ್ಷಣ ತಾರಾ ದರ್ಶನ ಸೂರ್ಯತ ದರ್ಶನ ಜಯ ಮತ್ತು ವಿಜಯ ವರ್ಣ ರಕ್ಷಣೆ ಸಾಧನ ಯಕ್ಷರಾಜ ನಿವೇದನ ಕುಬೇರ ಪ್ರಯೋಗ ಇತ್ಯಾದಿ ತಂತ್ರ ಸಾಧನ ರಹಸ್ಯಗಳ ಬಗ್ಗೆ ವಿಸ್ತಾರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 120,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-69": {
+                        "title": "ಶ್ರೀ ದತ್ತಾತ್ರೇಯ ಮಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ದತ್ತಾತ್ರೇಯ ಮಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 120,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-198": {
+                        "title": "ಶ್ರೀ ದುರ್ಗಾ ಸಪ್ತಶತಿಯ ಮಂತ್ರ ಪ್ರಯೋಗ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ದುರ್ಗಾ ಸಪ್ತಶತಿಯ ಮಂತ್ರ ಪ್ರಯೋಗ ಇದರಿಂದ ಆರೋಗ್ಯ ಆಯಸ್ಸು ಐಶ್ವರ್ಯ ಎಲ್ಲವನ್ನ ಪಡೆಯುವ ಬಗ್ಗೆ ಹಾಗೂ ದುರ್ಗಾ ಸಪ್ತಶತಿಯಲ್ಲಿ ಬರುವ ಮಂತ್ರಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಇಷ್ಟಾರ್ಥ ಪದಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳುವ ಬಗ್ಗೆ ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಸಿದ್ದಾರೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-203": {
+                        "title": "ಶ್ರೀ ಬಾಲಾ ತಂತ್ರಂ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಬಾಲಾ ತಂತ್ರಂ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 250,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-54": {
+                        "title": "ಶ್ರೀ ಮಂತ್ರ ರಹಸ್ಯ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಮಂತ್ರ ರಹಸ್ಯ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-42": {
+                        "title": "ಶ್ರೀ ರೇಣುಕಾ ಪರಶುರಾಮ ತಂತ್ರಂ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ರೇಣುಕಾದೇವಿ ಶಬರಿ ಮಂತ್ರ ಪ್ರಯೋಗ ಡಾಮರೇಶ್ವರ ತಂತ್ರ ಪ್ರಯೋಗ ರೇಣುಕಾದೇವಿ ಖಡ್ಗಮಾಲಾ ರೇಣುಕಾ ಆರತಿ ಭಾರ್ಗವ ಕವಚ ಪರಶುರಾಮ ಸಹಸ್ರನಾಮ ಹೀಗೆ 184 ಪೆಟವನ್ನು ಹೊಂದಿರುವಂತಹ ಪುಸ್ತಕ ರೇಣುಕಾ ತಂತ್ರಂ ತುಂಬಾ ಅದ್ಭುತವಾಗಿದೆ",
+                        "price": 220,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-10": {
+                        "title": "ಶ್ರೀ ವಿದ್ಯಾ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ವಿದ್ಯಾ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-68": {
+                        "title": "ಶ್ರೀ ವಿದ್ಯಾ ಮಂತ್ರ ಯಂತ್ರ ತಂತ್ರ ರಹಸ್ಯಗಳು",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ವಿದ್ಯಾ ಮಂತ್ರ ಯಂತ್ರ ತಂತ್ರ ರಹಸ್ಯಗಳು - Classical edition under Yantra Mantra Tantra.",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-116": {
+                        "title": "ಶ್ರೀ ವಿದ್ಯಾ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ ರಹಸ್ಯ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ವಿದ್ಯಾ ಮಂತ್ರ ಯಂತ್ರ ತಂತ್ರ ರಹಸ್ಯ ತೆಲುಗು ವಿನಿಂದ ಕನ್ನಡಕ್ಕೆ ಅನುವಾದವಾಗಿದೆ",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-39": {
+                        "title": "ಶ್ರೀ ವಿದ್ಯಾ ಸಹಸ್ರಧಾರಾ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಗಣಪತಿ ಲಲಿತಾ ಬಾಲ ಶಾಮಲಾ ವಾರಾಹಿ ಲಕ್ಷ್ಮಿ ದುರ್ಗಾ ಶಕಂಬರಿ ಪ್ರತ್ಯಂಗಿರಾ ಅನ್ನಪೂರ್ಣ ಹಲವಾರು ಸಹಸ್ರನಾಮಗಳು ಹಾಗೂ ಹಲವಾರು ದೇವಿಯರ ಅಷ್ಟೋತ್ತರಗಳನ್ನ ಒಳಗೊಂಡಿದೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-122": {
+                        "title": "ಶ್ರೀ ವಿದ್ಯಾನುಸಂಧಾನ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ವಿದ್ಯಾನುಸಂಧಾನ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 80,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-79": {
+                        "title": "ಶ್ರೀ ವಿದ್ಯಾಸಪರ್ಯ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀಚಕ್ರ ಪೂಜಾ ಪದ್ದತಿ ಶ್ರೀ ವಿದ್ಯೆಯಲ್ಲಿ ಎಲ್ಲಾ ರೀತಿಯ ಪೂಜೆಗಳನ್ನು ಮಾಡುವ ವಿಧಾನ ಮಂತ್ರ ದೀಕ್ಷೆ ಗುರುಲಕ್ಷಣ ದೀಕ್ಷಾ ಕ್ರಮಗಳು ಹಾಗೂ ಸಕಲ ದೇವತಾ ಪೂಜೆ ಮಂತ್ರ ತಂತ್ರಗಳನ್ನು ಇದರಲ್ಲಿ ಕೊಡಲಾಗಿದೆ",
+                        "price": 700,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-180": {
+                        "title": "ಶ್ರೀಚಕ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀಚಕ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 50,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-135": {
+                        "title": "ಶ್ರೀಚಕ್ರ ದಶಮಹಾವಿದ್ಯಾ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀಚಕ್ರ ದಶಮಹಾವಿದ್ಯಾ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 999,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-44": {
+                        "title": "ಶ್ರೀಚಕ್ರ ದಶಮಹಾವಿದ್ಯಾಃ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀಚಕ್ರ ದಶಮಹಾವಿದ್ಯಾಃ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 999,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-146": {
+                        "title": "ಶ್ರೀಚಕ್ರ ನವಾವರಣ ವಿಧಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀದೇವಿ ಕಡಗಮಾಲಾ ಹಾಗೂ ಶ್ರೀಚಕ್ರ ಲಘು ಪೂಜಾ ವಿಧಿ ಸಹಿತವಾಗಿ ಶ್ರೀಚಕ್ರ ನವಾವರಣ ಪೂಜೆ ಮಾಡುವ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 450,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-89": {
+                        "title": "ಶ್ರೀಚಕ್ರ ಯಂತ್ರ ರಾಜ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "234 ಯಂತ್ರಗಳ ಬೃಹತ್ ಯಂತ್ರ ಕೋಶ ವಿವಾಹ ಉದ್ಯೋಗ ವ್ಯಾಜ್ಯ ಆಕರಕ್ಷಣೆ ಸೌಭಾಗ್ಯ ಪ್ರಾಪ್ತಿಗೆ ಮೃತ್ಯುಂಜಯ ಅಧಿಕಾರ ಧನಪ್ರಾಪ್ತಿ ಸಂತಾನ ಮಾಟ ಮಂತ್ರ ಹೀಗೆ ಹಲವಾರು ದೋಷಗಳಿಗೆ ಪರಿಹಾರವನ್ನು ಹೊಂದಿರುವಂತಹ ಪೂಜಾ ಯಂತ್ರ ಮತ್ತು ಧಾರಣ ಯಂತ್ರಗಳನ್ನು ಹೊಂದಿರುವ ಅದ್ಭುತ ಗ್ರಂಥ",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-111": {
+                        "title": "ಶ್ರೀಚಕ್ರ-ಶ್ರೀಚಕ್ರೇಶ್ವರಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀಚಕ್ರ-ಶ್ರೀಚಕ್ರೇಶ್ವರಿ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-165": {
+                        "title": "ಷೋಡಶ ನಿತ್ಯ ಯಂತ್ರ ಸಾಧನೆ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಷೋಡಶಾ ನಿತ್ಯ ಯಂತ್ರ ಸಾಧನೆ ಇನ್ನೂರ ಒಂದು ಮಹತ್ವಪೂರ್ಣವಾದಂತ ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿಯಾದಂತ ಯಂತ್ರಗಳ ಪ್ರಭಾವ ಹೊಂದಿರುವಂತ ಪುಸ್ತಕ",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-59": {
+                        "title": "ಸಕಲ ದೇವತಾ ಗಾಯಿತ್ರಿ ಮಂತ್ರಗಳು",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಕಲ ದೇವತಾ ಗಾಯಿತ್ರಿ ಮಂತ್ರಗಳು - Classical edition under Yantra Mantra Tantra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-74": {
+                        "title": "ಸಟಟೀಕ ಮಂತ್ರ ಮಹೋದಧಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಟಟೀಕ ಮಂತ್ರ ಮಹೋದಧಿ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 999,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-101": {
+                        "title": "ಸಟೀಕ ಮಂತ್ರ ಮಹೋದಧಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ದಶಮ ಮಹಾದೇವಿಯರಾದ ತಾರಾ ಕಾಳಿ ಚಿನ್ನಮಸ್ತಾದೇವಿ ಕಾಮಾಕ್ಯದೇವಿಕರಣ ಜ್ವಾಲಾ ಮಾಲಿನಿ ಬಾಲಾ ತ್ರಿಪುರ ಸುಂದರಿ ಪ್ರತ್ಯಂಗಿರಾ ಕ್ಷೇತ್ರಪಾಲ ವಾರ ದೇವಿ ಇನ್ನು ಹಲವಾರು ದೇವರ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ ಸಾಧನ ಪ್ರಯೋಗಗಳನ್ನು ವಿಸ್ತಾರವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 999,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-102": {
+                        "title": "ಸಟೀಕ ಮಂತ್ರಮಹೋದಧಿ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಟೀಕ ಮಂತ್ರಮಹೋದಧಿ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 999,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-77": {
+                        "title": "ಸುಲೇಮಾನಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸುಲೇಮಾನಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-208": {
+                        "title": "ಸುಲೇಮಾನಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸುಲೇಮಾನಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ ಎಂಬ ಗ್ರಂಥದಲ್ಲಿ 256 ಯಂತ್ರಗಳ ಬೃಹತ್ ಸಂಗ್ರಹ ಸರಳ ಪರಿಹಾರಗಳನ್ನ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-23": {
+                        "title": "ಹನುಮಾನ್ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                        "sanskrit": "TANTRA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಹನುಮಾನ್ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ - Classical edition under Yantra Mantra Tantra.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-9": {
+                        "title": "ಆಶ್ಲೇಷ ಬಲಿ ಸರ್ಪ ಬಲಿ ಕಾಳ ಸರ್ಪಯೋಗ ಶಾಂತಿ",
+                        "sanskrit": "SHANTI",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಶ್ಲೇಷ ಬಲಿ ಸರ್ಪ ಬಲಿ ಕಾಳ ಸರ್ಪಯೋಗ ಶಾಂತಿ - Classical edition under Remedies & Shanti.",
+                        "price": 90,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-129": {
+                        "title": "ಕರ್ಮ ವಿಪಾಕ ಸಂಹಿತಾ",
+                        "sanskrit": "SHANTI",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕರ್ಮ ವಿಪಾಕ ಸಂಹಿತಾ - Classical edition under Remedies & Shanti.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-202": {
+                        "title": "ಕುಜ ದೋಷ ವಿವೇಚನೆ",
+                        "sanskrit": "SHANTI",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕುಜ ದೋಷ ವಿವೇಚನೆ - Classical edition under Remedies & Shanti.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-72": {
+                        "title": "ಜಾತಕ ಪರಿಹಾರ",
+                        "sanskrit": "SHANTI",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಜಾತಕ ಪರಿಹಾರ - Classical edition under Remedies & Shanti.",
+                        "price": 450,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-134": {
+                        "title": "ನವಗ್ರಹ ಶಾಂತಿ ಕಲ್ಪ",
+                        "sanskrit": "SHANTI",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನವಗ್ರಹ ಶಾಂತಿ ಕಲ್ಪ - Classical edition under Remedies & Shanti.",
+                        "price": 250,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-13": {
+                        "title": "ಪಿತೃ ದೋಷ ಕಾರಣ ಪರಿಹಾರ",
+                        "sanskrit": "SHANTI",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪಿತೃ ದೋಷ ಕಾರಣ ಪರಿಹಾರ - Classical edition under Remedies & Shanti.",
+                        "price": 70,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-186": {
+                        "title": "ಶಾಪ ದೋಷ ಪರಿಹಾರ ಪ್ರಕಾಶ",
+                        "sanskrit": "SHANTI",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶಾಪ ದೋಷ ಪರಿಹಾರ ಪ್ರಕಾಶ - Classical edition under Remedies & Shanti.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-194": {
+                        "title": "ಸಪ್ರಯೋಗ ಶಾಂತಿ ಚಂದ್ರಿಕಾ",
+                        "sanskrit": "SHANTI",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಪ್ರಯೋಗ ಶಾಂತಿ ಚಂದ್ರಿಕಾ - Classical edition under Remedies & Shanti.",
+                        "price": 450,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-87": {
+                        "title": "ಅಥರ್ವಣ ವೇದ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಅಥರ್ವಣ ವೇದ ಅದರ ವಿಸ್ತಾರವಾದಂತ ಗ್ರಂಥಗಳು ಆರು ಪುಸ್ತಕಗಳು ತುಂಬಾ ವಿಸ್ತಾರವಾಗಿ ಮಂತ್ರ ಸಹಿತವಾಗಿ ಇದೆ",
+                        "price": 1950,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-201": {
+                        "title": "ಆಧುನಿಕ ಕಾಲಕ್ಕೆ ವೇದ ಜ್ಞಾನ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಧುನಿಕ ಕಾಲಕ್ಕೆ ವೇದ ಜ್ಞಾನ - Classical edition under Vedas & Agamas.",
+                        "price": 100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-36": {
+                        "title": "ಋಗ್ವೇದ ದೇವತಾರ್ಚನ ವಿಧಿ:",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವರ್ಷದಲ್ಲಿ ಬರುವಂತ ಎಲ್ಲಾ ಹಬ್ಬಗಳ ಮಂತ್ರಗಳ ವಿವರಣೆಯೊಂದಿಗೆ ಸಂಪೂರ್ಣ ನವಗ್ರಹ ಪೂಜೆ ಸೂಕ್ತಗಳು ಹಾಗೂ ನವಗ್ರಹ ಶಾಂತಿ ಪೂಜೆಗಳನ್ನ ಮಾಡಲು",
+                        "price": 280,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-170": {
+                        "title": "ಋಗ್ವೇದ ಪ್ರಯೋಗ ದೀಪಿಕಾ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಋಗ್ವೇದ ಪ್ರಯೋಗ ದೀಪಿಕಾ - Classical edition under Vedas & Agamas.",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-76": {
+                        "title": "ಋಗ್ವೇದಿಯ ಪ್ರಯೋಗ ಸಂಪುಟ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಗಣಪತಿ ಪೂಜೆ ಸ್ವಸ್ತಿವಾಚನ ನಾಂದೇ ಅಗ್ನಿ ಮೂಕ ಪ್ರಯೋಗ ಅಂಕುರಾರ್ಪಣ ಉದಕ ಶಾಂತಿ ಗರ್ಭದಾನ ಪ್ರಯೋಗ ಶೋಡ ಸಂಸ್ಕಾರಗಳ ಬಗ್ಗೆ ಪ್ರಯೋಗ ಸೂಕ್ತಗಳು ವಿಸ್ತಾರವಾಗಿ ಹಲವಾರು ವಿಚಾರಗಳನ್ನು ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-99": {
+                        "title": "ಋಗ್ವೇದಿಯ ಸೂಕ್ತ ಸೌರಭ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಋಗ್ವೇದಿಯ ಸೂಕ್ತ ಸೌರಭ - Classical edition under Vedas & Agamas.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-61": {
+                        "title": "ಯಜುರ್ವೇದ ಉಪಾಕರ್ಮ ಪ್ರಯೋಗಃ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಜುರ್ವೇದ ಉಪಾಕರ್ಮ ಪ್ರಯೋಗಃ - Classical edition under Vedas & Agamas.",
+                        "price": 125,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-84": {
+                        "title": "ಯಜುರ್ವೇದಿಯ ಉಪಕರ್ಮ ಪ್ರಯೋಗ ವಿಧಾನಮ್",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಜುರ್ವೇದಿಯ ಉಪಕರ್ಮ ಪ್ರಯೋಗ ವಿಧಾನಮ್ - Classical edition under Vedas & Agamas.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-190": {
+                        "title": "ಯಜುರ್ವೇದಿಯ ಪಿತೃಮೇದಿಕ ಪ್ರಯೋಗ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪ್ರಥಮ ದಿನದಿಂದ ಆರಂಭವಾಗಿ 14 ದಿನಗಳವರೆಗೂ ಮಾಡುವಂತಹ ಪಿತೃ ಕಾರ್ಯಗಳ ಪ್ರಯೋಗದ ತಂತ್ರ ಸಹಿತವಾಗಿ ಮಂತ್ರ ಮತ್ತು ವಿಧಾನವನ್ನು ತುಂಬ ವಿಸ್ತಾರವಾಗಿ ಬರೆಯಲಾಗಿದೆ",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-65": {
+                        "title": "ಯಜುರ್ವೇದೀಯ ಪಿತೃಮೇಧಿಕ ಪ್ರಯೋಗಃ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಜುರ್ವೇದೀಯ ಪಿತೃಮೇಧಿಕ ಪ್ರಯೋಗಃ - Classical edition under Vedas & Agamas.",
+                        "price": 1500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-118": {
+                        "title": "ಯಜುರ್ವೇದೀಯ ಪಿತೃಮೇಧಿಕ ಪ್ರಯೋಗಃ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಜುರ್ವೇದೀಯ ಪಿತೃಮೇಧಿಕ ಪ್ರಯೋಗಃ - Classical edition under Vedas & Agamas.",
+                        "price": 1500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-83": {
+                        "title": "ಯಾಜುಷ ಪ್ರಯೋಗ ರತ್ನಮಾಲಾ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಾಜುಷ ಪ್ರಯೋಗ ರತ್ನಮಾಲಾ - Classical edition under Vedas & Agamas.",
+                        "price": 280,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-53": {
+                        "title": "ಯಾಜುಷ ಸೂಕ್ತ ಸೌರಭ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯಾಜುಷ ಸೂಕ್ತ ಸೌರಭ - Classical edition under Vedas & Agamas.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-16": {
+                        "title": "ವೇದ ವಸಂತ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವೇದ ವಸಂತ - Classical edition under Vedas & Agamas.",
+                        "price": 81,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-75": {
+                        "title": "ವೇದ ಸಂವತ್ಸರ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವೇದ ಸಂವತ್ಸರ - Classical edition under Vedas & Agamas.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-166": {
+                        "title": "ಶೈವಾಗಮಾನುಸಾರ ನಿತ್ಯಾರ್ಚನವಿಧಿ",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶೈವಾಗಮಾನುಸಾರ ನಿತ್ಯಾರ್ಚನವಿಧಿ - Classical edition under Vedas & Agamas.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-33": {
+                        "title": "ಸಾಮವೇದ ಪೂರ್ವ ಮತ್ತು ಉತ್ತರಾರ್ಚಿಕ ಎರಡು ಪುಸ್ತಕಗಳು",
+                        "sanskrit": "SAMHITA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಾಮವೇದ ಅಧ್ಯಯನ ಮಾಡಲು ಎರಡು ಪುಸ್ತಕಗಳು",
+                        "price": 900,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-216": {
+                        "title": "ಅಗ್ನಿಮುಖ ಪ್ರಕಾಶ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಅಗ್ನಿಮುಖ ಪ್ರಕಾಶ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 175,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-56": {
+                        "title": "ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 70,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-46": {
+                        "title": "ಆಶ್ಲೇಷ ಕಲ್ಪ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಶ್ಲೇಷ ಕಲ್ಪ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 225,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-26": {
+                        "title": "ಆಶ್ವಾಲಯನ ಪೈತೃಮೇದಿಕ ಮೇದಿಕೆ ಪ್ರಯೋಗ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಶ್ವಾಲಯನ ಪೈತೃಮೇದಿಕ ಮೇದಿಕೆ ಪ್ರಯೋಗ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-81": {
+                        "title": "ಉತ್ಸವ ತರಂಗಿಣಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಉತ್ಸವ ತರಂಗಿಣಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-60": {
+                        "title": "ಕಲ್ಯಾಣೋತ್ಸವ ಕೌಮುದಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕಲ್ಯಾಣೋತ್ಸವ ಕೌಮುದಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 90,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-93": {
+                        "title": "ಕಲ್ಯಾಣೋತ್ಸವ ದೀಪಿಕಾ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕಲ್ಯಾಣೋತ್ಸವ ದೀಪಿಕಾ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-197": {
+                        "title": "ಕಾಮ್ಯ ಪ್ರಕಾಶ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಕಾಮ್ಯ ಪ್ರಕಾಶ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-169": {
+                        "title": "ದೀಪ ಸಂಪುಟ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ದೀಪ ಸಂಪುಟ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-214": {
+                        "title": "ದೇವತಾರ್ಚನ ವಿಧಿಹಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ದೇವತಾರ್ಚನ ವಿಧಿಹಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-51": {
+                        "title": "ದೇವಪ್ರತಿಷ್ಟಾ ಚೂಡಾವಣಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ದೇವಪ್ರತಿಷ್ಟಾ ಚೂಡಾವಣಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-103": {
+                        "title": "ದೇವಪ್ರತಿಷ್ಠಾ ಚೂಡಾಮಣಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ದೇವಪ್ರತಿಷ್ಠಾ ಚೂಡಾಮಣಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-62": {
+                        "title": "ನಿತ್ಯ ಪಂಚಾಯತನ ದೇವತಾರ್ಚನ ವಿಸ್ತರಣೀಯಮ್",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "244 ಪುಟಗಳ ಡಾಕ್ಟರ್ ಎಸ್ ರಾಮಮೂರ್ತಿ ಶರ್ಮಾ ಅವರ ಮಹಾನ್್ಯಾಸ ಲಘುನ್ಯಾಸ ಪಂಚ ಸೂಕ್ತ ದೀಪಾರಾಧನ ಲಘು ಅಷ್ಟಮದನ ಸೇವಾ ಸಹಿತಂ",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-55": {
+                        "title": "ನಿತ್ಯ ಪೂಜಾ ವಿಧಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಿತ್ಯ ಪೂಜಾ ವಿಧಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 50,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-183": {
+                        "title": "ನಿತ್ಯ ಸಂಸ್ಕಾರ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಾವು ನಿತ್ಯ ಈ ಆಧುನಿಕ ಯುಗದಲ್ಲಿ ಉಪಯುಕ್ತವೆನಿಸುವಂತಹ ಹಲವಾರು ಶಾಸ್ತ್ರ ಸಿದ್ಧವಾದಂತ ಸಂಸ್ಕಾರಗಳು ನಾವು ಮರೆತಿರುವಂಥ ಒಂದಷ್ಟು ಸಂಸ್ಕಾರಗಳನ್ನ ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಸಿಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 170,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-22": {
+                        "title": "ಪಂಚ ದುರ್ಗಾ ದೀಪ ನಮಸ್ಕಾರ ವಿಧಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪಂಚ ದುರ್ಗಾ ದೀಪ ನಮಸ್ಕಾರ ವಿಧಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-49": {
+                        "title": "ಪುರಾಣೋಕ್ತ ಪ್ರಯೋಗ ಸಂಗ್ರಹ:",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪುರಾಣೋಕ್ತ ಪ್ರಯೋಗ ಸಂಗ್ರಹ: - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 220,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-86": {
+                        "title": "ಪೂಜಾಹೋಮಕಲ್ಪದ್ರುಮಃ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪೂಜಾಹೋಮಕಲ್ಪದ್ರುಮಃ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-164": {
+                        "title": "ಪ್ರಯೋಗ ಸಂಪುಟ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪ್ರಯೋಗ ಸಂಪುಟ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-191": {
+                        "title": "ಮಂಡಲ ದರ್ಪಣ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮಂಡಲ ದರ್ಪಣ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 220,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-80": {
+                        "title": "ರುದ್ರಷ್ಟಾಧ್ಯಾಯಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ರುದ್ರಷ್ಟಾಧ್ಯಾಯಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 330,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-92": {
+                        "title": "ವಟುಕ ಭೈರವ ಉಪಾಸನೆ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಭೈರವ ಉಪಾಸನೆ ಮಾಡಲು ಹೋಮ ಮಾಡಲು ಯಂತ್ರ ಭೈರವ ಪೂಜೆ ಯಂತ್ರ ನ್ಯಾಸಗಳು ಹಾಗೂ ಭೈರವನ ಬಗ್ಗೆ ಸಂಪೂರ್ಣವಾದ ಮಾಹಿತಿಯನ್ನು ತಿಳಿಯಲು ಪುಸ್ತಕ ತುಂಬಾ ಅದ್ಭುತವಾಗಿದೆ",
+                        "price": 600,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-182": {
+                        "title": "ವಾಂಚ ಕಲ್ಪ ಲತಾ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಧ್ಯಾನ ಚತುರ್ಥ ಪರ್ಯಾಯ ವಾಂಚ ಕಲ್ಪ ಲತಾ ಪ್ರಯೋಗ ಮಂತ್ರೋದ್ಧಾರ ತುರಿಯ ಸಂಧ್ಯಾ ವಿಧಿ ಲಕ್ಷ್ಮಿ ಸ್ತವರಾಜ ಇತ್ಯಾದಿ ವಿಚಾರಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-177": {
+                        "title": "ವ್ರತ ಮಾಲಾ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಇದರಲ್ಲಿ ವ್ರತಗಳು ಪೂಜೆಗಳು ನವಗ್ರಹ ಸ್ತೋತ್ರ ಕವಚ ಅಷ್ಟೋತ್ತರಗಳು ಪ್ರತಿಗ್ರಹದ್ದು ಹಾಗೂ ಪ್ರದೋಷ ಪೂಜೆ ವ್ರತ ಲಲಿತಾ ತ್ರಿಶತಿ ಸಹಸ್ರನಾಮ ಅಷ್ಟೋತ್ತರ ಸತ್ಯನಾರಾಯಣ ಪೂಜೆ ವಿಷ್ಣು ಸಹಸ್ರನಾಮ ಕನ್ನಿಕಾಪರಮೇಶ್ವರಿ ಅಷ್ಟೋತ್ತರ ಮಂತ್ರ ಪುಷ್ಪ ಮೀನಾಕ್ಷಿ ಪಂಚಸ್ತೋತ್ರ ಫಲ ಗೌರಿ ವ್ರತ ಹೀಗೆ ಹಲವಾರು ವಿಚಾರವನ್ನು ತಿಳಿಸಿದ್ದಾರೆ",
+                        "price": 475,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-104": {
+                        "title": "ವ್ರತರತ್ನಂ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವ್ರತರತ್ನಂ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-106": {
+                        "title": "ಶ್ರೀ ಅಷ್ಟ ವಿನಾಯಕ ಉಪಾಸನ ಸರ್ವಸ್ವಂ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವಕ್ರತುಂಡ, ಏಕದಂತ,ಮಹೋಧರ, ಗಜಾನನ, ಲಂಬೋದರ, ವಿಕಟ, ವಿಘ್ನ ರಾಜ, ಧೂಮ್ರವರಣ, ಹೀಗೆ ಎಂಟು ವಿಧದ ಗಣಪತಿಯ ಬಗ್ಗೆ ಸ್ತೋತ್ರ ಮಂತ್ರ ಸ್ತುತಿ ಗೀತಾ ಧ್ಯಾನ ಅಷ್ಟೋತ್ತರ ಪೂಜಾ ವಿಧಾನ ಹೋಮ ವಿಧಾನವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-48": {
+                        "title": "ಶ್ರೀ ಉಚ್ಚಿಷ್ಟ ಮಹಾಗಣಪತಿ ವರಿವಸ್ಯಾ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಉಚ್ಚಿಷ್ಟ ಮಹಾಗಣಪತಿ ವರಿವಸ್ಯಾ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-189": {
+                        "title": "ಶ್ರೀ ಚಂಡಿ ಹೋಮ ಪ್ರಯೋಗ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಚಂಡಿ ಹೋಮ ಪ್ರಯೋಗ ಮಾಡುವವರು ಪಾರಾಯಣ ಮಾಡುವವರು ಸಂಪೂರ್ಣ ಯಾವ ದಿನದಲ್ಲಿ ಏನು ಮಾಡಬೇಕು ಎಂಬ ವಿಧಾನವನ್ನು ಒಳಗೊಂಡಿರುವಂತಹ ಮಂತ್ರ ಸಹಿತವಾಗಿರುವಂತ ಅದ್ಭುತ ಗ್ರಂಥ",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-132": {
+                        "title": "ಶ್ರೀ ದುರ್ಗಾ ಪೂಜಾ ದೀಪಾ ನಮಸ್ಕಾರ ಹೋಮ ವಿಧಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ದುರ್ಗಾ ಪೂಜಾ ದೀಪಾ ನಮಸ್ಕಾರ ಹೋಮ ವಿಧಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 70,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-50": {
+                        "title": "ಶ್ರೀ ನಾಂದಿ ಪ್ರಯೋಗ ವಿಧಾನಮ್",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ನಾಂದಿ ಪ್ರಯೋಗ ವಿಧಾನಮ್ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 330,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-11": {
+                        "title": "ಶ್ರೀ ಬಾಲ ಸಪರ್ಯ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಬಾಲ ಸುಪರ್ಯ ಗಣಪತಿ ಕ್ರಮ ಆವರಣ ಪೂಜಾ ಸ್ತೋತ್ರ ಸಹಸ್ರನಾಮ ಹಾಗೂ ಶ್ರೀ ಬಾಲ ಮಂತ್ರ ಪೂಜಾ ವಿಧಾನದ ಬಗ್ಗೆ ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಸಿದ್ದಾರೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-188": {
+                        "title": "ಶ್ರೀ ಭೈರವ ದಿಗ್ಬಂಧನ ಪ್ರಯೋಗ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಭೈರವ ದಿಗ್ಬಂಧನ ಪ್ರಯೋಗ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 220,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-24": {
+                        "title": "ಶ್ರೀ ಭೈರವ ದಿಗ್ಬಂಧನಾ ಪ್ರಯೋಗ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಭೈರವ ದಿಗ್ಬಂಧನಾ ಪ್ರಯೋಗ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 220,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-120": {
+                        "title": "ಶ್ರೀ ಮಂಗಳ ಗೌರಿ ವ್ರತ, ಕಥೆ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಮಂಗಳ ಗೌರಿ ವ್ರತ, ಕಥೆ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 40,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-34": {
+                        "title": "ಶ್ರೀ ರುದ್ರಹೋಮಪ್ರಯೋಗಃ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ರುದ್ರಹೋಮಪ್ರಯೋಗಃ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 120,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-154": {
+                        "title": "ಶ್ರೀ ಸತ್ಯ ಗಣಪತಿ ವ್ರತ ವಿಧಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಸತ್ಯ ಗಣಪತಿ ವ್ರತ ವಿಧಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 165,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-108": {
+                        "title": "ಶ್ರೀ ಸತ್ಯನಾರಾಯಣ ಪೂಜಾ ವಿಧಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಸತ್ಯನಾರಾಯಣ ಪೂಜಾ ವಿಧಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 135,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-125": {
+                        "title": "ಶ್ರೀ ಹನುಮಾನ್ ಪ್ರತಿಷ್ಠಾ ಪ್ರಯೋಗ:",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಹನುಮಾನ್ ಪ್ರತಿಷ್ಠಾ ಪ್ರಯೋಗ: - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-150": {
+                        "title": "ಶ್ರೀಅಷ್ಟ ವಿನಾಯಕ ಉಪಾಸನಸರ್ವಸ್ವಮ್",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀಅಷ್ಟ ವಿನಾಯಕ ಉಪಾಸನಸರ್ವಸ್ವಮ್ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-206": {
+                        "title": "ಶ್ರೀಕೃಷ್ಣವ್ರತಕಲ್ಪೋಕ್ತಪೂಜಾ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀಕೃಷ್ಣವ್ರತಕಲ್ಪೋಕ್ತಪೂಜಾ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 90,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-78": {
+                        "title": "ಸಟೀಕಾ ವ್ರತರತ್ನಂ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಟೀಕಾ ವ್ರತರತ್ನಂ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-29": {
+                        "title": "ಸ್ವಸ್ತಿ ಪುಣ್ಯ ಹವಾಚನ ಮತ್ತು ನವಗ್ರಹ ಪೂಜಾ ವಿಧಿ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸ್ವಸ್ತಿ ಪುಣ್ಯ ಹವಾಚನ ಮತ್ತು ನವಗ್ರಹ ಪೂಜಾ ವಿಧಿ - Classical edition under Pooja, Homa & Samskara.",
+                        "price": 100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-21": {
+                        "title": "ಹೋಮ ಸಂಪುಟ",
+                        "sanskrit": "HAVANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಹೋಮ ಸಂಪುಟದಲ್ಲಿ 30 ರೀತಿಯ ಹೋಮವನ್ನು ಮಾಡುವ ವಿಧಾನಗಳು ಮಂತ್ರಗಳು ಹಾಗೂ ಅಷ್ಟೋತ್ತರಗಳನ್ನ ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಸಿಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-207": {
+                        "title": "ಅಂಬಿಕಾ ವಿಜಯ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಅಂಬಿಕಾ ವಿಜಯ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 600,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-174": {
+                        "title": "ದಿನಕ್ಕೊಂದು ಪ್ರಾರ್ಥನೆ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ದಿನಕ್ಕೊಂದು ಪ್ರಾರ್ಥನೆ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 250,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-181": {
+                        "title": "ಪದ್ಮಪುರಾಣ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪದ್ಮಪುರಾಣ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-127": {
+                        "title": "ಬೃಹತ್ ಸ್ತೋತ್ರ ರತ್ನಾಕರ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಬೃಹತ್ ಸ್ತೋತ್ರ ರತ್ನಾಕರ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-117": {
+                        "title": "ಲಘು ದೇವಿ ಮಹಾತ್ಮೆ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಲಘು ದೇವಿ ಮಹಾತ್ಮೆ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 80,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-28": {
+                        "title": "ಶ್ರೀ ಗಣೇಶ ಪುರಾಣ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಗಣೇಶ ಪುರಾಣ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-156": {
+                        "title": "ಶ್ರೀ ಚಕ್ರ ರೂಪಿಣಿ ಶೃಂಗ ಗಿರಿ ದೇವಿ ಶ್ರೀ ಶಾರದಾಂಬ ವೈಭವ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶಾರದಾಂಬೆ ವೈಭವ ಶಾರದಾ ದೇವಿಯ ಮಹಾತ್ಮೆ ಶ್ರೀಚಕ್ರ ನವಭರಣ ಉಪಾಸನ ಚಕ್ರ ಧ್ಯಾನ ಇದರ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-159": {
+                        "title": "ಶ್ರೀ ವಿಷ್ಣು ಪುರಾಣಂ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ವಿಷ್ಣು ಪುರಾಣಂ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-40": {
+                        "title": "ಶ್ರೀ ಶ್ರೀನಿವಾಸ ಕಲ್ಯಾಣಮ್",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀ ಶ್ರೀನಿವಾಸ ಕಲ್ಯಾಣಮ್ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 650,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-192": {
+                        "title": "ಶ್ರೀದೇವಿ ಮಹಾತ್ಮೆ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶ್ರೀದೇವಿ ಮಹಾತ್ಮೆ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 90,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-88": {
+                        "title": "ಸೌಂದರ್ಯ ಲಹರಿ ಸ್ತೋತ್ರ ದರ್ಪಣ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸೌಂದರ್ಯ ಲಹರಿ ಸ್ತೋತ್ರ ದರ್ಪಣ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-19": {
+                        "title": "ಸೌಂದರ್ಯಲಹರೀ ಸ್ತೋತ್ರದೀಪಿಕೆ",
+                        "sanskrit": "VEDANTA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸೌಂದರ್ಯಲಹರೀ ಸ್ತೋತ್ರದೀಪಿಕೆ - Classical edition under Puranas, Upanishads & Stotras.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-215": {
+                        "title": "ಆಯುರ್ವೇದ ಮತ್ತು ಪದಾರ್ಥ ವಿಜ್ಞಾನ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಆಯುರ್ವೇದ ಮತ್ತು ಪದಾರ್ಥ ವಿಜ್ಞಾನ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 600,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-97": {
+                        "title": "ಗೋರಕ್ಷಾ ಶತಕ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಗೋರಕ್ಷಾ ಶತಕ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 90,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-144": {
+                        "title": "ಚರಕ ಸಂಹಿತೆ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಚರಕ ಸಂಹಿತೆ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 1300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-109": {
+                        "title": "ಜ್ಞಾನ ಸಿಂಧು ನೀಲಿ ಹೊತ್ತಿಗೆ ಗ್ರಂಥ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಅಧಿಕಾರ ಲಕ್ಷಣ ತತ್ವ ನಿರ್ಣಯ ನಿಜಬಹುದಾ ಸಾಧನಾ ಚತುಷ್ಟಯ ಸಪ್ತ ಭೂಮಿಗೆಗಳು ಹಠಯೋಗ ನಿರ್ಣಯ ಅಟ ರಾಜಯೋಗ ಲಯ ಯೋಗ ಪರಬ್ರಹ್ಮ ಸ್ವರೂಪ ಜೀವತ್ರಯ ಶಾಂತಿ ಲಕ್ಷಣ ಸಾಧು ಲಕ್ಷಣ ಸತ್ಕರ್ಮ ಯೋಗ ಬಹು ಸಮಾಧಿ ಲಕ್ಷಣ ರಾಜ ಯೋಗಂಗ ಭಕ್ತಿ ಯೋಗ ಅವದೂತ ಚರಿತ್ರೆ ವಿಭೂತಿ ನಿರ್ಣಯ ಅದ್ವೈತವಸ್ತು ಹೀಗೆ ಹಲವಾರು ವಿಚಾರದ ಬಗ್ಗೆ ಸಂಪೂರ್ಣವಾದ ಮಾಹಿತಿಯನ್ನ ಕೊಟ್ಟಿದ್ದಾರೆ",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-140": {
+                        "title": "ಜ್ಞಾನಸಿಂಧು",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಜ್ಞಾನಸಿಂಧು - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 110,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-172": {
+                        "title": "ಪತಂಜಲಿಯ ಯೋಗಸೂತ್ರ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪತಂಜಲಿಯ ಯೋಗಸೂತ್ರ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-15": {
+                        "title": "ಪೂರ್ವಜನ್ಮ ಪುನರ್ಜನ್ಮ...!",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಪೂರ್ವಜನ್ಮ ಪುನರ್ಜನ್ಮ...! - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 450,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-138": {
+                        "title": "ಯೋಗರತ್ನ ಮಂಜೂಷ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಯೋಗರತ್ನ ಮಂಜೂಷ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-41": {
+                        "title": "ಶಿವ ಯೋಗ ದೀಪಿಕಾ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶಿವ ಯೋಗ ದೀಪಿಕಾ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 180,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-163": {
+                        "title": "ಶಿವಯೋಗ ಪ್ರದೀಪಿಕಾ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶಿವಯೋಗ ಪ್ರದೀಪಿಕಾ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 90,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-114": {
+                        "title": "ಶಿವಸಂಹಿತೆ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶಿವಸಂಹಿತೆ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-205": {
+                        "title": "ಸಟೀಕಾ ಜ್ಞಾನಸಿಂಧು",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಟೀಕಾ ಜ್ಞಾನಸಿಂಧು - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 600,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-100": {
+                        "title": "ಸ್ವಾತ್ಮರಾಮರ ಹಠಯೋಗ ಪ್ರದೀಪಿಕಾ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸ್ವಾತ್ಮರಾಮರ ಹಠಯೋಗ ಪ್ರದೀಪಿಕಾ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 300,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-136": {
+                        "title": "ಹಠ ಪ್ರದೀಪಿಕಾ ( ಬ್ರಹ್ಮಾನಂದರ ಟೀಕಾಸಾರ ಸಹಿತ )",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಹಠ ಪ್ರದೀಪಿಕಾ ( ಬ್ರಹ್ಮಾನಂದರ ಟೀಕಾಸಾರ ಸಹಿತ ) - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 150,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-130": {
+                        "title": "ಹಠಯೋಗ ರಾಜಯೋಗ ಮುಕ್ತಿಗೆ ಮಾರ್ಗ",
+                        "sanskrit": "ADHYATMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಹಠಯೋಗ ರಾಜಯೋಗ ಮುಕ್ತಿಗೆ ಮಾರ್ಗ - Classical edition under Yoga, Ayurveda & Spirituality.",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-199": {
+                        "title": "ಅಷ್ಟಾಧ್ಯಾಯೀ",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಅಷ್ಟಾಧ್ಯಾಯೀ - Classical edition under Dharmashastra & Literature.",
+                        "price": 240,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-38": {
+                        "title": "ಧರ್ಮಶಾಸ್ತ್ರ",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಧರ್ಮಶಾಸ್ತ್ರ - Classical edition under Dharmashastra & Literature.",
+                        "price": 500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-82": {
+                        "title": "ಧರ್ಮಸಿಂಧು",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಧರ್ಮಸಿಂಧು - Classical edition under Dharmashastra & Literature.",
+                        "price": 800,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-8": {
+                        "title": "ನಿರ್ಣಯ ಸಿಂಧು",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ನಿರ್ಣಯ ಸಿಂಧು - Classical edition under Dharmashastra & Literature.",
+                        "price": 1500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-139": {
+                        "title": "ಮೇಘದೂತಮ್",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮೇಘದೂತಮ್ - Classical edition under Dharmashastra & Literature.",
+                        "price": 125,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-67": {
+                        "title": "ವಿವಾಹ ಪಂಚಕ",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ವಿವಾಹ ಪೂರ್ವದಲ್ಲಿ ಹುಡುಗ ಅಥವಾ ಹುಡುಗಿಯ ವಿಚಾರದಲ್ಲಿ ಯಾವುದಾದರೂ ದೋಷಗಳಿದ್ದರೆ ಮಾಡುವಂತಹ ಅರ್ಕ ವಿವಾಹ ರಂಭ ವಿವಾಹ ಕುಂಭ ವಿವಾಹ ಅಶ್ವತ ವಿವಾಹ ಮತ್ತು ತುಳಸಿ ವಿವಾಹದ ಬಗ್ಗೆ ಸಂಪೂರ್ಣವಾದ ಮಾಹಿತಿ ಮತ್ತು ಮಾಡುವಂತ ವಿಧಾನವನ್ನು ಇದರಲ್ಲಿ ತಿಳಿಸಲಾಗಿದೆ",
+                        "price": 225,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-47": {
+                        "title": "ಶಾಲಗ್ರಾಮ ಪರೀಕ್ಷ",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಈ ಗ್ರಂಥದಲ್ಲಿ ಸಾಲಗ್ರಾಮ ಪರೀಕ್ಷೆ ಚಕ್ರಗಳ ಉದ್ದೇಶ ಹಲವಾರು ಸಾಲಿಗ್ರಾಮಗಳ ಲಕ್ಷಣಗಳು ಹಾಗೂ ಮೂರ್ತಿಗಳ ಬಗ್ಗೆ ವಿದ್ಯಮೂರ್ತಿ ಸಂಖ್ಯೆಗಳ ಬಗ್ಗೆ ಮಹಾತ್ಮೆಗಳ ಬಗ್ಗೆ ದಾನ ಫಲಗಳ ಬಗ್ಗೆ ಕೊಟ್ಟಿರುತ್ತಾರೆ",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-14": {
+                        "title": "ಸಂಸ್ಕೃತ ಕನ್ನಡ ಶಬ್ದಾರ್ಥ ಕೋಶಮ್",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಂಸ್ಕೃತ ಕನ್ನಡ ಶಬ್ದಾರ್ಥ ಕೋಶಮ್ - Classical edition under Dharmashastra & Literature.",
+                        "price": 1500,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-43": {
+                        "title": "ಸರಳ ಸಂಸ್ಕೃತ ವ್ಯಾಕರಣ",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸರಳ ಸಂಸ್ಕೃತ ವ್ಯಾಕರಣ - Classical edition under Dharmashastra & Literature.",
+                        "price": 200,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-63": {
+                        "title": "ಸಹಸ್ರ ಸೂಕ್ತಿಗಳು",
+                        "sanskrit": "DHARMA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಸಹಸ್ರ ಸೂಕ್ತಿಗಳು - Classical edition under Dharmashastra & Literature.",
+                        "price": 100,
+                        "language": "Kannada",
+                        "type": "Printed Book",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-124": {
+                        "title": "ಅರಿಶಿಣ ಮಾಲೆ",
+                        "sanskrit": "MANGALA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮಂಗಳಕಾರ್ಯ ನಡೆಯಲು ವಿವಾಹದಲ್ಲಿ ಅಡೆತಡೆಗಳಿಗಾಗಿ ಗ್ರಹಭಾದೇ ನಿವಾರಣೆಗಾಗಿ ವಿವಾಹಕ್ಕೆ ಸಂಬಂಧಪಟ್ಟಂತ ದೋಷ ನಿವಾರಣೆಗಾಗಿ ಇಂದ್ರ ವಿವಾಹ ಪ್ರಾಪ್ತಿಗಾಗಿ ಅರಿಶಿಣ ಮಾಲೆ ಪೂಜಿಸಿ ತರಿಸು ಕೊಳ್ಳುವುದು",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Sacred Article",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-196": {
+                        "title": "ಕಾರಂಗುಲಿ ಮಾಲಾ",
+                        "sanskrit": "MANGALA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಶತ್ರುಭಾದೆ, ಕೆಟ್ಟ ದೃಷ್ಟಿ, ವಾಮಾಚಾರ ಪ್ರಯೋಗಗಳಿಂದ ಮುಕ್ತಿ ಹೊಂದಲು ಋಣಾತ್ಮಕವಾದ ಶಕ್ತಿಯಿಂದ ಆಗುವಂಥ ತೊಂದರೆಯಿಂದ ರಕ್ಷಣೆ ಮಾಡಿಕೊಳ್ಳಲು ಶಿವನ ಬಳಿ ಇಟ್ಟು ಪೂಜಿಸಲಾದ ಕರಂಗುಲಿ ಮಾಲ",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Sacred Article",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "6-mm": {
+                        "title": "ರುದ್ರಾಕ್ಷಿ ಮಾಲಾ 6 mm",
+                        "sanskrit": "MANGALA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಏಕಾಗ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಹಾಗೂ ಆಧ್ಯಾತ್ಮ ಶಕ್ತಿಯನ್ನು ಹೊಂದಲು ಶಿವನ ಅನುಗ್ರಹಕ್ಕಾಗಿ ಕೆಟ್ಟ ಆಲೋಚನೆಯಿಂದ ದೂರ ಇರಲು ಹಾಗೂ ಕೆಟ್ಟ ಶಕ್ತಿಗಳಿಂದ ರಕ್ಷಣೆ ಹೊಂದಲು ರುದ್ರಾಕ್ಷವಾದ ತುಂಬಾ ಅನುಕೂಲಕರವಾಗಿದೆ",
+                        "price": 550,
+                        "language": "Kannada",
+                        "type": "Sacred Article",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "item-173": {
+                        "title": "ವೈಜಯಂತಿಮಾಲಾ",
+                        "sanskrit": "MANGALA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "ಮಹಾವಿಷ್ಣು ಹಾಗೂ ಕೃಷ್ಣನ ಅನುಗ್ರಕ್ಕಾಗಿ ಕೀರ್ತಿ ಯಶಸ್ಸು ಹಾಗೂ ಧನದ ಸಮೃದ್ಧಿಗಾಗಿ ಭಕ್ತಿ ಸಾತ್ವಿಕತೆ ಮತ್ತು ಯಶಸ್ವಿಗಾಗಿ ಮನೋಬಲ ಹೆಚ್ಚಾಗಿ ಆತ್ಮವಿಶ್ವಾಸ ದೃಢವಾಗಲು",
+                        "price": 400,
+                        "language": "Kannada",
+                        "type": "Sacred Article",
+                        "pages": 0,
+                        "availability": "In Stock"
+                  }
+            }
+      },
+      "aboutPage": {
+            "kickerNumber": "01",
+            "kickerLabel": "ABOUT OUR INSTITUTION",
+            "title": "About Us",
+            "subtitle": "Preserving and sharing India’s classical knowledge traditions through authentic publications, research, and shastric consultation.",
+            "centres": [
+                  {
+                        "title": "Adya Jyothirvijnana Samshodhana Kendra",
+                        "tag": "Centre for Astrology, Prashna & Complete Vastu",
+                        "description": "Offering classical Vedic Astrology, Prashna Shastra, complete Vastu assessments, pyramid Vastu remedies, structured classes in Astrology, Vastu, Vedas, Numerology, and Prashna Shastra, and all traditional poojas, pratishthapanas, and homas."
+                  },
+                  {
+                        "title": "Adya Pustaka Bhandara",
+                        "tag": "Classical Books & Spiritual Articles Centre",
+                        "description": "Providing authentic works across Astrology, Vastu, Sahasranama, Pooja Vidhi-Vidhana, Yantra-Mantra-Tantra, Sri Vidya, Puranas, Yoga, Agamas, Numerology, Palmistry, and Spirituality—alongside Rudraksha, Sphatika Mala, Sphatika Linga, Karanguli Mala, and consecrated hand-drawn yantras."
+                  }
+            ],
+            "scholarRoleLabel": "Director & Principal Scholar",
+            "scholarName": "Chandrashekar Adya",
+            "scholarKickerNum": "02",
+            "scholarBio": "Guiding families, students, and seekers in classical Vedic rituals, Pratishthapanas, Jyotishya, Prashna Shastra, and complete Vastu Shastra with decades of dedicated textual scholarship and traditional practice.",
+            "qualificationsHeading": "Titles & Qualifications",
+            "qualifications": [
+                  "Shaiva Agama Praveena",
+                  "Jyotishya Acharya",
+                  "Vastu Shastra Acharya",
+                  "Prashna Shastra Praveena",
+                  "Purohita"
+            ],
+            "contactBtn": "Schedule a Consultation"
+      },
+      "astrologyPage": {
+            "kickerNumber": "ADYA JYOTHIRVIJNANA",
+            "kickerLabel": "ASTROLOGY & HORARY CONSULTATIONS",
+            "title": "Astrology Services",
+            "subtitle": "Classical Vedic Astrology, Prashna Shastra, and complete Vastu guidance by Chandrashekar Adya (Jyotishya Acharya, Vastu Shastra Acharya, Prashna Shastra Praveena), grounded strictly in scriptural principles.",
+            "servicePrefix": "SERVICE 0",
+            "modeLabel": "Mode: In-Person / Telephone",
+            "ctaBtn": "Schedule Consultation",
+            "processTitle": "Consultation Procedure",
+            "processDesc": "All consultations are conducted by prior appointment to allow thorough chart preparation and unhurried discussion. Kindly keep your exact date, time, and place of birth ready.",
+            "processBtn": "Request Appointment on WhatsApp",
+            "services": [
+                  {
+                        "title": "Birth Chart Analysis (Janma Kundali)",
+                        "description": "Comprehensive examination of natal charts, planetary placements (Graha Sthiti), dasha-bhukti timelines, and planetary transits (Gochara) for personal, academic, and professional clarity."
+                  },
+                  {
+                        "title": "Horary Astrology (Prashna Shastra)",
+                        "description": "Timely clarity on pressing questions and pivotal decisions using classical Prashna principles evaluated at the moment of inquiry."
+                  },
+                  {
+                        "title": "Marriage Compatibility (Vivaha Melapaka)",
+                        "description": "Classical Ashtakoota and Dashakoota evaluation, Kuja Dosha assessment, and long-term compatibility analysis for prospective alliances."
+                  },
+                  {
+                        "title": "Numerology & Naming Guidance",
+                        "description": "Traditional phonetic and numerical alignment for newborn naming, personal names, and commercial enterprises based on nakshatra and classical principles."
+                  },
+                  {
+                        "title": "Scriptural Remedial Guidance (Parihara)",
+                        "description": "Ethical guidance on traditional prayers, japa, charitable acts (Daana), and temple observances strictly aligned with classical texts."
+                  }
+            ]
+      },
+      "vastuPage": {
+            "kickerNumber": "ADYA JYOTHIRVIJNANA",
+            "kickerLabel": "VASTU SHASTRA SERVICES",
+            "title": "Vastu Consultations",
+            "subtitle": "Classical, methodical architectural alignment for residences, commercial spaces, and land parcels by Sri Chandrashekar Adya (Vastu Shastra Acharya).",
+            "prefix": "VASTU 0",
+            "modeLabel": "Site Inspection / Blueprint Review",
+            "ctaBtn": "Book Vastu Consultation",
+            "bannerTitle": "Have Blueprints or Architectural Plans?",
+            "bannerDesc": "You may share architectural drawings or floor plans via WhatsApp for a preliminary structural review.",
+            "bannerBtn": "Send Floor Plan on WhatsApp",
+            "services": [
+                  {
+                        "title": "Residential Vastu Assessment",
+                        "description": "On-site inspection and layout evaluation for houses, apartments, and villas—aligning main entrances, kitchens, pooja rooms, and water placement."
+                  },
+                  {
+                        "title": "Commercial & Institutional Vastu",
+                        "description": "Spatial planning for offices, retail spaces, and industrial establishments to foster focus, stability, and operational harmony."
+                  },
+                  {
+                        "title": "Plot Selection & Land Evaluation",
+                        "description": "Pre-purchase inspection assessing soil quality, natural slope, directional orientation, road geometry, and surrounding environmental influences."
+                  },
+                  {
+                        "title": "Pyramid & Non-Invasive Vastu Remedies",
+                        "description": "Vastu dosha remedies for residences using calibrated pyramid placements, elemental balancing, consecrated hand-drawn yantras, and spatial alignment without structural demolition."
+                  }
+            ]
+      },
+      "otherServicesPage": {
+            "kickerNumber": "ADYA JYOTHIRVIJNANA",
+            "kickerLabel": "VEDIC RITUALS & CEREMONIES",
+            "title": "Vedic Pooja Services",
+            "subtitle": "Sacred poojas, Pratishthapanas, Griha Pravesha, Shanti Poojas, and Sudarshana & Chandi Homas conducted with strict Agamic and Vedic authenticity by Chandrashekar Adya (Shaiva Agama Praveena, Purohita).",
+            "prefix": "CEREMONY 0",
+            "ctaBtn": "Inquire on WhatsApp",
+            "noteTitle": "Authentic Vedic & Agamic Observance",
+            "noteDesc": "Every pooja, Pratishthapana, and homa is performed with complete sankalpa, accurate Sanskrit intonation, and dignified traditional arrangements tailored to your family gothra, nakshatra, and auspicious muhurta.",
+            "noteBtn": "Inquire for Muhurta & Details",
+            "services": [
+                  {
+                        "title": "Pratishthapana Ceremonies (Temple & Home)",
+                        "description": "Traditional Agamic and Vedic consecration rites for deities, Kalashas, and sacred installations conducted strictly per scriptural manuals."
+                  },
+                  {
+                        "title": "Griha Pravesha & Shanti Poojas",
+                        "description": "Auspicious housewarming rites including Punyahavachana, Ganapathi Homa, Navagraha Shanti, and Vastu Shanti conducted according to classical tradition."
+                  },
+                  {
+                        "title": "Sudarshana, Chandi & Allied Homas",
+                        "description": "Sacred fire oblations including Sudarshana Homa, Chandi Homa, and Devi Saptashati recitations for protection, obstacle removal, and family well-being."
+                  },
+                  {
+                        "title": "Hand-Drawn & Consecrated Yantras",
+                        "description": "Sacred yantras carefully inscribed by hand and ritually consecrated with traditional Vedic and Agamic poojas prior to installation."
+                  },
+                  {
+                        "title": "Sri Vidya & Sadhana Guidance",
+                        "description": "Traditional instruction in Devi upasana, japa discipline, mudras, and daily contemplation for earnest initiates and sadhakas."
+                  },
+                  {
+                        "title": "Shodasha Samskaras & Vedic Ceremonies",
+                        "description": "Reverent observance of Namakarana, Upanayana, Ayushya Homa, Sashtiapthapoorthi, and all traditional Vedic family rites."
+                  }
+            ]
+      },
+      "classesPage": {
+            "kickerNumber": "ADYA JYOTHIRVIJNANA",
+            "kickerLabel": "EDUCATIONAL PROGRAMS",
+            "title": "Classes and Study",
+            "subtitle": "Structured traditional instruction in Astrology, Vastu Shastra, Vedas, Numerology, and Prashna Shastra taught by Chandrashekar Adya—welcoming both beginners and dedicated practitioners.",
+            "prefix": "COURSE 0",
+            "durationLabel": "Duration:",
+            "modeLabel": "Format:",
+            "topicsHeading": "Curriculum Overview:",
+            "ctaBtn": "Inquire About Enrollment",
+            "bannerTitle": "Join an Upcoming Study Cohort",
+            "bannerDesc": "Class sizes are intentionally kept small to preserve the guru-shishya spirit and individual mentorship. Contact us for upcoming schedules and admission details.",
+            "bannerBtn": "Request Schedule & Fee Details",
+            "courses": [
+                  {
+                        "title": "Vedic Astrology Classes",
+                        "duration": "3 Months (Weekend Sessions)",
+                        "mode": "In-Person & Online",
+                        "syllabus": [
+                              "Introduction to Rashis, Bhavas, and Graha Karakatwas",
+                              "Study of Nakshatras and planetary aspects",
+                              "Traditional Kundali (Birth Chart) construction",
+                              "Vimshottari Dasha calculations and Gochara fundamentals"
+                        ]
+                  },
+                  {
+                        "title": "Vastu Shastra Classes",
+                        "duration": "2 Months (Weekly Sessions)",
+                        "mode": "In-Person & Practical Fieldwork",
+                        "syllabus": [
+                              "Vastu Purusha Mandala and directional principles",
+                              "Residential planning: kitchen, bedroom, sanctuary, and entrance",
+                              "Land evaluation, soil testing, and site topography",
+                              "Pyramid and non-structural corrective methods"
+                        ]
+                  },
+                  {
+                        "title": "Veda Study Classes",
+                        "duration": "Ongoing Guided Study",
+                        "mode": "In-Person & Online",
+                        "syllabus": [
+                              "Accurate Vedic swara and phonetic recitation discipline",
+                              "Daily Suktas and traditional liturgical parayana",
+                              "Philosophical context of Vedic Samhitas"
+                        ]
+                  },
+                  {
+                        "title": "Numerology (Sankhyashastra) Classes",
+                        "duration": "6 Weeks",
+                        "mode": "In-Person & Online",
+                        "syllabus": [
+                              "Planetary rulership of numbers and birth-date interpretation",
+                              "Phonetic alignment for personal and commercial naming",
+                              "Practical chart-integrated numerical analysis"
+                        ]
+                  },
+                  {
+                        "title": "Prashna Shastra Intensive",
+                        "duration": "6 Weeks (Intermediate / Advanced)",
+                        "mode": "Interactive Online Sessions",
+                        "syllabus": [
+                              "Aroodha, Chhatra, and Udaya lagnas in horary analysis",
+                              "Tambula Prashna and Nimitta Shastra principles",
+                              "Case studies and supervised chart interpretation"
+                        ]
+                  },
+                  {
+                        "title": "Mantra Japa, Yantra & Sacred Recitation",
+                        "duration": "Monthly Workshops",
+                        "mode": "In-Person Workshop",
+                        "syllabus": [
+                              "Sanskrit pronunciation rules (Shiksha & Chandas)",
+                              "Sacred geometry and consecration of foundational Yantras",
+                              "Daily sandhyavandana and pooja methodology"
+                        ]
+                  }
+            ]
+      },
+      "announcementsPage": {
+            "kickerNumber": "INSTITUTIONAL UPDATES",
+            "kickerLabel": "LATEST ANNOUNCEMENTS",
+            "title": "Announcements",
+            "subtitle": "Official notices covering new book reprints, upcoming study cohorts, special homa observances, and institutional lectures.",
+            "contactBtn": "Inquire About This ↗",
+            "bannerTitle": "Receive Updates on WhatsApp & Telegram",
+            "bannerDesc": "Join our official channels for prompt notifications on new publications and auspicious calendar observances.",
+            "whatsappBtn": "Join WhatsApp Group",
+            "telegramBtn": "Join Telegram Channel",
+            "items": [
+                  {
+                        "id": 1,
+                        "title": "New Sanskrit & Kannada Classical Editions Available",
+                        "date": "November 2026",
+                        "tag": "NEW RELEASES",
+                        "content": "Newly printed editions of Agama Rahasya, Rigveda Bhashya, and Prashna Marga—annotated in Kannada—are now available in limited quantities through our catalogue and WhatsApp desk."
+                  },
+                  {
+                        "id": 2,
+                        "title": "Admissions Open: Jyotishya Pravesha Foundation Cohort",
+                        "date": "December 2026",
+                        "tag": "CLASSES",
+                        "content": "Enrollment is now open for the upcoming weekend cohort of Jyotishya Pravesha (Foundations of Vedic Astrology) conducted by Sri Chandrashekar Adya. Enrollment is capped at 15 students."
+                  },
+                  {
+                        "id": 3,
+                        "title": "Special Chandi Homa & Karthika Deepotsava Observances",
+                        "date": "November 2026",
+                        "tag": "OBSERVANCES",
+                        "content": "Families wishing to participate in special sankalpa prayers and archana during the auspicious Karthika Masa may register their family gothra and nakshatra details with our office."
+                  }
+            ]
+      },
+      "contactPage": {
+            "kickerNumber": "01",
+            "kickerLabel": "CONTACT INFORMATION",
+            "title": "Contact Us",
+            "subtitle": "For inquiries regarding book editions, astrology or Vastu consultations, and Vedic ceremonies, reach us by phone, WhatsApp, or visit our centre in person.",
+            "directHeading": "Direct Channels",
+            "directDesc": "Our office and research staff are available during regular working hours.",
+            "hoursHeading": "Hours & Appointments",
+            "hoursDesc": "Astrology and Vastu consultations with Sri Chandrashekar Adya are conducted strictly by prior appointment.",
+            "monSat": "Monday – Saturday:",
+            "monSatTime": "9:30 AM – 7:30 PM",
+            "sunday": "Sunday:",
+            "sundayTime": "10:00 AM – 2:00 PM",
+            "modeHeading": "Consultation Mode:",
+            "modeValue": "In-Person & Telephone"
+      },
+      "notFound": {
+            "title": "Page Not Found",
+            "desc": "The requested page does not exist or may have been relocated.",
+            "backBtn": "Return to Home"
+      }
+};

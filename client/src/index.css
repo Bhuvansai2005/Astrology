@@ -1,0 +1,94 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Colours */
+  --color-maroon: #531d21;
+  --color-maroon-dark: #351316;
+  --color-saffron: #bf632c;
+  --color-saffron-hover: #d27939;
+  --color-gold: #c9994b;
+  --color-gold-light: #e3b46b;
+  --color-gold-pale: #e0b875;
+  --color-gold-warm: #e2ad62;
+  --color-gold-muted: #d9c4a4;
+  --color-gold-ornament: rgba(220,179,111,.23);
+  --color-gold-footer: #d7aa68;
+  --color-gold-border: #c79150;
+  --color-gold-rich: #efc37e;
+  --color-cream: #f6f0e5;
+  --color-cream-light: #f9f2e7;
+  --color-cream-warm: #f2ecdf;
+  --color-cream-video: #fffaf2;
+  --color-paper: #fbf9f4;
+  --color-ink: #30201c;
+  --color-muted: #776b61;
+  --color-muted-footer: #9e8d80;
+  --color-line: #ded5c7;
+  --color-strip-text: #e7d8c3;
+  --color-strip-link: #e2ad62;
+  --color-hero-desc: #e7ddd0;
+  --color-footer-brand: #f5e9d8;
+  --color-footer-text: #bfae9c;
+  --color-footer-link: #c7b9aa;
+  --color-footer-border: #5d3935;
+  --color-whatsapp-bg: #e8f4e9;
+  --color-whatsapp-text: #2d8d45;
+  --color-telegram-bg: #e5f1f7;
+  --color-telegram-text: #287ba5;
+  --color-facebook: #405b8a;
+  --color-success-bg: #e7f2e7;
+  --color-success-text: #287a3e;
+
+  /* Shadows */
+  --shadow-card-hover: 0 18px 40px rgba(48, 32, 28, 0.09);
+
+  /* Fonts */
+  --font-serif: 'Lora', 'Noto Serif Kannada', 'Noto Serif Devanagari', Georgia, serif;
+  --font-sans: 'Inter', 'Noto Sans Kannada', 'Noto Sans Devanagari', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  /* Breakpoints */
+  --breakpoint-sm: 481px;
+  --breakpoint-md: 681px;
+  --breakpoint-lg: 901px;
+  --breakpoint-xl: 1200px;
+
+  /* Animations */
+  --animate-reveal-up: reveal-up 0.7s ease forwards;
+  --animate-slide-in-right: slide-in-right 0.3s ease forwards;
+  --animate-fade-in: fade-in 0.25s ease forwards;
+}
+
+@keyframes reveal-up {
+  0% { opacity: 0; transform: translateY(25px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slide-in-right {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(0); }
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  background: var(--color-paper);
+  line-height: 1.6;
+  font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1;
+}
+
+/* Preserve complex Kannada conjunct/ligature shaping in tracked UI elements */
+html[lang='kn'] [class*='tracking-'] {
+  letter-spacing: normal;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "adya-pustaka-bhandara-monorepo",
+  "version": "2.0.0",
+  "description": "Adya Pustaka Bhandara & Adya Jyothirvijnana Samshodhana Kendra MERN Application",
+  "private": true,
+  "scripts": {
+    "dev": "node --input-type=module -e \"import { spawn } from 'node:child_process'; const s = spawn('npm --prefix server run dev', { stdio: 'inherit', shell: true }); const c = spawn('npm --prefix client run dev', { stdio: 'inherit', shell: true }); const stop = () => { s.kill(); c.kill(); process.exit(0); }; process.on('SIGINT', stop); process.on('SIGTERM', stop);\"",
+    "client": "npm --prefix client run dev",
+    "server": "npm --prefix server run dev",
+    "build": "npm --prefix client run build",
+    "install:all": "npm --prefix client install && npm --prefix server install"
+  }
+}
