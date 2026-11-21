@@ -20,9 +20,9 @@ export const BUSINESS = {
 };
 
 export const HERO_IMAGES = {
-  hero: '/images/books/rigveda-samhita-14-pustakagalu.webp',
-  about: '/images/books/charaka-samhite.webp',
-  location: '/images/books/dharmasimdhu.webp',
+  hero: 'https://images.unsplash.com/photo-1603366615917-1fa6dad5c4fa?auto=format&fit=crop&w=2000&q=85',
+  about: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=1000&q=85',
+  location: 'https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1000&q=85',
 };
 
 export const CATEGORY_IMAGES = {
@@ -32,18 +32,18 @@ export const CATEGORY_IMAGES = {
   "301": "/images/books/301-brihat-yamtra-raaja.webp",
   "400": "/images/books/satikaa-mamtra-mohodadi-400-varsha-praacheena-gramtha.webp",
   "501": "/images/books/laal-kitaab-501-sarala-upaaya-parihaaragalu.webp",
-  "astrology": "/images/books/30-dinadalli-jyotishya-kaliyiri.webp",
-  "vastu": "/images/books/vaastu-shaastra-reetya-aayaadi-vargaganita.webp",
-  "prashna": "/images/books/ashtamamgala-prashna-deepikaa.webp",
-  "numerology": "/images/books/bhavishya-nudiyuva-samkhyegalu.webp",
-  "tantra-mantra": "/images/books/shree-vidyaa-mamtra-yamtra-tamtra-rahasyagalu.webp",
-  "remedies-shanti": "/images/books/aashlesha-bali-sarpa-bali-kaala-sarpayoga-shaamti.webp",
-  "vedas-agamas": "/images/books/rigveda-samhita-14-pustakagalu.webp",
-  "pooja-homa": "/images/books/satya-naaraayana-poojaa-vidhi-bhaaga-1-mattu-2.webp",
-  "puranas-upanishads": "/images/books/shree-vishnu-puraanam.webp",
-  "yoga-ayurveda": "/images/books/charaka-samhite.webp",
-  "dharmashastra": "/images/books/dharmasimdhu.webp",
-  "sacred-articles": "/images/books/arishina-maale.webp",
+  "astrology": "https://images.unsplash.com/photo-1532968961962-8a0cb3a2d0b4?auto=format&fit=crop&w=700&q=80",
+  "vastu": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=700&q=80",
+  "prashna": "https://images.unsplash.com/photo-1507823690283-5bd6d0f9f1f3?auto=format&fit=crop&w=700&q=80",
+  "numerology": "https://images.unsplash.com/photo-1609825488233-8589eab7f7a9?auto=format&fit=crop&w=700&q=80",
+  "tantra-mantra": "https://images.unsplash.com/photo-1602644069801-9c7d7a2c6e4a?auto=format&fit=crop&w=700&q=80",
+  "remedies-shanti": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=700&q=80",
+  "vedas-agamas": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=700&q=80",
+  "pooja-homa": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=700&q=80",
+  "puranas-upanishads": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=700&q=80",
+  "yoga-ayurveda": "https://images.unsplash.com/photo-1507823690283-5bd6d0f9f1f3?auto=format&fit=crop&w=700&q=80",
+  "dharmashastra": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=700&q=80",
+  "sacred-articles": "https://images.unsplash.com/photo-1603366615917-1fa6dad5c4fa?auto=format&fit=crop&w=700&q=80",
   "item-176": "/images/books/asali-praacheena-brihat-raavana-samhita.webp",
   "item-217": "/images/books/asali-laal-kitaabna-adbhuta-tamtra-upaayagalu.webp",
   "item-113": "/images/books/uttara-kaalaamrita.webp",
