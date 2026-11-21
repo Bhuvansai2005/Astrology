@@ -7,15 +7,17 @@ import { useCart, useLanguage, useRevealOnScroll } from '../hooks';
 import { BUSINESS, HERO_IMAGES } from '../config';
 
 export function FloatingCartButton() {
-  const { totalItems, openCart } = useCart();
+  const { totalItems, openCart, isCartOpen } = useCart();
   const { t } = useLanguage();
+
+  if (isCartOpen) return null;
 
   return (
     <button
       type="button"
       onClick={openCart}
       aria-label={t.nav.cart || 'Cart'}
-      className="fixed bottom-6 right-6 z-50 flex items-center gap-2 bg-maroon hover:bg-maroon-dark text-white p-3.5 sm:px-4 sm:py-3 rounded-full shadow-[0_6px_22px_rgba(49,17,17,0.4)] border-2 border-gold/70 cursor-pointer active:scale-95 transition-all duration-200 group"
+      className="fixed bottom-6 right-6 z-40 flex items-center gap-2 bg-maroon hover:bg-maroon-dark text-white p-3.5 sm:px-4 sm:py-3 rounded-full shadow-[0_6px_22px_rgba(49,17,17,0.4)] border-2 border-gold/70 cursor-pointer active:scale-95 transition-all duration-200 group"
     >
       <div className="relative flex items-center justify-center">
         <svg
