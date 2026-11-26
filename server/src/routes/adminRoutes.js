@@ -1,4 +1,5 @@
 import express from 'express';
+import rateLimit from 'express-rate-limit';
 import {
   createAdminSession,
   requireAdmin,
@@ -8,7 +9,15 @@ import { listOrders, updateOrderStatus } from '../services/orderService.js';
 
 const router = express.Router();
 
-router.post('/login', (req, res, next) => {
+const adminLoginLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 5, // Limit each IP to 5 login attempts per window
+  message: { error: 'Too many login attempts. Please try again after 15 minutes.' },
+  standardHeaders: true,
+  legacyHeaders: false,
+});
+
+router.post('/login', adminLoginLimiter, (req, res, next) => {
   try {
     verifyAdminPassword(req.body?.password);
     res.json({ token: createAdminSession() });

@@ -12,8 +12,17 @@ export default function CataloguePage() {
 
   const localizedBooks = CATALOG_ITEMS.map((item) => {
     const bookInfo = t.bookDetailsPage?.books?.[item.id] || {};
+    const slug = (item.imageUrl || '').split('/').pop().replace(/\.webp$/, '');
+    const cleanSlug = slug.replace(/-\d+$/, '');
+    const englishTitle = cleanSlug
+      .split('-')
+      .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
+      .join(' ');
+
     return {
       ...item,
+      kannadaTitle: item.title,
+      englishTitle,
       title: bookInfo.title || item.title || item.id,
       description: bookInfo.description || item.description || '',
     };
@@ -21,11 +30,16 @@ export default function CataloguePage() {
 
   const filteredBooks = localizedBooks.filter((book) => {
     const matchesCategory = selectedCategory === 'all' || book.category === selectedCategory;
-    const q = searchQuery.toLowerCase();
+    const q = searchQuery.trim().toLowerCase();
+    if (!q) return matchesCategory;
+
     const matchesSearch =
-      book.title.toLowerCase().includes(q) ||
-      book.sanskritLabel.toLowerCase().includes(q) ||
-      book.description.toLowerCase().includes(q);
+      (book.title && book.title.toLowerCase().includes(q)) ||
+      (book.kannadaTitle && book.kannadaTitle.toLowerCase().includes(q)) ||
+      (book.englishTitle && book.englishTitle.toLowerCase().includes(q)) ||
+      (book.sanskritLabel && book.sanskritLabel.toLowerCase().includes(q)) ||
+      (book.description && book.description.toLowerCase().includes(q));
+
     return matchesCategory && matchesSearch;
   });
 
@@ -78,6 +92,7 @@ export default function CataloguePage() {
                 key={book.id}
                 id={book.id}
                 title={book.title}
+                subtitle={book.englishTitle}
                 description={book.description}
                 price={book.price}
                 imageUrl={book.imageUrl}

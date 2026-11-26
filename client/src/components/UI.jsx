@@ -120,6 +120,7 @@ export function SectionHeading({
 export function CategoryCard({
   id,
   title,
+  subtitle,
   description,
   price,
   imageUrl,
@@ -143,11 +144,16 @@ export function CategoryCard({
 
       <div className="p-[14px] md:p-[19px] flex flex-col flex-1">
         <Link to={id ? `/books/${id}` : '/books'} className="hover:text-saffron transition-colors">
-          <h3 className="m-0 text-maroon font-serif font-semibold text-[18px] md:text-[21px]">
+          <h3 className="m-0 text-maroon font-serif font-semibold text-[17px] md:text-[19px] leading-snug">
             {title}
           </h3>
+          {subtitle && (
+            <span className="block text-[11px] md:text-[12px] font-sans font-medium text-gold-rich tracking-wide mt-1">
+              {subtitle}
+            </span>
+          )}
         </Link>
-        <p className="text-[11px] md:text-[12px] text-muted min-h-[72px] md:min-h-[58px] my-3 leading-relaxed flex-1">
+        <p className="text-[11px] md:text-[12px] text-muted min-h-[58px] my-2.5 leading-relaxed flex-1 line-clamp-3">
           {description}
         </p>
         <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-2 mt-auto pt-3 border-t border-line/40">
@@ -215,7 +221,7 @@ export function CommunityCard({
       }`}
     >
       <div
-        className={`shrink-0 w-11 h-11 rounded-full grid place-items-center text-[22px] font-bold ${
+        className={`shrink-0 w-12 h-12 rounded-full grid place-items-center ${
           iconStyles[variant] || iconStyles.whatsapp
         }`}
       >
@@ -286,7 +292,7 @@ export function BackToTop() {
       type="button"
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       aria-label="Back to top"
-      className={`fixed right-6 bottom-22 w-[42px] h-[42px] border-0 bg-saffron text-white text-[20px] transition-opacity duration-250 z-40 cursor-pointer flex items-center justify-center rounded-full shadow-md ${
+      className={`fixed right-6 bottom-24 w-[44px] h-[44px] border-0 bg-saffron hover:bg-saffron-hover active:scale-95 text-white text-[20px] transition-all duration-250 z-40 cursor-pointer flex items-center justify-center rounded-full shadow-[0_4px_16px_rgba(0,0,0,0.18)] ${
         isVisible ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
       }`}
     >

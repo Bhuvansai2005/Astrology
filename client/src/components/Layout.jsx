@@ -3,6 +3,7 @@ import Header, { TopStrip } from './Header';
 import Footer from './Footer';
 import CartDrawer from './CartDrawer';
 import { BackToTop, Button, CommunityCard, Container, SectionKicker } from './UI';
+import { WhatsAppIcon, TelegramIcon } from './SocialIcons';
 import { useCart, useLanguage, useRevealOnScroll } from '../hooks';
 import { BUSINESS, HERO_IMAGES } from '../config';
 
@@ -79,7 +80,7 @@ export function CommunitySection() {
     <section className="bg-cream-warm py-[72px] md:py-[105px]">
       <Container className="grid grid-cols-1 md:grid-cols-2 gap-5">
         <CommunityCard
-          icon="◉"
+          icon={<WhatsAppIcon className="w-6 h-6 text-[#25D366]" />}
           badge={t.communities.whatsappBadge}
           title={t.communities.whatsappTitle}
           description={t.communities.whatsappDesc}
@@ -88,7 +89,7 @@ export function CommunitySection() {
           variant="whatsapp"
         />
         <CommunityCard
-          icon="➤"
+          icon={<TelegramIcon className="w-6 h-6 text-[#229ED9]" />}
           badge={t.communities.telegramBadge}
           title={t.communities.telegramTitle}
           description={t.communities.telegramDesc}

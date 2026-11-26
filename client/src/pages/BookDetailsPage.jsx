@@ -1,7 +1,7 @@
 import { Link, useParams } from 'react-router-dom';
 import { Button, Container, SectionKicker } from '../components/UI';
 import { useCart, useLanguage } from '../hooks';
-import { BUSINESS, CATEGORY_IMAGES } from '../config';
+import { BUSINESS, CATALOG_ITEMS, CATEGORY_IMAGES } from '../config';
 
 export default function BookDetailsPage() {
   const { slug } = useParams();
@@ -88,9 +88,21 @@ export default function BookDetailsPage() {
           <div className="flex flex-col justify-between">
             <div>
               <SectionKicker label={book.type} />
-              <h1 className="font-serif font-semibold text-3xl md:text-5xl text-maroon mt-3 mb-2">
+              <h1 className="font-serif font-semibold text-3xl md:text-5xl text-maroon mt-3 mb-1">
                 {book.title}
               </h1>
+              {bookFromConfig?.imageUrl && (
+                <div className="text-sm font-sans font-medium text-gold-rich tracking-wider mb-2">
+                  {bookFromConfig.imageUrl
+                    .split('/')
+                    .pop()
+                    .replace(/\.webp$/, '')
+                    .replace(/-\d+$/, '')
+                    .split('-')
+                    .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
+                    .join(' ')}
+                </div>
+              )}
 
               <div className="text-2xl md:text-3xl font-serif font-bold text-maroon my-4">
                 ₹{book.price}

@@ -11,6 +11,7 @@ export default defineConfig(({ mode }) => {
       'import.meta.env.API_URL': JSON.stringify(env.API_URL),
     },
     server: {
+      host: true, // exposes on 0.0.0.0 (all network interfaces and local IP)
       port: 5173,
       proxy: {
         '/api': {

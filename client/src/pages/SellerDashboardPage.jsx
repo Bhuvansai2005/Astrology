@@ -51,28 +51,10 @@ export default function SellerDashboardPage() {
     headers: { Authorization: `Bearer ${token}` },
   });
 
-  const loadOrders = async (activeToken = token) => {
-    setLoading(true);
-    setError('');
-    try {
-      const response = await api.get('/admin/orders', {
-        headers: { Authorization: `Bearer ${activeToken}` },
-      });
-      setOrders(response.data.orders || []);
-    } catch (requestError) {
-      if (requestError.response?.status === 401) {
-        sessionStorage.removeItem('apb_seller_token');
-        setToken('');
-      }
-      setError(requestError.response?.data?.error || 'Could not load orders.');
-    } finally {
-      setLoading(false);
-    }
+  const logout = () => {
+    sessionStorage.removeItem('apb_seller_token');
+    setToken('');
   };
-
-  useEffect(() => {
-    if (token) loadOrders(token);
-  }, [token]);
 
   const login = async (event) => {
     event.preventDefault();
@@ -90,10 +72,35 @@ export default function SellerDashboardPage() {
     }
   };
 
-  const logout = () => {
-    sessionStorage.removeItem('apb_seller_token');
-    setToken('');
-  };
+  useEffect(() => {
+    let ignore = false;
+    if (token) {
+      setLoading(true);
+      setError('');
+      api
+        .get('/admin/orders', {
+          headers: { Authorization: `Bearer ${token}` },
+        })
+        .then((res) => {
+          if (!ignore) setOrders(res.data.orders || []);
+        })
+        .catch((err) => {
+          if (!ignore) {
+            if (err.response?.status === 401) {
+              sessionStorage.removeItem('apb_seller_token');
+              setToken('');
+            }
+            setError(err.response?.data?.error || 'Could not load orders.');
+          }
+        })
+        .finally(() => {
+          if (!ignore) setLoading(false);
+        });
+    }
+    return () => {
+      ignore = true;
+    };
+  }, [token]);
 
   const updateStatus = async (orderRef, status) => {
     setError('');

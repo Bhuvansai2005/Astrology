@@ -16,7 +16,7 @@ export const BUSINESS = {
   facebook: 'https://www.facebook.com/share/1Fz3ZG4Tus/',
   instagram: 'https://www.instagram.com/adyapustakabhandara02/',
   instagramHandle: '@adyapustakabhandara02',
-  googleMaps: 'https://share.google/tsjfJ2cpa0wcjOhmx',
+  googleMaps: 'https://www.google.com/maps/place/%E0%B2%86%E0%B2%A6%E0%B3%8D%E0%B2%AF+%E0%B2%AA%E0%B3%81%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%95+%E0%B2%AD%E0%B2%82%E0%B2%A1%E0%B2%BE%E0%B2%B0/@12.4236,77.2237,17z/data=!4m6!3m5!1s0x3baeff00399a0f2b:0x94bfa22e6fdd4bf3!8m2!3d12.4236252!4d77.223731!16s%2Fg%2F11zcvfp259?hl=en&entry=ttu',
 };
 
 export const HERO_IMAGES = {
