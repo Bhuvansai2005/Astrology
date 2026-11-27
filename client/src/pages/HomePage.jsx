@@ -322,50 +322,45 @@ export default function HomePage() {
                     : 'Consecrated Rudraksha beads, pure Spatika quartz malas, certified Navaratnas, sacred energy bracelets, and genuine Karungali malas.'}
                 </p>
 
-                {/* 5 Divine Store Items Grid with Images */}
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3.5 sm:gap-4 text-left">
+                {/* Divine Store Items */}
+                <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3.5 sm:gap-4 text-left">
                   {DIVINE_STORE_ITEMS.map((item) => (
                     <article
                       key={item.id}
-                      className="group flex flex-col justify-between border border-gold/70 bg-white p-3.5 transition-all duration-300 hover:border-maroon hover:shadow-md rounded-xs"
+                      className="group flex flex-col justify-between border border-gold/70 bg-white p-2.5 sm:p-3.5 transition-all duration-300 hover:border-maroon hover:shadow-md rounded-xs"
                     >
                       <div>
-                        {/* Image Container with 1:1 Aspect Ratio */}
-                        <div className="relative w-full aspect-square overflow-hidden bg-cream-light/60 border border-line/60 rounded-xs mb-3">
+                        <div className="relative w-full aspect-square overflow-hidden bg-cream-light/60 border border-line/60 rounded-xs mb-2 sm:mb-3">
                           <img
                             src={item.imageUrl}
                             alt={isKn ? item.title : item.enTitle}
                             loading="lazy"
-                            className="w-full h-full object-contain p-2 transition-transform duration-500 group-hover:scale-105"
+                            className="w-full h-full object-contain p-1.5 sm:p-2 transition-transform duration-500 group-hover:scale-105"
                           />
-                          <span className="absolute top-1.5 left-1.5 bg-maroon/90 text-gold-light text-[8px] font-bold tracking-wider px-1.5 py-0.5 rounded-xs uppercase">
+                          <span className="absolute top-1 left-1 sm:top-1.5 sm:left-1.5 bg-maroon/90 text-gold-light text-[7px] sm:text-[8px] font-bold tracking-wider px-1.5 py-0.5 rounded-xs uppercase">
                             {item.sanskritLabel}
                           </span>
                         </div>
 
-                        {/* Title & Subtitle */}
-                        <h3 className="m-0 font-serif font-bold text-sm sm:text-[15px] text-maroon leading-snug group-hover:text-saffron transition-colors">
+                        <h3 className="m-0 font-serif font-bold text-xs sm:text-[15px] text-maroon leading-snug group-hover:text-saffron transition-colors">
                           {isKn ? item.title : item.enTitle}
                         </h3>
-                        <p className="m-0 text-[10px] text-gold font-medium mt-0.5 tracking-wide">
+                        <p className="m-0 text-[9px] sm:text-[10px] text-gold font-medium mt-0.5 tracking-wide">
                           {isKn ? item.enTitle : item.title}
                         </p>
-
-                        {/* Description */}
-                        <p className="m-0 text-[11px] text-ink/75 leading-relaxed mt-2 line-clamp-3">
+                        <p className="m-0 text-[10px] sm:text-[11px] text-ink/75 leading-relaxed mt-2 line-clamp-3">
                           {isKn ? item.description : item.enDescription}
                         </p>
                       </div>
 
-                      {/* Action Button */}
-                      <div className="pt-3 mt-3 border-t border-line/60">
+                      <div className="pt-2 sm:pt-3 mt-2 sm:mt-3 border-t border-line/60">
                         <a
                           href={`${BUSINESS.whatsapp}?text=${encodeURIComponent(item.enquiryText)}`}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-flex items-center justify-center gap-1.5 w-full py-2 px-2 bg-cream hover:bg-maroon text-maroon hover:text-white border border-line hover:border-maroon text-[11px] font-bold rounded-xs transition-all duration-200"
+                          className="inline-flex items-center justify-center gap-1.5 w-full py-1.5 sm:py-2 px-2 bg-cream hover:bg-maroon text-maroon hover:text-white border border-line hover:border-maroon text-[10px] sm:text-[11px] font-bold rounded-xs transition-all duration-200"
                         >
-                          <WhatsAppIcon className="w-3.5 h-3.5" />
+                          <WhatsAppIcon className="w-3 sm:w-3.5 h-3 sm:h-3.5" />
                           <span>{isKn ? 'ವಿಚಾರಿಸಿ' : 'Enquire'}</span>
                           <span>↗</span>
                         </a>

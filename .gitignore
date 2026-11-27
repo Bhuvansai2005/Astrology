@@ -20,6 +20,7 @@ yarn-error.log*
 # Production Build
 dist/
 build/
+.tsupgrader/
 
 # Local Orders Data Fallback
 server/data/
