@@ -161,7 +161,7 @@ export default function HomePage() {
       </section>
 
       {/* 2. ಎರಡನೆಯದು: ಪೂಜಾ, ಪಾರಾಯಣ, ಶಾಂತಿ, ಹೋಮಗಳ ಬಗ್ಗೆ */}
-      <section id="rituals-section" className="py-[72px] md:py-[105px] bg-paper border-b border-line">
+      <section id="rituals-section" className="py-6 md:py-8 bg-paper border-b border-line">
         <Container>
           <div
             ref={ritualsRef}
@@ -169,7 +169,7 @@ export default function HomePage() {
               isRitualsVisible ? 'animate-reveal-up' : 'opacity-0 translate-y-[25px]'
             }`}
           >
-            <div className="mx-auto mb-10 max-w-4xl border-2 border-maroon bg-cream-light p-1.5 shadow-sm">
+            <div className="mx-auto max-w-4xl border-2 border-maroon bg-cream-light p-1.5 shadow-sm">
               <div className="border border-gold px-5 py-8 text-center sm:px-10 md:py-10">
                 <p className="m-0 text-xs tracking-[0.3em] text-maroon" aria-hidden="true">
                   ॥ ॐ ॥
@@ -214,7 +214,7 @@ export default function HomePage() {
               </div>
             </div>
 
-            <div className="mt-8 flex flex-col items-center justify-between gap-4 bg-maroon px-6 py-5 text-center text-white sm:flex-row sm:text-left">
+            <div className="mt-6 flex flex-col items-center justify-between gap-4 bg-maroon px-6 py-5 text-center text-white sm:flex-row sm:text-left">
               <div>
                 <p className="m-0 text-[10px] font-semibold uppercase tracking-[0.16em] text-gold-light">
                   {isKn ? 'ಬುಕಿಂಗ್‌ಗಾಗಿ ವಾಟ್ಸಾಪ್ ಮಾಡಿ' : 'BOOKINGS & ENQUIRIES'}
@@ -243,7 +243,7 @@ export default function HomePage() {
       </section>
 
       {/* 3. ಮೂರನೆಯದು: ಯಂತ್ರಗಳ ಬಗ್ಗೆ (Sacred Yantras) */}
-      <section id="yantras-section" className="py-[72px] md:py-[105px] bg-cream-warm border-b border-line">
+      <section id="yantras-section" className="py-6 md:py-8 bg-cream-warm border-b border-line">
         <Container>
           <div
             ref={yantrasRef}
@@ -287,7 +287,7 @@ export default function HomePage() {
       </section>
 
       {/* 4. ನಾಲ್ಕನೆಯದು: ಆದ್ಯ ಡಿವೈನ್ ಸ್ಟಾರ್ (Adya Divine Store) */}
-      <section id="divine-store-section" className="py-[72px] md:py-[105px] bg-paper border-b border-line">
+      <section id="divine-store-section" className="py-6 md:py-8 bg-paper border-b border-line">
         <Container>
           <div
             ref={divineRef}
@@ -295,15 +295,15 @@ export default function HomePage() {
               isDivineVisible ? 'animate-reveal-up' : 'opacity-0 translate-y-[25px]'
             }`}
           >
-            <div className="mx-auto mb-10 max-w-5xl border-2 border-maroon bg-cream-light p-1.5 shadow-sm">
-              <div className="border border-gold px-4 py-8 sm:px-8 md:py-10 text-center">
+            <div className="mx-auto max-w-4xl border-2 border-maroon bg-cream-light p-1.5 shadow-sm">
+              <div className="border border-gold px-5 py-8 text-center sm:px-10 md:py-10">
                 <p className="m-0 text-xs tracking-[0.3em] text-maroon" aria-hidden="true">
                   ॥ ॐ ॥
                 </p>
                 <img
                   src="/images/brand/adya-logo.jpeg"
                   alt={isKn ? 'ಆದ್ಯ ಜ್ಯೋತಿರ್ವಿಜ್ಞಾನ ಸಂಶೋಧನಾ ಕೇಂದ್ರ' : 'Adya Jyothirvijnana Samshodhana Kendra'}
-                  className="mx-auto my-3 h-20 w-32 object-contain sm:h-24 sm:w-40"
+                  className="mx-auto my-3 h-24 w-36 object-contain sm:h-32 sm:w-48"
                 />
                 <p className="m-0 text-[10px] font-bold uppercase tracking-[0.2em] text-gold">
                   {isKn ? 'ನಾಲ್ಕನೆಯದು • ಪವಿತ್ರ ಧಾರ್ಮಿಕ ಪರಿಕರಗಳು' : '04 • SACRED SPIRITUAL ARTICLES'}
@@ -316,98 +316,33 @@ export default function HomePage() {
                 <h2 className="m-0 font-serif text-2xl sm:text-3xl font-semibold leading-snug text-maroon">
                   {isKn ? 'ಆದ್ಯ ಡಿವೈನ್ ಸ್ಟಾರ್' : 'Adya Divine Store'}
                 </h2>
-                <p className="mx-auto mb-8 mt-2 max-w-2xl text-sm leading-relaxed text-muted">
+                <p className="mx-auto mb-6 mt-2 max-w-xl text-sm leading-relaxed text-muted">
                   {isKn
                     ? 'ರುದ್ರಾಕ್ಷಿಗಳು, ಸ್ಪಟಿಕ ಮಾಲೆಗಳು, ನವರತ್ನಗಳು, ಪವಿತ್ರ ಬ್ರಾಸ್ಲೈಟ್‌ಗಳು ಹಾಗೂ ಅಸಲಿ ಕರಂಗೋಲಿ ಮಾಲೆಗಳ ಪವಿತ್ರ ಸಂಗ್ರಹ.'
                     : 'Consecrated Rudraksha beads, pure Spatika quartz malas, certified Navaratnas, sacred energy bracelets, and genuine Karungali malas.'}
                 </p>
 
-                {/* Divine Store Items */}
-                <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3.5 sm:gap-4 text-left">
+                <div className="grid grid-cols-2 gap-2.5 sm:grid-cols-3 lg:grid-cols-5">
                   {DIVINE_STORE_ITEMS.map((item) => (
-                    <article
+                    <a
                       key={item.id}
-                      className="group flex flex-col justify-between border border-gold/70 bg-white p-2.5 sm:p-3.5 transition-all duration-300 hover:border-maroon hover:shadow-md rounded-xs"
+                      href={`${BUSINESS.whatsapp}?text=${encodeURIComponent(item.enquiryText)}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="grid min-h-[72px] place-items-center border border-gold/70 bg-white/70 px-3 py-2 font-serif text-sm font-semibold leading-tight text-maroon transition-colors hover:bg-maroon hover:text-white sm:text-base"
                     >
-                      <div>
-                        <div className="relative w-full aspect-square overflow-hidden bg-cream-light/60 border border-line/60 rounded-xs mb-2 sm:mb-3">
-                          <img
-                            src={item.imageUrl}
-                            alt={isKn ? item.title : item.enTitle}
-                            loading="lazy"
-                            className="w-full h-full object-contain p-1.5 sm:p-2 transition-transform duration-500 group-hover:scale-105"
-                          />
-                          <span className="absolute top-1 left-1 sm:top-1.5 sm:left-1.5 bg-maroon/90 text-gold-light text-[7px] sm:text-[8px] font-bold tracking-wider px-1.5 py-0.5 rounded-xs uppercase">
-                            {item.sanskritLabel}
-                          </span>
-                        </div>
-
-                        <h3 className="m-0 font-serif font-bold text-xs sm:text-[15px] text-maroon leading-snug group-hover:text-saffron transition-colors">
-                          {isKn ? item.title : item.enTitle}
-                        </h3>
-                        <p className="m-0 text-[9px] sm:text-[10px] text-gold font-medium mt-0.5 tracking-wide">
-                          {isKn ? item.enTitle : item.title}
-                        </p>
-                        <p className="m-0 text-[10px] sm:text-[11px] text-ink/75 leading-relaxed mt-2 line-clamp-3">
-                          {isKn ? item.description : item.enDescription}
-                        </p>
-                      </div>
-
-                      <div className="pt-2 sm:pt-3 mt-2 sm:mt-3 border-t border-line/60">
-                        <a
-                          href={`${BUSINESS.whatsapp}?text=${encodeURIComponent(item.enquiryText)}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="inline-flex items-center justify-center gap-1.5 w-full py-1.5 sm:py-2 px-2 bg-cream hover:bg-maroon text-maroon hover:text-white border border-line hover:border-maroon text-[10px] sm:text-[11px] font-bold rounded-xs transition-all duration-200"
-                        >
-                          <WhatsAppIcon className="w-3 sm:w-3.5 h-3 sm:h-3.5" />
-                          <span>{isKn ? 'ವಿಚಾರಿಸಿ' : 'Enquire'}</span>
-                          <span>↗</span>
-                        </a>
-                      </div>
-                    </article>
+                      {isKn ? item.title : item.enTitle}
+                    </a>
                   ))}
                 </div>
-
-                {/* Direct Action Link to Catalogue */}
-                <div className="mt-8 text-center">
-                  <Button variant="primary" href="/books">
-                    {isKn ? 'ಎಲ್ಲಾ ಧಾರ್ಮಿಕ ಪರಿಕರಗಳನ್ನು ವೀಕ್ಷಿಸಿ' : 'Explore All Sacred Articles'} <span>→</span>
-                  </Button>
-                </div>
               </div>
-            </div>
-
-            {/* Bottom Support & Order Guidance Strip */}
-            <div className="mt-8 flex flex-col items-center justify-between gap-4 bg-maroon px-6 py-5 text-center text-white sm:flex-row sm:text-left">
-              <div>
-                <p className="m-0 text-[10px] font-semibold uppercase tracking-[0.16em] text-gold-light">
-                  {isKn ? 'ಸಿದ್ಧ ಪರಿಕರಗಳ ವಿಚಾರಣೆಗಾಗಿ ಸಂಪರ್ಕಿಸಿ' : 'CONSECRATED SACRED ARTICLES ENQUIRIES'}
-                </p>
-                <p className="m-0 mt-1 font-serif text-sm text-white/90">
-                  {isKn
-                    ? 'ಪ್ರತಿಯೊಂದು ಪರಿಕರವನ್ನೂ ವಿಧಿಪೂರ್ವಕವಾಗಿ ಶುದ್ಧೀಕರಿಸಿ, ಮಂತ್ರಪೂತಗೊಳಿಸಿ ನೀಡಲಾಗುತ್ತದೆ.'
-                    : 'Every item is purified and consecrated according to Vedic traditions prior to dispatch.'}
-                </p>
-              </div>
-              <Button
-                variant="outline"
-                href={`${BUSINESS.whatsapp}?text=${encodeURIComponent(
-                  'ನಮಸ್ಕಾರ, ಆದ್ಯ ಡಿವೈನ್ ಸ್ಟಾರ್‌ನ ರುದ್ರಾಕ್ಷಿ, ಸ್ಪಟಿಕ, ನವರತ್ನಗಳು, ಬ್ರಾಸ್ಲೈಟ್‌ಗಳು ಹಾಗೂ ಕರಂಗೋಲಿ ಮಾಲೆಗಳ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ವಿವರಗಳನ್ನು ತಿಳಿಸಿ.'
-                )}`}
-                className="inline-flex items-center gap-2 shrink-0"
-              >
-                <WhatsAppIcon className="w-4 h-4" />
-                <span>{isKn ? 'ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ ವಿಚಾರಿಸಿ' : 'Enquire on WhatsApp'}</span>
-                <span>↗</span>
-              </Button>
             </div>
           </div>
         </Container>
       </section>
 
       {/* 5. ಐದನೆಯದು: ನಮ್ಮಲ್ಲಿ ಸಿಗುವ ಇತರ ಸೌಲಭ್ಯಗಳ ಬಗ್ಗೆ */}
-      <section id="facilities-section" className="py-[72px] md:py-[105px] bg-cream-warm border-b border-line">
+      <section id="facilities-section" className="py-6 md:py-8 bg-cream-warm border-b border-line">
         <Container>
           <div
             ref={facilitiesRef}
@@ -415,7 +350,7 @@ export default function HomePage() {
               isFacilitiesVisible ? 'animate-reveal-up' : 'opacity-0 translate-y-[25px]'
             }`}
           >
-            <div className="mx-auto mb-10 max-w-4xl border-2 border-maroon bg-cream-light p-1.5 shadow-sm">
+            <div className="mx-auto max-w-4xl border-2 border-maroon bg-cream-light p-1.5 shadow-sm">
               <div className="border border-gold px-5 py-8 text-center sm:px-10 md:py-10">
                 <p className="m-0 text-xs tracking-[0.3em] text-maroon" aria-hidden="true">
                   ॥ ॐ ॥
@@ -464,7 +399,7 @@ export default function HomePage() {
       </section>
 
       {/* 6. ಆರನೆಯದು: ನಮ್ಮ ತರಗತಿಗಳ ಬಗ್ಗೆ ವಿವರಣೆ (Classes & Courses) */}
-      <section id="classes-section" className="py-[72px] md:py-[105px] bg-paper border-b border-line">
+      <section id="classes-section" className="py-6 md:py-8 bg-paper border-b border-line">
         <Container>
           <div
             ref={classesRef}
