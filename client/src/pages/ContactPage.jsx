@@ -34,12 +34,6 @@ export default function ContactPage() {
                 href={BUSINESS.phoneLinks[0]}
               />
               <ContactRow
-                icon={<PhoneIcon className="w-5 h-5 text-maroon" />}
-                label={t.contact.callUs}
-                value={BUSINESS.phone[1]}
-                href={BUSINESS.phoneLinks[1]}
-              />
-              <ContactRow
                 icon={<WhatsAppIcon className="w-5 h-5 text-[#25D366]" />}
                 label={t.contact.messageUs}
                 value={t.contact.whatsappLabel}

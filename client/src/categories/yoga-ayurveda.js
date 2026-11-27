@@ -1,4 +1,4 @@
-// Category: Yoga, Ayurveda & Spirituality
+// Category: yoga-ayurveda
 export const yogaAyurvedaBooks = [
   {
     "id": "ayurveda-mattu-padartha-vijnyana",
@@ -149,5 +149,95 @@ export const yogaAyurvedaBooks = [
     "category": "yoga-ayurveda",
     "description": "",
     "englishTitle": "Hathayoga Rajayoga Muktige Marga"
+  },
+  {
+    "id": "sharai-madhavakathaamarutama",
+    "title": "ಶ್ರೀ ಮಧ್ವಕಥಾಮೃತಮ್",
+    "sanskritLabel": "ADHYATMA",
+    "price": 100,
+    "imageUrl": "/images/yoga-ayurveda/sharai-madhavakathaamarutama.jpg",
+    "category": "yoga-ayurveda",
+    "description": "160 ಪುಟಗಳ ಶ್ರೀ ಮದ್ವಾಚಾರ್ಯರ ವಿಶೇಷವಾದ ಕಥೆಗಳ ಒಳಗೊಂಡಿರುವ ಪುಸ್ತಕ, ಸುಮಧುವ ವಿಜಯ ಪ್ರತಿಸರ್ಗದ ಕಥಾಸಾರ ಹಾಗೂ ಇತರ ಮಾಹಿತಿಗಳೊಂದಿಗೆ. ಡಾ. ಎಬಿ ಶಾಮಾಚಾರ್ಯ",
+    "englishTitle": "Sharai Madhavakathaamarutama"
+  },
+  {
+    "id": "janyaana-naidhai",
+    "title": "ಜ್ಞಾನ ನಿಧಿ",
+    "sanskritLabel": "ADHYATMA",
+    "price": 180,
+    "imageUrl": "/images/yoga-ayurveda/janyaana-naidhai.jpg",
+    "category": "yoga-ayurveda",
+    "description": "230 ಪುಟಗಳ ಸದ್ಗುರು ಶ್ರೀ ಸತ್ತುಪಾಸಿನಿ ವಿರಚಿತ ಜ್ಞಾನ ನಿಧಿ ಪುಸ್ತಕ,",
+    "englishTitle": "Janyaana Naidhai"
+  },
+  {
+    "id": "gauraudaeva-sharairaamakarushana",
+    "title": "ಗುರುದೇವ ಶ್ರೀರಾಮಕೃಷ್ಣ",
+    "sanskritLabel": "ADHYATMA",
+    "price": 220,
+    "imageUrl": "/images/yoga-ayurveda/gauraudaeva-sharairaamakarushana.jpg",
+    "category": "yoga-ayurveda",
+    "description": "664 ಪುಟಗಳ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ರವರ ಸಂಪೂರ್ಣ ಚರಿತ್ರೆ ಇರುವಂತಹ ವಿಶೇಷವಾದ ಪುಸ್ತಕ, ಸ್ವಾಮಿ ಸೋಮನಾಥಾನಂದರವರ",
+    "englishTitle": "Gauraudaeva Sharairaamakarushana"
+  },
+  {
+    "id": "aadhayaatamamaalaa",
+    "title": "ಆಧ್ಯಾತ್ಮಮಾಲಾ",
+    "sanskritLabel": "ADHYATMA",
+    "price": 120,
+    "imageUrl": "/images/yoga-ayurveda/aadhayaatamamaalaa.jpg",
+    "category": "yoga-ayurveda",
+    "description": "280 ಪುಟಗಳ ಆಧ್ಯಾತ್ಮ ಮಾಲಾ, ಅನೇಕ ಪ್ರಮೇಯಗಳ ಅಪೂರ್ವ ಗ್ರಂಥ, ಡಾ ಎಬಿ ಶಾಮಾಚಾರ್ಯ",
+    "englishTitle": "Aadhayaatamamaalaa"
+  },
+  {
+    "id": "vaivaekaanamdatavadaimda-paraipaurana-vayakataitava",
+    "title": "ವಿವೇಕಾನಂದತ್ವದಿಂದ ಪರಿಪೂರ್ಣ ವ್ಯಕ್ತಿತ್ವ",
+    "sanskritLabel": "ADHYATMA",
+    "price": 250,
+    "imageUrl": "/images/yoga-ayurveda/vaivaekaanamdatavadaimda-paraipaurana-vayakataitava.jpg",
+    "category": "yoga-ayurveda",
+    "description": "214 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಯುವ ಜನತೆಗೆ ಓದಲೇ ಬೇಕಾದಂತಹ ಡಾಕ್ಟರ್ ಎ ಮಾಧವ ಉಡುಪ ಅವರ ವಿವೇಕಾನಂದ ತತ್ವದ ಪರಿಪೂರ್ಣ ವ್ಯಕ್ತಿತ್ವ ಪುಸ್ತಕ ತಪ್ಪದೆ ಎಲ್ಲರೂ ಓದಲೇಬೇಕಾದ ಪುಸ್ತಕ",
+    "englishTitle": "Vaivaekaanamdatavadaimda Paraipaurana Vayakataitava"
+  },
+  {
+    "id": "mahaabaelakau",
+    "title": "ಮಹಾಬೆಳಕು",
+    "sanskritLabel": "ADHYATMA",
+    "price": 150,
+    "imageUrl": "/images/yoga-ayurveda/mahaabaelakau.jpg",
+    "category": "yoga-ayurveda",
+    "description": "135 ಪುಟಗಳ ಡಾಕ್ಟರ್ ಜಿಎಂ ಗಣೇಶ್ ರವರ ಪರಮಪೂಜ್ಯ ಶ್ರೀ ಸಿದ್ದೇಶ್ವರ ಸ್ವಾಮಿಗಳ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರವಚನಗಳನ್ನ ಒಳಗೊಂಡು ಮೂವತ್ತು ಸಾವಿರಕ್ಕೂ ಹೆಚ್ಚು ಮಾರಾಟವಾಗಿರುವಂತಹ ಮಹೌನ್ನತ ಕೃತಿ",
+    "englishTitle": "Mahaabaelakau"
+  },
+  {
+    "id": "baelakau",
+    "title": "ಬೆಳಕು",
+    "sanskritLabel": "ADHYATMA",
+    "price": 100,
+    "imageUrl": "/images/yoga-ayurveda/baelakau.jpg",
+    "category": "yoga-ayurveda",
+    "description": "84 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ನಮ್ಮ ಜೀವನದಲ್ಲಿ ಬೆಳಕನ್ನು ತರುವಂತಹ ಅತ್ಯಮೂಲ್ಯವಾದ ವಿಚಾರಗಳು ಇರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ಪ್ರತಿನಿತ್ಯ ಮಕ್ಕಳಿಗೆ ಹೇಳುವಂತ 64 ಕಥೆಗಳು ಇರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ತಪ್ಪದೆ ಪಡೆಯಿರಿ. ಶ್ರೀ ಶ್ರೀ ರಂಗಪ್ರಿಯ ಶ್ರೀ ಶ್ರೀ",
+    "englishTitle": "Baelakau"
+  },
+  {
+    "id": "vaijanyaanadamgala",
+    "title": "ವಿಜ್ಞಾನದಂಗಳ",
+    "sanskritLabel": "ADHYATMA",
+    "price": 140,
+    "imageUrl": "/images/yoga-ayurveda/vaijanyaanadamgala.jpg",
+    "category": "yoga-ayurveda",
+    "description": "134 ಪುಟಗಳ ಶಾಲಾ ಮಕ್ಕಳಿಗಾಗಿ ವಿಜ್ಞಾನ ಪ್ರಯೋಗಗಳು ಹಾಗೂ ಲೇಖನಗಳು ಇರುವಂತಹ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಚಿತ್ರಗಳ ಸಮೇತವಾಗಿ ವಿವರಿಸಲ್ಪಟ್ಟ ಪುಸ್ತಕ",
+    "englishTitle": "Vaijanyaanadamgala"
+  },
+  {
+    "id": "karushanaparajanyae-sharaeshathatama-yaoga-padadhatai",
+    "title": "ಕೃಷ್ಣಪ್ರಜ್ಞೆ ಶ್ರೇಷ್ಠತಮ ಯೋಗ ಪದ್ಧತಿ",
+    "sanskritLabel": "ADHYATMA",
+    "price": 80,
+    "imageUrl": "/images/yoga-ayurveda/karushanaparajanyae-sharaeshathatama-yaoga-padadhatai.jpg",
+    "category": "yoga-ayurveda",
+    "description": "ನೂರಾರು ಪುಟಗಳ ಶ್ರೀ ಕೃಷ್ಣ ಪ್ರಜ್ಞೆಯ ಕುರಿತಾದಂತಹ ವಿಶಿಷ್ಟವಾದ ಹೊತ್ತಿಗೆ, ಕನ್ನಡಕ್ಕೆ ಅನುವಾದ ಬಿವಿ ಶ್ರೀಧರ",
+    "englishTitle": "Karushanaparajanyae Sharaeshathatama Yaoga Padadhatai"
   }
 ];

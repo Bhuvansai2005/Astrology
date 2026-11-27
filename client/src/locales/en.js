@@ -1,6 +1,6 @@
 export const en = {
       "topStrip": {
-            "tagline": "✦ Authentic Classical Indian Literature & Shastric Consultations",
+            "tagline": "॥ ॐ ॥ Authentic Classical Indian Literature & Shastric Consultations",
             "langToggle": "ಕನ್ನಡ"
       },
       "brand": {
@@ -151,7 +151,7 @@ export const en = {
             "consultationsHeading": "Consultations",
             "connectHeading": "Connect",
             "copyright": "Adya Pustaka Bhandara. All rights reserved.",
-            "knowledgeTag": "Dedicated to the preservation of classical Indian knowledge ✦",
+            "knowledgeTag": "Dedicated to the preservation of classical Indian knowledge ॥ ॐ ॥",
             "vedasAgamasLink": "Vedas & Agamas Collection",
             "whatsappLink": "WhatsApp ↗",
             "telegramLink": "Telegram ↗",
@@ -178,7 +178,7 @@ export const en = {
             "itemsCount": "Selected Items",
             "shippingNotice": "Confirmed via WhatsApp",
             "estimatedTotal": "Estimated Subtotal:",
-            "noPaymentNotice": "✦ No online payment is collected here. Book availability, postage, and payment instructions are confirmed via WhatsApp.",
+            "noPaymentNotice": "• No online payment is collected here. Book availability, postage, and payment instructions are confirmed via WhatsApp.",
             "removeOne": "Decrease quantity",
             "addOne": "Increase quantity"
       },
@@ -311,6 +311,1118 @@ export const en = {
             "whatsappBtn": "Inquire on WhatsApp",
             "backBtn": "Back to Catalogue",
             "books": {
+            "mahaabhaarata-taataparaya-nairanaya-8-bhaagagalau": {
+                    "title": "ಮಹಾಭಾರತ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ 8 ಭಾಗಗಳು",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಕಿಮ್. 4584 ಪುಟಗಳ 8 ಭಾಗಗಳ ಡಾ, ವ್ಯಾಸನಕೆರೆ ಪ್ರಭಂಜನಾಚಾರ್ಯರ, ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರ ವಿರಚಿತ \"ಮಹಾಭಾರತತಾತ್ಪರ್ಯನಿರ್ಣಯ\" ಪುಸ್ತಕಗಳು, ಮಹಾಭಾರತದ ಕುರಿತು ನಮಗೆ ಇರುವಂತಹ ಎಲ್ಲಾ ಸಂಶಯ ಸಂದೇಹಗಳನ್ನ ಸ್ಪಷ್ಟವಾಗಿ ಪರಿಹಾರ ನೀಡುವಂತಹ ಮತ್ತು ಇನ್ನು ಹಲವಾರು ರಹಸ್ಯಮಯ ವಿಷಯಗಳನ್ನು ತಿಳಿಸುವಂತಹ ಪುಸ್ತಕಗಳು.",
+                    "price": 2000,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "bhavaishayamahaapauraanam-sampauta-1-raimda-8": {
+                    "title": "ಭವಿಷ್ಯಮಹಾಪುರಾಣಂ ಸಂಪುಟ 1 ರಿಂದ 8",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "4291 ಪುಟಗಳ 8 ಸಂಪುಟಗಳ ವೇದವ್ಯಾಸ ಪ್ರಣಿತ ಪುರಾಣ ಗ್ರಂಥ ಮಾಲ ಸಂಸ್ಕೃತ ಮೂಲ ಕನ್ನಡ ಅನುವಾದ ಸಹಿತ ಅನುವಾದಕರು ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ಪಂಡಿತ ಬಿ ಚನ್ನಕೇಶವಯ್ಯ",
+                    "price": 3000,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharaimadavaishanau-mahaapauraanam": {
+                    "title": "ಶ್ರೀಮದ್ವಿಷ್ಣು ಮಹಾಪುರಾಣಂ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "1108 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಸ್ತಾರವಾದ ಶ್ಲೋಕ ಮತ್ತು ಅರ್ಥ ಸಹಿತವಾಗಿ ಇರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ",
+                    "price": 800,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharai-madhavakathaamarutama": {
+                    "title": "ಶ್ರೀ ಮಧ್ವಕಥಾಮೃತಮ್",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "160 ಪುಟಗಳ ಶ್ರೀ ಮದ್ವಾಚಾರ್ಯರ ವಿಶೇಷವಾದ ಕಥೆಗಳ ಒಳಗೊಂಡಿರುವ ಪುಸ್ತಕ, ಸುಮಧುವ ವಿಜಯ ಪ್ರತಿಸರ್ಗದ ಕಥಾಸಾರ ಹಾಗೂ ಇತರ ಮಾಹಿತಿಗಳೊಂದಿಗೆ. ಡಾ. ಎಬಿ ಶಾಮಾಚಾರ್ಯ",
+                    "price": 100,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharaimada-bhagavadagaitaa-bhakataiyaoga": {
+                    "title": "ಶ್ರೀಮದ್ ಭಗವದ್ಗೀತಾ ಭಕ್ತಿಯೋಗ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "83 ಪುಟಗಳ ಶ್ರೀಮದ್ ಗಂಗಾಧರೇಂದ್ರ ಸರಸ್ವತಿ ಮಹಾಸ್ವಾಮಿಗಳ ಈ ವಿಶೇಷವಾದ ಭಗವದ್ಗೀತೆಯ ಭಕ್ತಿ ಯೋಗ ಪುಸ್ತಕ",
+                    "price": 80,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "janyaana-naidhai": {
+                    "title": "ಜ್ಞಾನ ನಿಧಿ",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "230 ಪುಟಗಳ ಸದ್ಗುರು ಶ್ರೀ ಸತ್ತುಪಾಸಿನಿ ವಿರಚಿತ ಜ್ಞಾನ ನಿಧಿ ಪುಸ್ತಕ,",
+                    "price": 180,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharai-paraoshathapadai-bhaagavatama-bhaaga-1-2": {
+                    "title": "ಶ್ರೀ ಪ್ರೋಷ್ಠಪದೀ ಭಾಗವತಮ್ ಭಾಗ 1 2",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರದಲ್ಲಿ ಸೇರ್ಪಡೆಯಾದ 2424 ಪುಟಗಳ 2 ಭಾಗಗಳ ಶ್ಲೋಕ ಮತ್ತು ಅರ್ಥ ಸಹಿತ ವಿವರಣೆ ಒಳಗೊಂಡಿರುವ 12 ಸ್ಕಂದಗಳ ಡಾ. ಚತುರ್ವೇದಿ ಎಸ್‌ ವೇದವ್ಯಾಸಾಚಾರ್ಯರ \"ಶ್ರೀ ಪ್ರೋಷ್ಠಪದೀ ಭಾಗವತಮ್\" ಪುಸ್ತಕಗಳು ಉಪನ್ಯಾಸ ಮಾಡುವವರಿಗೆ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದ ಪುಸ್ತಕಗಳು ಭಾಗವತ ಪುರಾಣದಲ್ಲಿ ಬರುವ ಹಲವಾರು ರಹಸ್ಯಮಯ ವಿಷಯಗಳನ್ನು ತಿಳಿಸುವ ಏಕೈಕ ಪುಸ್ತಕಗಳು.",
+                    "price": 2500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "garaudapauraana-karamakaamda-matatau-barahamakaamda-2-pausatakagalau": {
+                    "title": "ಗರುಡಪುರಾಣ ಕರ್ಮಕಾಂಡ ಮತ್ತು ಬ್ರಹ್ಮಕಾಂಡ (2 ಪುಸ್ತಕಗಳು)",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "1380 ಪುಟಗಳ 2 ಭಾಗಗಳ ಶ್ಲೋಕ ಮತ್ತು ಅರ್ಥ ಸಹಿತ ವಿವರಣೆಯೊಂದಿಗೆ ಡಾ. ಚತುರ್ವೇದಿ ವಿದ್ವಾನ್‌ ಎಸ್‌ ವೇದವ್ಯಾಸಾಚಾರ್ಯರ \"ಗರುಡ ಪುರಾಣ\" ಕರ್ಮಕಾಂಡ ಮತ್ತು ಬ್ರಹ್ಮಕಾಂಡ ಪುಸ್ತಕಗಳು ನಿಮ್ಮ ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರದಲ್ಲಿ ಲಭ್ಯ. ಅತ್ಯಂತ ರಹಸ್ಯಮಯವಾದ ವಿಷಯಗಳನ್ನು ತಿಳಿಸುವ ಪುಸ್ತಕಗಳು ಪ್ರತಿಯೊಬ್ಬರು ಭಗವದ್ಗೀತೆಯನ್ನು ಹೇಗೆ ಓದಲೇಬೇಕು ಹಾಗೆಯೇ ಈ ಗರುಡ ಪುರಾಣ ಪುಸ್ತಕವನ್ನು ಸಹ ಓದಲೇ ಬೇಕು",
+                    "price": 1100,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "haraivamsha-pauraanam-bhaaga-1-2": {
+                    "title": "ಹರಿವಂಶ ಪುರಾಣಂ ಭಾಗ 1 2",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಭಾಗ ಒಂದು 996 ಪುಟಗಳು ಭಾಗ-2 740 ಪುಟಗಳು ಒಟ್ಟು 1736 ಪುಟಗಳ ಶ್ಲೋಕ ಮತ್ತು ಅರ್ಥ ಸಹಿತವಾದಂತಹ ಶ್ರೀ ಹರಿವಂಶ ಪುರಾಣಂ ಪುಸ್ತಕ ಡಾಕ್ಟರ್ ಛತ್ರವೇದಿ ವಿದ್ವಾನ್ ಎಸ್ ವೇದವ್ಯಾಸಚಾರ್ಯರು",
+                    "price": 1000,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "dhanauramaasa-mahaatamaya": {
+                    "title": "ಧನುರ್ಮಾಸ ಮಹಾತ್ಮ್ಯ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "406 ಪುಟಗಳ ಧನುರ್ಮಾಸದ ಮಹಾತ್ಮವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಲೋಕ ಮತ್ತು ಅರ್ಥ ಸಹಿತವಾಗಿ ತಿಳಿಸಿರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ, ಪಂ ಶ್ರೀಕರಾಚಾರ್ಯ ಅಡವಿ",
+                    "price": 250,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "pataivarataa": {
+                    "title": "ಪತಿವ್ರತಾ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "216 ಪುಟಗಳ ಪತಿವ್ರತ ಆಚಾರ ವಿಚಾರಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ವಾದಿರಾಜಾಚಾರ್ಯ ಕರಣo",
+                    "price": 150,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "mahaapaurausha-paraikashaita-raaja": {
+                    "title": "ಮಹಾಪುರುಷ ಪರೀಕ್ಷಿತ ರಾಜ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "72 ಪುಟಗಳ ಪರೀಕ್ಷಿತ ರಾಜನ ಸ್ಪಷ್ಟವಾದ ಮಾಹಿತಿ ಇರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ವಿದ್ವಾನ್ ವಾದಿರಾಜಾಚಾರ್ಯ ಕಡಿಯಾಳಿ",
+                    "price": 60,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "matasayanagaraiyalalai-paamdavarau": {
+                    "title": "ಮತ್ಸ್ಯನಗರಿಯಲ್ಲಿ ಪಾಂಡವರು",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "315 ಪುಟಗಳ ಮಹಾಭಾರತದ ಮತ್ಸ್ಯ ನಗರಿಯಲ್ಲಿ ಪಾಂಡವರು ಹೋದಾಗ ನಡೆದಂತಹ ವಿಶೇಷವಾದ ಮಾಹಿತಿಗಳು ಇರುವಂತಹ ಪುಸ್ತಕ ಡಾಕ್ಟರ್ ಕೆ ಎಸ್ ನಾರಾಯಣಚಾರ್ಯ",
+                    "price": 380,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharairaamaayanada-mahaaparasamgagalau": {
+                    "title": "ಶ್ರೀರಾಮಾಯಣದ ಮಹಾಪ್ರಸಂಗಗಳು",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "420 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಶ್ರೀ ರಾಮಾಯಣದಲ್ಲಿ ಬರುವಂತಹ ಪ್ರಸಂಗಗಳ ಸಂಪೂರ್ಣ ಮಾಹಿತಿ ಇರುವಂತಹ ಪುಸ್ತಕ ಡಾಕ್ಟರ್ ಕೆ ಎಸ್ ನಾರಾಯಣಾಚಾರ್ಯ",
+                    "price": 450,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "mahaaparasathaana": {
+                    "title": "ಮಹಾಪ್ರಸ್ಥಾನ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "188 ಪುಟಗಳ ಮಹಾಭಾರತದಲ್ಲಿ ಬರುವಂತಹ ಮಹಾಪ್ರಸ್ಥಾನ ಎನ್ನುವಂತಹ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಪುಸ್ತಕ ಡಾಕ್ಟರ್ ಕೆ ಎಸ್ ನಾರಾಯಣಚಾರ್ಯ",
+                    "price": 200,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharaidaevaibhaagavata-mahaapauraanam": {
+                    "title": "ಶ್ರೀದೇವೀಭಾಗವತ ಮಹಾಪುರಾಣಂ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "2228 ಪುಟಗಳ ಭಾಗ-1 ಮತ್ತು 2, ವೇದವ್ಯಾಸ ಪ್ರಣಿತ ಸಂಸ್ಕೃತ ಮೂಲ ಮತ್ತು ಕನ್ನಡ ಅನುವಾದ ಇರುವಂತಹ ವಿಶೇಷವಾದ ಶ್ರೀದೇವಿ ಭಾಗವತ ಮಹಾಪುರಾಣಂ ಪುಸ್ತಕ. ಜಯಚಾಮರಾಜೇಂದ್ರ ಗ್ರಂಥ ಮಾಲ ಪುಷ್ಪ.",
+                    "price": 1900,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "narasaimhapauraanam": {
+                    "title": "ನರಸಿಂಹಪುರಾಣಂ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "1149 ಪುಟಗಳ, ವೇದವ್ಯಾಸ ಪ್ರಣಿತ ಸಂಸ್ಕೃತ ಮೂಲದಿಂದ ಕನ್ನಡಕ್ಕೆ ಅನುವಾದ ವಾಗಿರುವಂತಹ ವಿಶೇಷವಾದ ನರಸಿಂಹ ಪುರಾಣ. ಅನುವಾದಕರು ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ನವ ಪದ್ಮನಾಭಚಾರ್ಯರು..",
+                    "price": 500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "gauraudaeva-sharairaamakarushana": {
+                    "title": "ಗುರುದೇವ ಶ್ರೀರಾಮಕೃಷ್ಣ",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "664 ಪುಟಗಳ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ರವರ ಸಂಪೂರ್ಣ ಚರಿತ್ರೆ ಇರುವಂತಹ ವಿಶೇಷವಾದ ಪುಸ್ತಕ, ಸ್ವಾಮಿ ಸೋಮನಾಥಾನಂದರವರ",
+                    "price": 220,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "upanaishata-bhaavadhaarae": {
+                    "title": "ಉಪನಿಷತ್ ಭಾವಧಾರೆ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "756 ಪುಟಗಳ, ಲೇಖಕರು ಸ್ವಾಮಿ ಸೋಮನಾಥಾನಂದ.",
+                    "price": 350,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "gaitaabhaavadhaarae": {
+                    "title": "ಗೀತಾಭಾವಧಾರೆ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "782 ಪುಟಗಳ ಮಹಾಭಾರತ ಮತ್ತು ಭಗವದ್ಗೀತೆಯಲ್ಲಿ ಬರುವಂತಹ ಮುಖ್ಯ ಶ್ಲೋಕಗಳನ್ನು ಮತ್ತು ಅದರ ಸ್ಪಷ್ಟವಾದ ವಿವರಗಳನ್ನು ನೀಡಿರುವ ವಿಶಿಷ್ಟವಾದ ಗ್ರಂಥ, ಶ್ರೀ ಸ್ವಾಮಿ ಸೋಮನಾಥಾನಂದ",
+                    "price": 320,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sampaurana-sharaimada-bhaagavata": {
+                    "title": "ಸಂಪೂರ್ಣ ಶ್ರೀಮದ್ ಭಾಗವತ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "648 ಪುಟಗಳ 12 ಸ್ಕಂದಗಳ ವೇದವ್ಯಾಸ ವಿರಚಿತ ಸಂಪೂರ್ಣ ಶ್ರೀಮದ್ ಭಾಗವತ ಪುಸ್ತಕ ರಚನೆ ಪವನ ಸುತ",
+                    "price": 750,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "navagaraha-mahaatamae": {
+                    "title": "ನವಗ್ರಹ ಮಹಾತ್ಮೆ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "350 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ನವಗ್ರಹಗಳ ಮಹಾತ್ಮೆಯನ್ನು ತಿಳಿಸುವಂತಹ ಪುಸ್ತಕ ಚಿಕ್ಕೆರೂರು ದೇರೇಂದ್ರಾಚಾರ್ಯ",
+                    "price": 350,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "barahamarashai-vaishavaamaitara": {
+                    "title": "ಬ್ರಹ್ಮರ್ಷಿ ವಿಶ್ವಾಮಿತ್ರ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "200 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಬ್ರಹ್ಮರ್ಷಿ ವಿಶ್ವಾಮಿತ್ರರ ಸಂಪೂರ್ಣ ಮಾಹಿತಿಗಳನ್ನ ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ ಜೀ ವಿ ಶರ್ಮ ಪಂಡಿತ್",
+                    "price": 120,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "kaalaamaruta": {
+                    "title": "ಕಾಲಾಮೃತ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "168 ಪುಟಗಳ ಶ್ರೀಪಾದ ರಘುನಾಥ ಕುಲಕರ್ಣಿ ಅವರ ಪುಸ್ತಕ",
+                    "price": 150,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "bhakatai-saudhaa-bhakatai-bhajana-gaana": {
+                    "title": "ಭಕ್ತಿ ಸುಧಾ ಭಕ್ತಿ ಭಜನ ಗಾನ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "236 ಪುಟಗಳ ಸಂಗ್ರಹ ಟಿ ಪಿ ವಿನೋದ್ ಅವರ ಭಕ್ತಿಭರಿತ ಪುಸ್ತಕ",
+                    "price": 250,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "samsakaaramahaodadhai": {
+                    "title": "ಸಂಸ್ಕಾರಮಹೋದಧಿ:",
+                    "sanskrit": "HAVANA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "1149 ಪುಟಗಳ ವಿಸ್ತಾರವಾದ ಪುಸ್ತಕ ಸಂಸ್ಕಾರಮಹೋದಧಿಃ ಮಹಾಮಹೋಪಾಧ್ಯಾಯಃ ಡಾ॥ ಸ್ವಚ್ಚಂದಂ ಎ. ಅನಂತನರಸಿಂಹಾಚಾ‌ರ್ ಅವರ ಪುಸ್ತಕ",
+                    "price": 1500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "upanaishata-mamtaraaratha-samgaraha-sampauta-1-2-3": {
+                    "title": "ಉಪನಿಷತ್ ಮಂತ್ರಾರ್ಥ ಸಂಗ್ರಹ ಸಂಪುಟ 1 2 3",
+                    "sanskrit": "TANTRA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಭಾಗ-1 818 ಪುಟಗಳು ಭಾಗ - 2 805 ಪುಟಗಳು ಭಾಗ-3 812 ಪುಟಗಳು ಒಟ್ಟು 2430 ಪುಟಗಳು ಇರುವಂತಹ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ ಮತ್ತು ವಿಸ್ತಾರವಾದ 127 ಉಪನಿಷತ್ತುಗಳ ಮಂತ್ರ ಅರ್ಥ ಸಹಿತವಾಗಿ ಇರುವಂತಹ ಮೊದಲ ಬಾರಿಗೆ ಕನ್ನಡದಲ್ಲಿ ಅನುವಾದ ಮಾಡಿರುವಂತಹ ಪುಸ್ತಕ ಸಂಗ್ರಹ ಮತ್ತು ಅನುವಾದ ಕೆವಿ ಶ್ರೀನಿವಾಸಮೂರ್ತಿ.",
+                    "price": 4500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "garauda-mahaa-pauraana": {
+                    "title": "ಗರುಡ ಮಹಾ ಪುರಾಣ",
+                    "sanskrit": "TANTRA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "969 ಪುಟಗಳ ವಿದ್ವಾನ್ ಬಿ ಎನ್ ಶ್ರೀಕಂಠಯ್ಯ ಅವರ, ಪೂರ್ವ ಕಂಡ ಉತ್ತರ ಖಂಡ ಆಚಾರ ಕಂಡ ಧರ್ಮಚರಣೆ ಪ್ರೇತ ಕಲ್ಪ ದಾನಾದಿಗಳು ಹಾಗೂ ಶ್ರದ್ಧೆಗಳು ಇರುವಂತಹ ಕೃಷ್ಣ ಧ್ವಪಾಯನ ವ್ಯಾಸ ಪ್ರೋಗ್ರಾಮ್, ಗರುಡ ಮಹಾಪುರಾಣದಲ್ಲಿ ಮೂರು ಕಾಂಡಗಳಿದ್ದು, ಮೊದಲನೆಯದು ಪೂರ್ವಖಂಡ (ಆಚಾರ ಕಾಂಡ), ಎರಡನೆಯದು ಉತ್ತರಖಂಡ (ಧರ್ಮಕಾಂಡ-ಪ್ರೇತಕಲ್ಪ), ಮತ್ತು ಮೂರನೆಯದು ಬ್ರಹ್ಮಕಾಂಡ. ಗರುಡ ಮಹಾಪುರಾಣದ ಅಧಿಷ್ಠಾತ್ರ ದೇವರು ಭಗವಾನ್ ವಿಷ್ಣುವೇ ಆಗಿರುವುದರಿಂದ ಇದು ವೈಷ್ಣವ ಪುರಾಣ. ಜನಸಾಮಾನ್ಯರಲ್ಲಿ- ಗರುಡ ಮಹಾಪುರಾಣ ಮರಣಾನಂತರ ಕೇವಲ ಮೃತಜೀವಿಗಳ ಕಲ್ಯಾಣಕ್ಕಾಗಿಯೇ ಹೇಳಲ್ಪಡುವುದು ಎಂಬ ನಂಬಿಕೆ ಇದೆ. ಇದು ಸರ್ವಥಾ ತಪ್ಪು. ಈ ಪುರಾಣ ಬೇರೆ ಪುರಾಣಗಳಂತೆ ನಿತ್ಯಪಠನ-ಪಾಠನ ಮತ್ತು ಮನನದ ವಿಷಯವಾಗಿದೆ. ಇದರ ಸ್ವಾಧ್ಯಾಯ ಅನಂತ ಪುಣ್ಯದ ಪ್ರಾಪ್ತಿಯ ಜೊತೆಗೆ ಭಕ್ತಿ-ಜ್ಞಾನದ ವೃದ್ಧಿಯಲ್ಲಿ ಅನುಪಮ ಸಹಾಯಕವಾಗಿದೆ.\n\nಕೆಲವು ಮೂಢ ಜನರು ಯಾವುದೋ ಕಾಲದಲ್ಲಿ ಕಾರಣಾಂತರಗಳಿಂದ ಈ ಮಹಾಪುರಾಣ ಅಶೌಚ ನಿಷಿದ್ಧ ಎಂದರು. ಇದಕ್ಕೆ ಯಾವುದೇ ರೀತಿಯ ಶಾಸ್ತ್ರಾಧಾರವಿಲ್ಲ. ಸ್ವಯಂಕೃತ ಮಿಥ್ಯಾಕಲ್ಪನೆ. ಅಪ್ಪ ಹಾಕಿದ ಆಲದ ಮರ ಎನ್ನುವಂತೆ ಈಗಲೂ ಕೆಲವರು ಇದನ್ನು ಬಹಿಷ್ಕರಿಸಿದ್ದಾರೆ. ಇದು ಮೌಡ್ಯದ ಪರಮಾವಧಿ. ಪ್ರೇತಕರ್ಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಅನೇಕ ಮಂತ್ರಗಳನ್ನು ಪುರೋಹಿತರು ಬಾಯಿ ಪಾಠ ಮಾಡಿರುತ್ತಾರೆ. ಅದು ಸದಾ ಅವರ ಕೃತಿಯಲ್ಲಿ ಇರುತ್ತದೆ. ಹಾಗಾದರೆ, ಪುರೋಹಿತರು ಅಶೌಚರೇ? ಸ್ವಲ್ಪ ಯೋಚಿಸಬೇಕು.\n\nಈ ಪೂರ್ವಖಂಡ(ಆಚಾರಕಾಂಡ)ದಲ್ಲಿ ಬಹಳಷ್ಟು ಮುಖ್ಯ ವಿಷಯಗಳು ಉಲ್ಲೇಖಿತವಾಗಿವೆ. ಪ್ರಮುಖವಾಗಿ ಧರ್ಮ-ನೀತಿಸಾರ, ಆಯುರ್ವೇದ ಪ್ರಕರಣ, ವಿವಿಧ ರೋಗರುಜಿನಗಳ ಶಮನಾರ್ಥ ಅನೇಕ ದೇವಿ-ದೇವತೆಯರ ಸ್ತೋತ್ರಗಳು ನಿರೂಪಿತವಾಗಿವೆ. ಇದನ್ನು ಶ್ರದ್ಧಾ-ಭಕ್ತಿಯಿಂದ ಅಧ್ಯಯನ ಮಾಡಿದರೆ ಜೀವನ ಖಂಡಿತ ಸುಖಮಯವಾಗುವುದು. ಆದ್ದರಿಂದ ಸ್ತ್ರೀ-ಪುರುಷರಾದಿಯಾಗಿ ಅವಶ್ಯವಾಗಿ ಓದಲೇಬೇಕು.",
+                    "price": 2250,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "udadhavagaitae": {
+                    "title": "ಉದ್ಧವಗೀತೆ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "90 ಫೋಟೋಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಭಗವಾನ್ ಶ್ರೀ ಕೃಷ್ಣ ಉದ್ಧವನಿಗೆ ನೀಡಿದಂತಹ ಸಂದೇಶವೇ ಉದ್ಧವ ಗೀತೆ ಮುರಳಿಧರ ಅನಂತಮೂರ್ತಿ",
+                    "price": 120,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "vachana-darashana": {
+                    "title": "ವಚನ ದರ್ಶನ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "229 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ವಚನದರ್ಶನ ಪುಸ್ತಕ, ಶಿವಶರಣರ ವಚನದರ್ಶನ ವಚನದ ಬಯಲಿನಲ್ಲಿ ಉಪನಿಷತ್ತು ಶಿವ ಶರಣ ಒಂದು ಪರಿಕಲ್ಪನೆ ಶಿವಶರಣರ ಭಕ್ತಿ ಪರಂಪರೆ ಕಲ್ಯಾಣ ರಾಜ್ಯ ವಚನಗಳಲ್ಲಿ ಅಷ್ಟಾಂಗ ಯೋಗ ಈ ರೀತಿ ಇನ್ನೂ ವಿಶೇಷವಾದ ಮಾಹಿತಿಗಳನ್ನು ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ ಸಂಪಾದಕರು ಜನಮೇ ಜಯ ಉಮರ್ಜಿ",
+                    "price": 299,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "yaugaamtara": {
+                    "title": "ಯುಗಾಂತರ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "251 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಯುಗಾಂತರ ಐತಿಹಾಸಿಕ ಕಾದಂಬರಿ ಶ್ರೀಧರ ಡಿಎಸ್",
+                    "price": 299,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "samparadaayagalaelala-maudhanambaikaegalalala": {
+                    "title": "ಸಂಪ್ರದಾಯಗಳೆಲ್ಲ ಮೂಢನಂಬಿಕೆಗಳಲ್ಲ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "200 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ ನಮ್ಮ ಆಚಾರ ವಿಚಾರಗಳ ಮೂಲ ಉದ್ದೇಶಗಳನ್ನು ತಿಳಿಸುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ, ವಿದ್ಯಾನವೀನ್",
+                    "price": 240,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "aarashadharama": {
+                    "title": "ಆರ್ಷಧರ್ಮ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "480 ಪುಟಗಳ, ಅತಿ ಮುಖ್ಯವಾದ ಹಿಂದೂ ಧರ್ಮಾಚಾರದ ಸೂಕ್ಷ್ಮ ವಿಚಾರಗಳು, ಜೀ,ವಿ ಶರ್ಮಾ ಪಂಡಿತ್ ಸಂಸ್ಕೃತ ಭಾಷಾ ಪ್ರವೀಣರು",
+                    "price": 500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "haraidaasa-saahaitaya": {
+                    "title": "ಹರಿದಾಸ ಸಾಹಿತ್ಯ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "360 ಪುಟಗಳ ಹರಿದಾಸ ಸಾಹಿತ್ಯ ಅಭಿಮಾನಿ ಗಳಿಗೊಂಡು ಇಷ್ಟವಾದ ಕೈಪಿಡಿ ಭಾಗ ಒಂದು ಭಾಗ ಎರಡು ಒಂದರಲ್ಲಿ ಲಭ್ಯ, ಶ್ರೀ ಮಹಾತ್ವ ಗ್ರಂಥ ಪ್ರಕಾಶನ ಡಾ. ಎ ಬಿ ಶಾಮಾಚಾರ್ಯ",
+                    "price": 200,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "aadhayaatamamaalaa": {
+                    "title": "ಆಧ್ಯಾತ್ಮಮಾಲಾ",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "280 ಪುಟಗಳ ಆಧ್ಯಾತ್ಮ ಮಾಲಾ, ಅನೇಕ ಪ್ರಮೇಯಗಳ ಅಪೂರ್ವ ಗ್ರಂಥ, ಡಾ ಎಬಿ ಶಾಮಾಚಾರ್ಯ",
+                    "price": 120,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "jaivana-sautaragalau-bhaaga-1": {
+                    "title": "ಜೀವನ ಸೂತ್ರಗಳು ಭಾಗ 1",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "314 ಪುಟಗಳ, ಪ್ರತಿಯೊಬ್ಬರೂ ಓದಲೇ ಬೇಕಾದಂತಹ ಹರಿದಾಸೋಕ್ತಿಗಳ ಸಂಗ್ರಹ, ಶ್ರೀ ಮಹಾತ್ವ ಗ್ರಂಥ ಪ್ರಕಾಶನ, ಡಾ ಎಬಿ ರಾಮಾಚಾರ್ಯ",
+                    "price": 140,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "namama-aachaara-vaichaaragalau": {
+                    "title": "ನಮ್ಮ ಆಚಾರ ವಿಚಾರಗಳು",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "240 ಪುಟಗಳ ಡಾಕ್ಟರ್ ಎ ಮಾಧವ ಉಡುಪ ಅವರ ನಮ್ಮ ಆಚಾರಗಳ ವಿಚಾರಗಳನ್ನ ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಸುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ಪ್ರತಿಯೊಬ್ಬರ ತಪ್ಪದೇ ಓದಲೇ ಬೇಕಾದ ಪುಸ್ತಕ",
+                    "price": 300,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "vaivaekaanamdatavadaimda-paraipaurana-vayakataitava": {
+                    "title": "ವಿವೇಕಾನಂದತ್ವದಿಂದ ಪರಿಪೂರ್ಣ ವ್ಯಕ್ತಿತ್ವ",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "214 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಯುವ ಜನತೆಗೆ ಓದಲೇ ಬೇಕಾದಂತಹ ಡಾಕ್ಟರ್ ಎ ಮಾಧವ ಉಡುಪ ಅವರ ವಿವೇಕಾನಂದ ತತ್ವದ ಪರಿಪೂರ್ಣ ವ್ಯಕ್ತಿತ್ವ ಪುಸ್ತಕ ತಪ್ಪದೆ ಎಲ್ಲರೂ ಓದಲೇಬೇಕಾದ ಪುಸ್ತಕ",
+                    "price": 250,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "mahaabaelakau": {
+                    "title": "ಮಹಾಬೆಳಕು",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "135 ಪುಟಗಳ ಡಾಕ್ಟರ್ ಜಿಎಂ ಗಣೇಶ್ ರವರ ಪರಮಪೂಜ್ಯ ಶ್ರೀ ಸಿದ್ದೇಶ್ವರ ಸ್ವಾಮಿಗಳ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರವಚನಗಳನ್ನ ಒಳಗೊಂಡು ಮೂವತ್ತು ಸಾವಿರಕ್ಕೂ ಹೆಚ್ಚು ಮಾರಾಟವಾಗಿರುವಂತಹ ಮಹೌನ್ನತ ಕೃತಿ",
+                    "price": 150,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "aashalaeshaakalapa": {
+                    "title": "ಆಶ್ಲೇಷಾಕಲ್ಪ:",
+                    "sanskrit": "JYOTISHYA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "210 ಪುಟಗಳು ಸರ್ಪಸಂಸ್ಕಾರ ನಾಗ ಪ್ರತಿಷ್ಠಾ ವಿಧಿ ಸರ್ಪ ಸೂಕ್ತ ಹೋಮ ಆಶ್ಲೇಷ ಬಲಿ ವಿಶೇಷ ಪ್ರಾರ್ಥನಾ ಶ್ಲೋಕ ಸಹಿತ ಪ್ರಯೋಗ ಅನುಷ್ಠಾನವಿಧಿ ಇರುವಂತಹ ಪುಸ್ತಕ ಡಾ. ಬೆಳವಾಡಿ ಹರೀಶ ಭಟ್ಟ",
+                    "price": 225,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "naivau-jayaotaishayarae-bhaaga-1-2": {
+                    "title": "ನೀವೂ ಜ್ಯೋತಿಷ್ಯರೆ ಭಾಗ 1 2",
+                    "sanskrit": "JYOTISHYA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಭಾಗ-182 ಪುಟಗಳು ಭಾಗ-2 456 ಪುಟಗಳ ಲೇಖಕರು ಶ್ರೀ ಕೃಪಾನಂದ ಗುರೂಜಿ ಅವರ ವೈದಿಕ ಪದ್ಧತಿ ಪುಸ್ತಕಗಳು",
+                    "price": 2100,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "30-dainagalalalai-jayaotaishaya-kalaiyairai": {
+                    "title": "30 ದಿನಗಳಲ್ಲಿ ಜ್ಯೋತಿಷ್ಯ ಕಲಿಯಿರಿ",
+                    "sanskrit": "JYOTISHYA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "616 ಪುಟಗಳ ಶ್ರೀ ರಾಘವೇಂದ್ರ ಕುಲಕರ್ಣಿ ದಿದ್ದಿಗಿ ಅವರ ಜ್ಯೋತಿಷ್ಯವನ್ನ 30 ದಿನಗಳಲ್ಲಿ ಕಲಿಯುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿಸುವಂತಹ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಪುಸ್ತಕ",
+                    "price": 550,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "naalakau-vaedagalau": {
+                    "title": "ನಾಲ್ಕು ವೇದಗಳು",
+                    "sanskrit": "SAMHITA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "1358 ಪುಟಗಳ ಶೇಷ ನವರತ್ನ ಅವರ ನಾಲ್ಕು ವೇದಗಳ ಅಧ್ಯಯನವನ್ನು ಮಾಡುವಂತಹ ಒಂದು ವಿಶೇಷವಾದ ಪುಸ್ತಕ",
+                    "price": 1800,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "mahaapatana": {
+                    "title": "ಮಹಾಪತನ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "378 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಮಹಾಭಾರತದಲ್ಲಿ ಬರುವಂತಹ ಸುಯೋಧನನ (ದುರ್ಯೋಧನ) ಆತ್ಮಕಥನಕ ರೂಮಾಂಚನವಾದ ಪುಸ್ತಕ, ಸಂತೋಷ್ ಕುಮಾರ ಮೆಹೆಂದಳೆ",
+                    "price": 399,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharaimadadhaevai-bhaagavata-gaitaa-paraesa": {
+                    "title": "ಶ್ರೀಮದ್ಧೇವೀ ಭಾಗವತ (ಗೀತಾ ಪ್ರೆಸ್)",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "772 ಪುಟಗಳ ಕೇವಲ ಗದ್ಯಾನುವಾದ ಇರುವಂತಹ ಕಥೆಗಳ ರೂಪದಲ್ಲಿರುವಂತಹ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ದೇವಿಯ ಮಹಾತ್ಮೆಯನ್ನು ತಿಳಿಸುವ ಪುಸ್ತಕ ಕನ್ನಡಕ್ಕೆ ಅನುವಾದ ಕೀರ್ತನಾಚಾರ್ಯ ಲಕ್ಷ್ಮಣ ದಾಸ ವೇಲಣಕರ",
+                    "price": 300,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharaivaishanaurahasaya-bhaaga-1-2": {
+                    "title": "ಶ್ರೀವಿಷ್ಣುರಹಸ್ಯ ಭಾಗ 1 2",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "1912 ಪುಟಗಳ ಎರಡು ಭಾಗಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಶ್ರೀ ವಿಷ್ಣು ವಿನ ಕುರಿತಾಗಿ ರಹಸ್ಯವನ್ನು ತಿಳಿಸುವಂತಹ ಪುಸ್ತಕ ಶ್ರೀಧರಾಯಣ ಕೃತ ಅನುವಾದಕರು ಕೀರ್ತಿಶೇಷ ಮಾಧ್ವಭೂಷಣ ಬಿ ಭೀಮರಾವ್",
+                    "price": 550,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "satatatavaratanamaalaa": {
+                    "title": "ಸತ್ತತ್ವರತ್ನಮಾಲಾ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "500 ಪುಟಗಳ ತಾಮ್ರಪ್ಪರಣಿ ಶ್ರೀ ಆನಂದತೀರ್ಥಾಚಾರ್ಯ ವಿರಚಿತ ಅತ್ಯುತ್ತಮ ಬಲತೊಡೆಯಲ್ಲಿ ಕುಳಿತ ವಾಹಿದೇವರ ಮೂಲ ರೂಪ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಕೀರ್ತಿಶೇಷ ಮಾಧವಭೂಷಣ ಭೀಮರಾವ್",
+                    "price": 300,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "tatatavasauvavaalai": {
+                    "title": "ತತ್ತ್ವಸುವ್ವಾಲಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "300 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ. ಶ್ರೀ ಗಣಪತಿ ಸ್ತೋತ್ರ ಸೂರ್ಯದೇವನ ಸ್ತುತಿ ಚಂದ್ರದೇವನ ಸ್ತುತಿ ಅಂಗಾರಕ ಸ್ತುತಿ ಹೀಗೆ ಎಲ್ಲಾ ಗ್ರಹಗಳ ಸ್ತುತಿ ಮತ್ತೆ ಮಹಾದೇವರ ಸ್ಥಿತಿ ಶ್ರೀ ಪ್ರಾಣ ದೇವರ ಸ್ತುತಿ ಬ್ರಹ್ಮ ದೇವರ ಸ್ತುತಿ ಶ್ರೀನಿವಾಸ ಸ್ತೋತ್ರ ಇನ್ನು ಹಲವಾರು ಸ್ತೋತ್ರಗಳ ಅರ್ಥ ಮತ್ತು ವಿಶೇಷಗಳನ್ನು ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ. ಕೀರ್ತಿ ಶೇಷ ಮಾಧ್ವಭೂಷಣ ಭೀಮರಾವ್",
+                    "price": 160,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "samsakaaragalau-bhaaga-1-2": {
+                    "title": "ಸಂಸ್ಕಾರಗಳು ಭಾಗ-1 2",
+                    "sanskrit": "JYOTISHYA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಭಾಗ ಒಂದು 530 ಭಾಗ-2 235 ಪುಟಗಳ ಸಂಸ್ಕಾರಗಳು, ಏನು, ಏಕೆ, ಹೇಗೆ, ಎನ್ನುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಮಾಹಿತಿ ಇರುವ ಪುಸ್ತಕ. ಉಪನಯನ, ಅಗ್ನಿ ಕಾರ್ಯ, ಗರ್ಭದಾನ, ಪುಂಸವನ, ಸೀಮಂತೋನ್ನಯನ, ಜಾತಕರ್ಮ, ನಾಮಕರಣ, ನಿಷ್ಕ್ರಮಣ, ಉಪವೇಷನ, ಅನ್ನಪ್ರಾಶನ, ಕರ್ಣವೇದ, ಚೂಡಾಕರ್ಮ, ಅಕ್ಷರಾಭ್ಯಾಸ, ಇನ್ನು ಹಲವಾರು ವಿಶೇಷಗಳನ್ನು ಒಳಗೊಂಡ ಪುಸ್ತಕ ಶ್ರೀ ಶ್ರೀ ರಂಗಪ್ರಿಯ ಶ್ರೀ ಶ್ರೀ",
+                    "price": 900,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "baelakau": {
+                    "title": "ಬೆಳಕು",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "84 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ನಮ್ಮ ಜೀವನದಲ್ಲಿ ಬೆಳಕನ್ನು ತರುವಂತಹ ಅತ್ಯಮೂಲ್ಯವಾದ ವಿಚಾರಗಳು ಇರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ಪ್ರತಿನಿತ್ಯ ಮಕ್ಕಳಿಗೆ ಹೇಳುವಂತ 64 ಕಥೆಗಳು ಇರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ತಪ್ಪದೆ ಪಡೆಯಿರಿ. ಶ್ರೀ ಶ್ರೀ ರಂಗಪ್ರಿಯ ಶ್ರೀ ಶ್ರೀ",
+                    "price": 100,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "vaishavaraupa-darashana": {
+                    "title": "ವಿಶ್ವರೂಪ ದರ್ಶನ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "320 ಪುಟಗಳ ಶ್ರೀಮದ್ಭಗವದ್ಗೀತೆಯ 11ನೇ ಅಧ್ಯಾಯದಲ್ಲಿ ಬರುವಂತಹ ವಿಶ್ವರೂಪ ದರ್ಶನದ ಸಂಪೂರ್ಣ ಮಾಹಿತಿ ಇರುವಂತಹ ಏಕೈಕ ಪುಸ್ತಕ ಶ್ರೀ ಶ್ರೀ ರಂಗಪ್ರಿಯ ಶ್ರೀ ಶ್ರೀ",
+                    "price": 200,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "yayaatai": {
+                    "title": "ಯಯಾತಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "430 ಪುಟಗಳ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತ ಕಾದಂಬರಿ ವಿ ಎಸ್ ಖಾಂಡೇಕರ್, ಅನುವಾದ ಬಿ ಎಂ ಇನಾಂದಾರ್",
+                    "price": 450,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "omdaanaomdau-kaaladalalai": {
+                    "title": "ಒಂದಾನೊಂದು ಕಾಲದಲ್ಲಿ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "125 ಪುಟಗಳ ವೇದ ಉಪನಿಷತ್ತು ಇತಿಹಾಸ ಪುರಾಣಗಳಿಂದ ಆಯ್ದ ಪ್ರಸಿದ್ಧ ಕಥೆಗಳು, ನಾರಾಯಣಿ ದಾಮೋದರ್",
+                    "price": 80,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharai-karushanana-kathae": {
+                    "title": "ಶ್ರೀ ಕೃಷ್ಣನ ಕಥೆ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "96 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಸಂಪಟೂರು ವಿಶ್ವನಾಥ್ ಅವರ ಶ್ರೀ ಕೃಷ್ಣನ ಕಥೆಗಳು ಇರುವಂತಹ ವಿಶೇಷವಾದ ಪುಸ್ತಕ ಮಕ್ಕಳಿಗಾಗಿ",
+                    "price": 95,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharai-paratayamgairaa-tamtara-rahasaya": {
+                    "title": "ಶ್ರೀ ಪ್ರತ್ಯಂಗಿರಾ ತಂತ್ರ ರಹಸ್ಯ",
+                    "sanskrit": "TANTRA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "400 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಶ್ರೀ ಪ್ರತ್ಯಂಗಿರಾ ಪುರಸ್ಚರಣ ಪದ್ಧತಿ ಹಾಗೂ ಹೋಮ ವಿಧಾನ ಸಹಿತ ಇರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ಶ್ರೀ ರಾಘವೇಂದ್ರ ಕುಲಕರ್ಣಿ ದಿದ್ದಿಗಿ",
+                    "price": 350,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "taulaunaada-daaivagalau": {
+                    "title": "ತುಳುನಾಡ ದೈವಗಳು",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "120 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಕರ್ನಾಟಕದ ಕರಾವಳಿಯ ವಿಶಿಷ್ಟ ಧಾರ್ಮಿಕ ಸಂಸ್ಕೃತಿ ಭೂತಾರಾಧನೆ ತುಳುನಾಡ ದೈವಗಳು, ವಿಶ್ವನಾಥ ಪಂಜಿಮೊಗರು",
+                    "price": 120,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "karamasaakashai": {
+                    "title": "ಕರ್ಮಸಾಕ್ಷಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "200 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಬಾಣಗಳ ಹಾಸಿಗೆಯಲ್ಲಿ (ಶರಶಯ್ಯ) ಯಾತನೆಪಡುತ್ತಾ ಮಲಗಿದ್ದ ಭೀಷ್ಮರು ಶ್ರೀಕೃಷ್ಣನ ಸೂಚನೆಯಂತೆ ಧರ್ಮರಾಯನಿಗೆ ಧರ್ಮೋಪದೇಶ ಮಾಡುವಾಗ ಹೊಮ್ಮಿದ ಭಾವಧಾರೆ ಇದು. ಯತಿರಾಜ್ ಮೀರಾಂಬುದಿ",
+                    "price": 220,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "baudadha-nadaeda-haadai": {
+                    "title": "ಬುದ್ಧ ನಡೆದ ಹಾದಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ನೂರು ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಬುದ್ಧ ನಡೆದ ಹಾದಿ ಎನ್ನುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ, ಕೆ ರಾಮು",
+                    "price": 110,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "shaivadarashana": {
+                    "title": "ಶಿವದರ್ಶನ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "557 ಪುಟಗಳ ಶಿವನ ಪ್ರತಿಯೊಂದು ಸಹಸ್ರನಾಮಗಳಿಗೆ ಅರ್ಥ ಸಹಿತವಾಗಿ ವಿವರಣೆಗಳನ್ನು ನೀಡಿರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ, ವೇದ ಬ್ರಹ್ಮ ಶ್ರೀ ಡಿ ವಿಷ್ಣು ಭಟ್ ಡೊಂಗ್ರೆ",
+                    "price": 750,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "bhaavaraamaayana": {
+                    "title": "ಭಾವರಾಮಾಯಣ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "228 ಪುಟಗಳ ಶ್ರೀ ರಾಮಚಂದ್ರಪುರ ಮಠ ಶ್ರೀ ಸಂಸ್ಥಾನದ ಗುರುಗಳಾದಂತಹ ಶ್ರೀ ಶ್ರೀ ರಾಘವೇಂದ್ರ ಭಾರತೀ ಅವರ ಎಲ್ಲರೂ ಓದಲೇ ಬೇಕಾದಂತಹ ವಿಶಿಷ್ಟವಾದ ಭಾವ ರಾಮಾಯಣ ಪುಸ್ತಕ",
+                    "price": 270,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "kauraukashaetara-bhaaga-1-2": {
+                    "title": "ಕುರುಕ್ಷೇತ್ರ ಭಾಗ 1 2",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಜಗದೀಶ್ ಶರ್ಮ ಸಂಪ ಅವರ ಕುರುಕ್ಷೇತ್ರ ಪುಸ್ತಕದ 2 ಭಾಗ, ಇದರಲ್ಲಿ ಕುರುಕ್ಷೇತ್ರ ಯುದ್ಧದ ಘಟನೆಗಳನ್ನು ಇಂಚು ಹೆಚ್ಚಾಗಿ ಮಾಹಿತಿಯನ್ನು ನೀಡಿರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕಗಳು",
+                    "price": 480,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "dashakamtha-raavana": {
+                    "title": "ದಶಕಂಠ ರಾವಣ",
+                    "sanskrit": "TANTRA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "280 ಪುಟಗಳ ಜಗದೀಶ ಶರ್ಮ ಸಂಪ ಅವರ ದಶಕಂಠ ರಾವಣ. ಅವನು ಬ್ರಹ್ಮನ ಮರಿಮಗ. ವೇದ-ಶಾಸ್ತ್ರಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡಿದವ. ಅಸ್ತ್ರವಿದ್ಯೆಯಲ್ಲಿ ಕುಶಲ. ತಂತ್ರಗಾರಿಕೆಯಲ್ಲಿ ಪ್ರಚಂಡ. ಬಲಿಷ್ಠ-ಸಮರ್ಥ-ಪರಾಕ್ರಮಿ. ಅನ್ನಿಸಿದ್ದನ್ನು ಸಾಧಿಸಿ ಮುಗಿಸುವವ. ಇಷ್ಟೆಲ್ಲ ಇದ್ದೂ ಬೇರೇನೋ ಆಯಿತು. ಒಂದು ವರ; ಒಂದು ತಪ್ಪು ಒಂದು ತಪ್ಪು; ಒಂದು ಶಾಪ ಮತ್ತೊಂದು ವರ; ಮತ್ತೊಂದು ತಪ್ಪು ಮತ್ತೊಂದು ತಪ್ಪು; ಮತ್ತೊಂದು ಶಾಪ ಹೀಗೆ ಸಾಗಿತು ಅವನ ಬದುಕು. ಏಕಾಯಿತು? ಏನಾಯಿತು?\nತ್ರಿಭುವನ ತಲ್ಲಣನ ಇತಿವೃತ್ತ ಮೂಲಕ್ಕೆ ನಿಷ್ಠವಾದ ನಿರೂಪಣೆ ಅದೇ ದಶಕಂಠ ರಾವಣ",
+                    "price": 350,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "bhaishama": {
+                    "title": "ಭೀಷ್ಮ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "175 ಪುಟಗಳ ಜಗದೀಶ್ ಶರ್ಮ ಸಂಪ ಅವರ ಭೀಷ್ಮ ಹೇಳಿದ ಮ್ಯಾನೇಜ್ಮೆಂಟ್ ಕಥೆಗಳು ಮಾತುಕತೆ ಮಾತುಕತೆ ಪುಸ್ತಕ",
+                    "price": 200,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "haasana-jailalae-bhaaga-1-2": {
+                    "title": "ಹಾಸನ ಜಿಲ್ಲೆ ಭಾಗ 1 2",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಭಾಗ 1 758 ಪುಟ ಗಳು ಭಾಗ 2 742 ಪುಟ ಗಳು \nಹಾಸನ ಜಿಲ್ಲೆಯಲ್ಲಿ ಬರುವಂತಹ ತಾಲೂಕುಗಳು ಮತ್ತು ಪ್ರತಿಯೊಂದು ತಾಲೂಕುಗಳಲ್ಲಿ ಬರುವಂತಹ ಗ್ರಾಮಗಳ ಇಂಚು ಇಂಚು ಮಾಹಿತಿಗಳನ್ನ ಒಳಗೊಂಡಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ಗಳು, ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯ ಗೊಟಗೋಡಿ",
+                    "price": 1500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "chaitaradauraga-jailalae-bhaaga-1-2": {
+                    "title": "ಚಿತ್ರದುರ್ಗ ಜಿಲ್ಲೆ ಭಾಗ 1 2",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಭಾಗ ಒಂದು 577 ಪುಟಗಳು ಭಾಗ-2 661 ಪುಟಗಳು ಒಟ್ಟು ಎರಡು ಭಾಗಗಳ ಚಿತ್ರದುರ್ಗ ಜಿಲ್ಲೆ ತಾಲೂಕುಗಳು ಪ್ರತಿಯೊಂದು ತಾಲೂಕಿನಲ್ಲಿ ಬರುವಂತಹ ಗ್ರಾಮಗಳ ಸ್ಪಷ್ಟವಾದ ಮಾಹಿತಿಗಳನ್ನು ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ, ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯ ಗೊಟಗೋಡಿ",
+                    "price": 1500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "baelagaavai-jailalae-bhaaga-1-2": {
+                    "title": "ಬೆಳಗಾವಿ ಜಿಲ್ಲೆ ಭಾಗ 1 2",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಭಾಗ 1 493 ಪುಟಗಳು ಭಾಗ 2 572 ಪುಟಗಳು ಬೆಳಗಾವಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಬರುವಂತಹ ತಾಲೂಕುಗಳು ಒಂದೊಂದು ತಾಲೂಕಿನಲ್ಲಿ ಬರುವಂತಹ ಗ್ರಾಮಗಳ ವಿಶಿಷ್ಟವಾದ ಮಾಹಿತಿಗಳನ್ನು ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ, ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯ ಗೊಟಗೋಡಿ",
+                    "price": 1500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "vaijanyaanadamgala": {
+                    "title": "ವಿಜ್ಞಾನದಂಗಳ",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "134 ಪುಟಗಳ ಶಾಲಾ ಮಕ್ಕಳಿಗಾಗಿ ವಿಜ್ಞಾನ ಪ್ರಯೋಗಗಳು ಹಾಗೂ ಲೇಖನಗಳು ಇರುವಂತಹ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಚಿತ್ರಗಳ ಸಮೇತವಾಗಿ ವಿವರಿಸಲ್ಪಟ್ಟ ಪುಸ್ತಕ",
+                    "price": 140,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "vadadaikaerae-saidadaesha-charaitae": {
+                    "title": "ವದ್ದಿಕೆರೆ ಸಿದ್ದೇಶ ಚರಿತೆ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "130 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ವದ್ದಿಕೆರೆ ಸಿದ್ದೇಶ ಚರಿತ ಪುಸ್ತಕ ಪ್ರೊಫೆಸರ್ ಜಿ ಪರಮೇಶ್ವರಪ್ಪ",
+                    "price": 140,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharai-shaivasharana-saimdhaigaerai-malalapapa-taatanavara-charaitae": {
+                    "title": "ಶ್ರೀ ಶಿವಶರಣ ಸಿಂಧೀಗೇರಿ ಮಲ್ಲಪ್ಪ ತಾತನವರ ಚರಿತೆ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "114 ಪುಟಗಳ ಶ್ರೀ ಶಿವಶರಣ ಸಿಂಧಿಗೇರಿ ಮಲ್ಲಪ್ಪ ತಾತನವರ ಚರಿತ್ರೆಯನ್ನು ಹೇಳುವಂತಹ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ. ಕೆಆರ್ ಚನ್ನಪ್ಪ",
+                    "price": 150,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "4-vaedagala-26-pausatakagala-saeta": {
+                    "title": "4 ವೇದಗಳ 26 ಪುಸ್ತಕಗಳ ಸೆಟ್",
+                    "sanskrit": "SAMHITA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಆರ್ ಎಲ್ ಕಶ್ಯಪ ಅವರ 1. ಋಗ್ವೇದ ಸಂಹಿತೆ 14 ಪುಸ್ತಕಗಳು  2. ಯಜುರ್ವೇದ ತೈತ್ತಿರೀಯ ಸಂಹಿತೆ 4 ಪುಸ್ತಕಗಳು 3. ಸಾಮವೇದ ಪೂರ್ವಾರ್ಚಿಕ 1 ಪುಸ್ತಕ \n4. ಸಾಮವೇದ ಉತ್ತರಾ ರ್ಚಿಕ 1 ಪುಸ್ತಕ \n5. ಅಥರ್ವ ವೇದ 1 ರಿಂದ 20 ಖಂಡಗಳು 6 ಪುಸ್ತಕಗಳು \n\nಒಟ್ಟು 26 ಪುಸ್ತಕಗಳ 1 ಸೆಟ್\nRs 9175/- Post ಚಾರ್ಜ್ 600\nಟೋಟಲ್ 9775/-",
+                    "price": 9175,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "rugavaeda-samhaitae-bhaaga-1-raimda-14": {
+                    "title": "ಋಗ್ವೇದ ಸಂಹಿತೆ ಭಾಗ 1 ರಿಂದ 14",
+                    "sanskrit": "SAMHITA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ಒಟ್ಟು 4665 ಪುಟಗಳ 14 ಭಾಗಗಳ ಅತ್ಯಂತ ವಿಸ್ತಾರವಾದಂತಹ ಋಗ್ವೇದ ಸಂಹಿತೆ ಪುಸ್ತಕಗಳು, ಮೂಲ ಇಂಗ್ಲಿಷ್ ಆರ್ ಎಲ್ ಕಶ್ಯಪ, ಕನ್ನಡಕ್ಕೆ ಅನುವಾದ ಲಕ್ಷ್ಮಿಕಾಂತ ಹೆಗಡೆ",
+                    "price": 5025,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "atharava-vaeda-bhaaga-1-raimda-6": {
+                    "title": "ಅಥರ್ವ ವೇದ ಭಾಗ 1 ರಿಂದ 6",
+                    "sanskrit": "SAMHITA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "1709 ಪುಟಗಳ ಒಟ್ಟು ಇಪ್ಪತ್ತು ಕಾಂಡಗಳ ಅತ್ಯಂತ ವಿಸ್ತಾರವಾದ ಮಂತ್ರ ಅರ್ಥ ವಿವರಣೆ ಸಹಿತವಾಗಿರುವಂತಹ ಮೂಲ ಇಂಗ್ಲಿಷ್ ಆರ್ ಎಲ್ ಕಶ್ಯಪ , ಕನ್ನಡಕ್ಕೆ ಲಕ್ಷ್ಮಿಕಾಂತ ಹೆಗಡೆ",
+                    "price": 1950,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharaivaidayaa-upaasanae-yamtara-mamtara-tamtara": {
+                    "title": "ಶ್ರೀವಿದ್ಯಾ ಉಪಾಸನೆ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+                    "sanskrit": "TANTRA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "96 ಪುಟಗಳ ಸಾ ಕೃ ರಾಮಚಂದ್ರ ರಾವ್ ಅವರ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಶ್ರೀ ವಿದ್ಯಾ ಉಪಾಸನೆಗೆ ಬೇಕಾದಂತಹ ವಿಶಿಷ್ಟವಾದ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರಗಳ ಪುಸ್ತಕ",
+                    "price": 125,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "yajanya": {
+                    "title": "ಯಜ್ಞ",
+                    "sanskrit": "HAVANA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "147 ಪುಟಗಳ ಭೌತಿಕ ಹಾಗೂ ಸೂಕ್ಷ್ಮ ಯಜ್ಞ ಪುಸ್ತಕ ಮೂಲ ಇಂಗ್ಲಿಷ್ ಆರ್ ಎಲ್ ಕಶ್ಯಪ ಕನ್ನಡಕ್ಕೆ ಅನುವಾದ ಲಕ್ಷ್ಮಿಕಾಂತ ಹೆಗಡೆ",
+                    "price": 100,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharaichakara-paujaa-padadhatai-parakaasha": {
+                    "title": "ಶ್ರೀಚಕ್ರ ಪೂಜಾ ಪದ್ಧತಿ ಪ್ರಕಾಶ",
+                    "sanskrit": "TANTRA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "488 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ ಶ್ರೀ ಚಕ್ರವನ್ನು ಯಾವ ರೀತಿಯಾಗಿ ಪೂಜೆಯನ್ನು ಮಾಡಬೇಕು ಎನ್ನುವುದರ ಸ್ಪಷ್ಟ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ ಹಿಂದಿ ವ್ಯಾಖ್ಯಾನ ಶ್ರೀ ಸ್ವಾಮಿ ಶಾಂತಿರ್ ಧರ್ಮಾನಂದ ಸರಸ್ವತಿ ಹೃಷಿಕೇಶ, ಅನುವಾದ ಶ್ರೀ ಸ್ವಾಮಿ ಆತ್ಮಪ್ರಕಾಶಾನಂದ ಸರಸ್ವತಿ ಬದರಿ",
+                    "price": 1000,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "shaivamaogaga-jailalaeya-shailapakalaa-daevaalayakakae-daarai": {
+                    "title": "ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಶಿಲ್ಪಕಲಾ ದೇವಾಲಯಕ್ಕೆ ದಾರಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "191 ಪುಟಗಳ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಆಯುಧ ಐವತ್ತು ಸ್ಥಳಗಳಲ್ಲಿನ ದೇವಾಲಯಗಳ ಪರಿಚಯ ಹಾಗೂ ಮಾರ್ಗಸೂಚಿ ಇರುವಂತಹ ಶ್ರೀನಿವಾಸ ಮೂರ್ತಿ ಎನ್ಎಸ್ ಅವರ ಪುಸ್ತಕ",
+                    "price": 250,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "kalaimga-shailapakalaa-vaaibhava": {
+                    "title": "ಕಳಿಂಗ ಶಿಲ್ಪಕಲಾ ವೈಭವ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "59 ಪುಟಗಳ ಶ್ರೀನಿವಾಸ್ ಮೂರ್ತಿ ಎನ್ಎಸ್ ಅವರ ಭುವನೇಶ್ವರ ಸುತ್ತಮುತ್ತಲಿನ ಆಯ್ದ ಸುಂದರ ದೇವಾಲಯಗಳ ಪರಿಚಯ ಹಾಗೂ ಮಾರ್ಗಸೂಚಿ ಇರುವಂತಹ ಪುಸ್ತಕ",
+                    "price": 90,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "aalaya-darashana-pausataka-bhaaga-1": {
+                    "title": "ಆಲಯ ದರ್ಶನ ಪುಸ್ತಕ ಭಾಗ 1",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "285 ಪುಟಗಳ ನಮ್ಮ ಕರ್ನಾಟಕದ 50 ದೇವಾಲಯಗಳ ಇತಿಹಾಸ, ದೇವಾಲಯಗಳ ವಿಳಾಸ, ದೂರವಾಣಿ ಸಂಖ್ಯೆ ಇರುವ ಮತ್ತು ಹಬ್ಬಗಳ ಆಚರಣೆ ವಿಶೇಷತೆ, ನಿತ್ಯ ಸ್ತೋತ್ರಗಳು ಈ ಪುಸ್ತಕದಲ್ಲಿ ಲಭ್ಯವಿದೆ. ಲೇಖಕರು ಶಿವಾನಂದ.",
+                    "price": 300,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sauvarana-sairai": {
+                    "title": "ಸುವರ್ಣ ಸಿರಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "120 ಪುಟಗಳ ದೃಷ್ಟಾಂತ ಕಥಾ ಕೀರ್ತನ ಪುಸ್ತಕ ಪೊಳಲಿ ಜಗದೀಶ್ ದಾಸರು",
+                    "price": 150,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharai-raama-sapauratai": {
+                    "title": "ಶ್ರೀ ರಾಮ ಸ್ಪೂರ್ತಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "445 ಪುಟಗಳ ತುಕಾರಾಮ ಜಾದವ ಅವರ ಶ್ರೀರಾಮ ಸ್ಫೂರ್ತಿ ಪುಸ್ತಕ ಶ್ರೀ ಸಿದ್ದೇಶ್ವರ ಸ್ವಾಮಿಯವರ ಪ್ರೇರಣೆಯಿಂದ ಆದ ಕೃತಿ",
+                    "price": 500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "barahamaharashai-vasaishata-maharashai": {
+                    "title": "ಬ್ರಹ್ಮಹರ್ಷಿ ವಸಿಷ್ಟ ಮಹರ್ಷಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "230 ಪುಟಗಳ ವಶಿಷ್ಠ ಮಹರ್ಷಿಗಳ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಮತ್ತು ನಿಗೂಢವಾದ ಕಥೆಗಳು ಇರುವಂತಹ ಪುಸ್ತಕ ಎಚ್ ಎಸ್ ಕೆ ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+                    "price": 200,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "namama-rushaimaunaigalau": {
+                    "title": "ನಮ್ಮ ಋಷಿಮುನಿಗಳು",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "136 ಪುಟಗಳ 134 ಋಷಿಮುನಿಗಳ ಸಂಕ್ಷಿಪ್ತವಾದ ವಿವರಣೆಯ ಪುಸ್ತಕ. ಮಾತಾ ತ್ಯಾಗಮಯಿ",
+                    "price": 80,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "vaedakaalada-maharashaigalau": {
+                    "title": "ವೇದಕಾಲದ ಮಹರ್ಷಿಗಳು",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "112 ಪುಟಗಳ, 26 ವೇದಕಾಲದ ಮಹರ್ಷಿಗಳ ವಿಶಿಷ್ಟವಾದ ಮಾಹಿತಿ ಇರುವಂತಹ ಪುಸ್ತಕ, ಲೇಖಕರು ಸ್ವಾಮಿ ರಾಘವೇಶಾನಂದ.",
+                    "price": 70,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "gaovaimda-manaidarapana": {
+                    "title": "ಗೋವಿಂದ ಮಣಿದರ್ಪಣ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "240 ಪುಟಗಳ ಬನ್ನಂಜೆಯವರ ಕನ್ನಡ ಕೃತಿ ಸಮೀಕ್ಷೆ. ಸಂಪಾದಕರು ಡಾಕ್ಟರ್ ಹೆಚ್ ವಿ ನಾಗರಾಜ್ ರಾವ್, ಮಲ್ಲೇಪುರಂ ಜಿ ವೆಂಕಟೇಶ, ಕೋರ್ಗಿ ಶಂಕರನಾರಾಯಣ ಉಪಾಧ್ಯಾಯ",
+                    "price": 300,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "onakae-obavava": {
+                    "title": "ಒನಕೆ ಓಬವ್ವ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "81 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಡಾಕ್ಟರ್ ಬಿ ಎಂ ಪುಟ್ಟಯ್ಯ ಅವರ ವನಕೆ ಓಬವ್ವನ ಚರಿತ್ರೆಯನ್ನು ತಿಳಿಸುವಂತಹ ಪುಸ್ತಕ",
+                    "price": 120,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "vaagagaeyakaarara-vaagamaya": {
+                    "title": "ವಾಗ್ಗೇಯಕಾರರ ವಾಗ್ಮಯ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "161 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಪುರಂದರದಾಸರ ತ್ಯಾಗರಾಜರ ಕೀರ್ತನೆಗಳ ಪೂರ್ವಾಪರ, ಡಾಕ್ಟರ್ ಎಂ ಮೊಹಮ್ಮದ್ ಭಾಷಾ ಗೂಳ್ಯಂ",
+                    "price": 160,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "chhatarapatai-shaivaajai": {
+                    "title": "ಛತ್ರಪತಿ ಶಿವಾಜಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "340 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಛತ್ರಪತಿ ಶಿವಾಜಿಯ ಸಂಪೂರ್ಣ ವಿವರಣೆ ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ ತಮಿಳು ಮೂಲ ಕೆಪಿ ವೆಂಕಟರಾವ್ ಕಚೇರಿ ಕನ್ನಡಕ್ಕೆ ಶ್ರೀಮತಿ ರಮ ಶ್ರೀನಿವಾಸನ್",
+                    "price": 400,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "rana-dhauramdhara-chhatarapatai-shaivaajai": {
+                    "title": "ರಣ ಧುರಂಧರ ಛತ್ರಪತಿ ಶಿವಾಜಿ",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "290 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಗುರುಪ್ರಸಾದ್ ಭಟ್ಟ ಅವರ ಮಹಾರಾಜರ ಹತ್ತು ನಿರ್ಣಾಯಕ ಯುದ್ಧಗಳು ಮತ್ತು ಕಟ್ಟ ಕಡೆಯ ಯುದ್ಧದ ಒಂದು ವಿಶ್ಲೇಷಣೆ",
+                    "price": 360,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "chhatarapatai-shaivaajai-the-great-maratha": {
+                    "title": "ಛತ್ರಪತಿ ಶಿವಾಜಿ THE GREAT MARATHA",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "355 ಪುಟಗಳ ಛತ್ರಪತಿ ಶಿವಾಜಿಯ ಚಾರಿತ್ರಿಕ ಕಥನ ಡಾ. ಸರಜೂ ಕಾಟ್ಕರ್",
+                    "price": 360,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "bhagavadagaitaa-yathaaraopa": {
+                    "title": "ಭಗವದ್ಗೀತಾ ಯಥಾರೋಪ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "864 ಪುಟಗಳ 18 ಅಧ್ಯಾಯಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಪ್ರತಿಯೊಬ್ಬ ಜೀವನು ಓದಲೇ ಬೇಕಾದಂತಹ ಓದಿ ಉದ್ಧಾರವಾಗಲೇ ಬೇಕಾದಂತಹ ವಿಶಿಷ್ಟವಾದ ನಮ್ಮ ಪವಿತ್ರವಾದ ಗ್ರಂಥ, ಶ್ರೀ ಶ್ರೀಮದ್ ಎ ಸಿ ಭಕ್ತಿ ವೇದಾಂತ ಸ್ವಾಮಿ ಪ್ರಭುಪಾದ",
+                    "price": 500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "karushanaparajanyae-sharaeshathatama-yaoga-padadhatai": {
+                    "title": "ಕೃಷ್ಣಪ್ರಜ್ಞೆ ಶ್ರೇಷ್ಠತಮ ಯೋಗ ಪದ್ಧತಿ",
+                    "sanskrit": "ADHYATMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "ನೂರಾರು ಪುಟಗಳ ಶ್ರೀ ಕೃಷ್ಣ ಪ್ರಜ್ಞೆಯ ಕುರಿತಾದಂತಹ ವಿಶಿಷ್ಟವಾದ ಹೊತ್ತಿಗೆ, ಕನ್ನಡಕ್ಕೆ ಅನುವಾದ ಬಿವಿ ಶ್ರೀಧರ",
+                    "price": 80,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "dharama-ekae-enau": {
+                    "title": "ಧರ್ಮ ಏಕೆ? ಏನು?",
+                    "sanskrit": "DHARMA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "120 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಧರ್ಮ ಏಕೆ ಏನು ಎಂಬ ಈ ಗ್ರಂಥವು ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾಗಿದೆ ಮೂಲ ಶ್ರೀ ಶ್ರೀಮದ್ ಎಸಿ ಭಕ್ತಿ ವೇದಾಂತ ಸ್ವಾಮಿ ಪ್ರಭುಪಾದ ಕನ್ನಡ ಅನುವಾದ ಈಶ್ವರ ಚಂದ್ರ",
+                    "price": 110,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "bhaagavata": {
+                    "title": "ಭಾಗವತ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "577 ಪುಟಗಳ 12 ಸ್ಕಂದಗಳ ಪ್ರೊಫೆಸರ್ ಎನ್ಎಸ್ ಅನಂತ ರಾಮನ್ ಅವರ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಮತ್ತು ವಿಸ್ತಾರವಾದಂತಹ ಸುಲಭವಾಗಿ ಅರ್ಥವಾಗುವ ಭಾಗವತ ಪುಸ್ತಕ",
+                    "price": 700,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "pauraana-bhaarata-kaosha": {
+                    "title": "ಪುರಾಣ ಭಾರತ ಕೋಶ",
+                    "sanskrit": "HAVANA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "682 ಪುಟಗಳ ಪಂಡಿತ ಯಜ್ಞನಾರಾಯಣ ಉಡುಪ ಅವರ ಸಮಗ್ರ ಭರತ ವರುಷದ ವಸ್ತು ವ್ಯಕ್ತಿ ನಿಘಂಟು ವಿಸ್ತೃತ ವಿವರಣೆಯೊಂದಿಗೆ, ಅ ಅಕ್ಷರದಿಂದ ಜ್ಞ ಅಕ್ಷರದವರೆಗೂ ಬರುವಂತಹ ಎಲ್ಲಾ ಸ್ಪಷ್ಟವಾದ ಮಾಹಿತಿಗಳನ್ನು ಒಳಗೊಂಡಿರುವಂತಹ ಪುರಾಣ ಭಾರತ ಕೋಶ,",
+                    "price": 750,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharana-charaitaamaruta": {
+                    "title": "ಶರಣ ಚರಿತಾಮೃತ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "900 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ, ಅಕ್ಕಮಹಾದೇವಿ, ಹರಳಯ್ಯ, ಚೆನ್ನಬಸವಣ್ಣ, ಮರಳ ಶಂಕರ ದೇವ, ಚೌಡಯ್ಯ, ತೋಂಟದ ಸಿದ್ದಲಿಂಗೇಶ್ವರ ಈ ರೀತಿಯ60ಕ್ಕೂ ಹೆಚ್ಚು ಶರಣರ ಸಂಪೂರ್ಣವಾದ ಮಾಹಿತಿ ಇರುವಂತಹ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ಡಾಕ್ಟರ್ ಸಿದ್ದಯ್ಯ ಪುರಾಣಿಕ್",
+                    "price": 700,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "makakalaigaagai-vaedagalau-matatau-upanaishatataugalau": {
+                    "title": "ಮಕ್ಕಳಿಗಾಗಿ ವೇದಗಳು ಮತ್ತು ಉಪನಿಷತ್ತುಗಳು",
+                    "sanskrit": "SAMHITA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "443 ಪುಟಗಳ ರೂಪ ಪೈ ಅವರ ನಮ್ಮ ಪ್ರಾಚೀನ ಧರ್ಮಗ್ರಂಥಗಳ ಸಾರವನ್ನು ಮಕ್ಕಳಿಗೆ ತಲುಪಿಸುವುದೆಂದರೆ ಸುಲಭದ ಮಾತೇನಲ್ಲ, ಭಗವದ್ಗೀತೆಯ ಮೂಲಕ ರೂಪಾ ಪೈ ಅವರು ಆ ಕಾರ್ಯವನ್ನು ಈಗಾಗಲೇ ಸಾಧಿಸಿ ತೋರಿಸಿದ್ದಾರೆ. ಅದೇ ಕಾರ್ಯವನ್ನು ಈ ಕೃತಿಯ ಮೂಲಕ ಮತ್ತೆ ಸಾಧಿಸಿದ್ದಾರೆ. ದೊಡ್ಡವರು ಕೂಡ ಈ ಪುಸ್ತಕವನ್ನು ಓದಿ ಆನಂದಿಸಬಹುದು. - ಬಿಬೇಕ್ ದೇಬ್ರಾಯ್",
+                    "price": 450,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "kairaiyaraigaagai-bhagavadagaitae": {
+                    "title": "ಕಿರಿಯರಿಗಾಗಿ ಭಗವದ್ಗೀತೆ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "270 ಪುಟಗಳ ರೂಪ ಪೈ ಅವರ ಭಗವದ್ಗೀತೆಯನ್ನು ಮಕ್ಕಳು ಸಹ ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವ ಹಾಗೆ ಸ್ಪಷ್ಟವಾದ ವಿವರಣೆ ಇರುವಂತಹ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಪುಸ್ತಕ",
+                    "price": 260,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "makakalaigaagai-mahaabhaarata": {
+                    "title": "ಮಕ್ಕಳಿಗಾಗಿ ಮಹಾಭಾರತ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "246 ಪುಟಗಳ ಮಹಾಭಾರತದಲ್ಲಿ ಬರುವಂತಹ ಎಲ್ಲಾ ಕಥೆಗಳನ್ನು ಚಿತ್ರಗಳ ಸಹಿತವಾಗಿ ಮಕ್ಕಳಿಗೆ ಅರ್ಥವಾಗುವ ಸರಳ ಭಾಷೆಯಲ್ಲಿ ರಚಿಸಲ್ಪಟ್ಟ ಗ್ರಂಥ. ವಂದಗದ್ದೆ ಗಣೇಶ್",
+                    "price": 330,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "saravamaula-garamthagalau-gaitaa-parasathaana": {
+                    "title": "ಸರ್ವಮೂಲ ಗ್ರಂಥಗಳು ಗೀತಾ ಪ್ರಸ್ಥಾನ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "871 ಪುಟಗಳ ಶ್ರೀಮದಾನಂದ ತೀರ್ಥ ಭಗವತ್ಪಾದಾಚಾರ್ಯರ ವಿರಚಿತ ಸರ್ವ ಮೂಲ ಗ್ರಂಥಗಳು ಗೀತಾ ಪ್ರಸ್ತಾನ ಸಂಪಾದನೆ ಪೂರ್ಣಪ್ರಜ್ಞ ವಿದ್ಯಾಪೀಠದ ವಿದ್ವಾಂಸರು ಅನುವಾದಕರು ಶ್ರೀಮದ್ ಭಗವದ್ಗೀತಾ ವಿದ್ವಾನ್ ಕೆ ಹ್ಯಾವ ಧನ ಪುರಾಣಿ ಗೀತಾ ಭಾಷೆ ವಿದ್ವಾನ್ ಎ ಹರಿದಾಸ ಭಟ್ ಗೀತಾ ತಾತ್ಪರ್ಯ ಪ್ರೊಫೆಸರ್ ಕೆಟಿ ಪಾಂಡುರಂಗ",
+                    "price": 500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharairaaghavaemdaratairathavairachaita-gaitaavaivarutai": {
+                    "title": "ಶ್ರೀರಾಘವೇಂದ್ರತೀರ್ಥವಿರಚಿತ ಗೀತಾವಿವೃತಿ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "945 ಪುಟಗಳ ಶ್ರೀ ರಾಘವೇಂದ್ರ ಸ್ವಾಮಿಗಳ ವಿರಚಿತ \"ಭಗವದ್ಗೀತೆ ಗೀತಾವಿವೃತಿ\" ಕನ್ನಡ ಅನುವಾದ ಸಹಿತವಾಗಿರುವಂತಹ 18 ಅಧ್ಯಾಯಗಳ ಸರಳ ಕನ್ನಡ ಅನುವಾದದೊಂದಿಗೆ",
+                    "price": 500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+          "sharaimadabhagavadagaitaa": {
+                    "title": "ಶ್ರೀಮದ್ಭಗವದ್ಗೀತಾ",
+                    "sanskrit": "VEDANTA",
+                    "author": "Adya Pustaka Bhandara",
+                    "description": "560 ಪುಟಗಳ ಪವನ ಸುತ ಅವರ ಶ್ರೀಮದ್ ಭಗವದ್ಗೀತೆ ಪುಸ್ತಕ ಮೂಲ ಶ್ಲೋಕ ತಾತ್ಪರ್ಯ ಸಹಿತ 18 ಅಧ್ಯಾಯಗಳ ಸಂಪೂರ್ಣವಾದ ಮತ್ತು ವಿಸ್ತಾರವಾದ ಮತ್ತು ಸರಳವಾದ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ",
+                    "price": 500,
+                    "language": "Kannada",
+                    "type": "Printed Book",
+                    "pages": 0,
+                    "availability": "In Stock"
+          },
+
                   "yajurveda-taitariya-samhite-4-pustakagalu": {
                         "title": "ಯಜುರ್ವೇದ ತೈತರಿಯ ಸಂಹಿತೆ 4 ಪುಸ್ತಕಗಳು",
                         "sanskrit": "SAMHITA",
@@ -2794,7 +3906,36 @@ export const en = {
                         "price": 400,
                         "language": "Kannada",
                         "type": "Sacred Article",
-                        "pages": 0,
+                        "availability": "In Stock"
+                  },
+                  "spatika-male": {
+                        "title": "ಸ್ಪಟಿಕ ಮಾಲೆ",
+                        "sanskrit": "SPATIKA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "Pure faceted natural quartz crystal rosary for cooling the body, deep meditation, and peaceful mind.",
+                        "price": 450,
+                        "language": "Kannada",
+                        "type": "Sacred Article",
+                        "availability": "In Stock"
+                  },
+                  "navaratnagalu": {
+                        "title": "ನವರತ್ನಗಳು",
+                        "sanskrit": "NAVARATNA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "Certified authentic Vedic planetary gemstones for astrological balance and planetary propitiation.",
+                        "price": 1200,
+                        "language": "Kannada",
+                        "type": "Sacred Article",
+                        "availability": "In Stock"
+                  },
+                  "brasletgalu": {
+                        "title": "ಆಧ್ಯಾತ್ಮಿಕ ಬ್ರಾಸ್ಲೈಟ್ಗಳು",
+                        "sanskrit": "KANKANA",
+                        "author": "Adya Pustaka Bhandara",
+                        "description": "Handcrafted healing crystal and sacred Rudraksha wrist bracelets for daily spiritual protection and positive energy.",
+                        "price": 350,
+                        "language": "Kannada",
+                        "type": "Sacred Article",
                         "availability": "In Stock"
                   }
             }
@@ -2937,76 +4078,17 @@ export const en = {
             "title": "Classes and Study",
             "subtitle": "Structured traditional instruction in Astrology, Vastu Shastra, Vedas, Numerology, and Prashna Shastra taught by Chandrashekar Adya—welcoming both beginners and dedicated practitioners.",
             "prefix": "COURSE 0",
-            "durationLabel": "Duration:",
-            "modeLabel": "Format:",
-            "topicsHeading": "Curriculum Overview:",
             "ctaBtn": "Inquire About Enrollment",
             "bannerTitle": "Join an Upcoming Study Cohort",
             "bannerDesc": "Class sizes are intentionally kept small to preserve the guru-shishya spirit and individual mentorship. Contact us for upcoming schedules and admission details.",
             "bannerBtn": "Request Schedule & Fee Details",
             "courses": [
-                  {
-                        "title": "Vedic Astrology Classes",
-                        "duration": "3 Months (Weekend Sessions)",
-                        "mode": "In-Person & Online",
-                        "syllabus": [
-                              "Introduction to Rashis, Bhavas, and Graha Karakatwas",
-                              "Study of Nakshatras and planetary aspects",
-                              "Traditional Kundali (Birth Chart) construction",
-                              "Vimshottari Dasha calculations and Gochara fundamentals"
-                        ]
-                  },
-                  {
-                        "title": "Vastu Shastra Classes",
-                        "duration": "2 Months (Weekly Sessions)",
-                        "mode": "In-Person & Practical Fieldwork",
-                        "syllabus": [
-                              "Vastu Purusha Mandala and directional principles",
-                              "Residential planning: kitchen, bedroom, sanctuary, and entrance",
-                              "Land evaluation, soil testing, and site topography",
-                              "Pyramid and non-structural corrective methods"
-                        ]
-                  },
-                  {
-                        "title": "Veda Study Classes",
-                        "duration": "Ongoing Guided Study",
-                        "mode": "In-Person & Online",
-                        "syllabus": [
-                              "Accurate Vedic swara and phonetic recitation discipline",
-                              "Daily Suktas and traditional liturgical parayana",
-                              "Philosophical context of Vedic Samhitas"
-                        ]
-                  },
-                  {
-                        "title": "Numerology (Sankhyashastra) Classes",
-                        "duration": "6 Weeks",
-                        "mode": "In-Person & Online",
-                        "syllabus": [
-                              "Planetary rulership of numbers and birth-date interpretation",
-                              "Phonetic alignment for personal and commercial naming",
-                              "Practical chart-integrated numerical analysis"
-                        ]
-                  },
-                  {
-                        "title": "Prashna Shastra Intensive",
-                        "duration": "6 Weeks (Intermediate / Advanced)",
-                        "mode": "Interactive Online Sessions",
-                        "syllabus": [
-                              "Aroodha, Chhatra, and Udaya lagnas in horary analysis",
-                              "Tambula Prashna and Nimitta Shastra principles",
-                              "Case studies and supervised chart interpretation"
-                        ]
-                  },
-                  {
-                        "title": "Mantra Japa, Yantra & Sacred Recitation",
-                        "duration": "Monthly Workshops",
-                        "mode": "In-Person Workshop",
-                        "syllabus": [
-                              "Sanskrit pronunciation rules (Shiksha & Chandas)",
-                              "Sacred geometry and consecration of foundational Yantras",
-                              "Daily sandhyavandana and pooja methodology"
-                        ]
-                  }
+                  { "title": "Vedic Astrology Classes" },
+                  { "title": "Vastu Shastra Classes" },
+                  { "title": "Veda Study Classes" },
+                  { "title": "Numerology (Sankhyashastra) Classes" },
+                  { "title": "Prashna Shastra Intensive" },
+                  { "title": "Mantra Japa, Yantra & Sacred Recitation" }
             ]
       },
       "announcementsPage": {

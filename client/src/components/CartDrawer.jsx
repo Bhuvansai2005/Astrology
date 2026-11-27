@@ -5,7 +5,7 @@ import { useCart, useLanguage } from '../hooks';
 export function CartItem({ item, onUpdateQuantity }) {
   const { t } = useLanguage();
   const itemKey = item.bookId || item.id;
-  const displayName = (itemKey && t.categories.items[itemKey]?.title) || item.name;
+  const displayName = (itemKey && t.bookDetailsPage?.books?.[itemKey]?.title) || item.name;
 
   return (
     <div className="flex justify-between items-center gap-[15px] py-4 border-b border-line">

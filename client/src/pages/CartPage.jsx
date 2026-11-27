@@ -20,7 +20,9 @@ export default function CartPage() {
 
         {cart.length === 0 ? (
           <div className="bg-white border border-line p-12 text-center max-w-xl mx-auto my-8">
-            <span className="text-4xl font-serif text-gold block mb-3">ॐ</span>
+            <span className="mx-auto mb-3 block font-serif text-3xl text-gold select-none leading-none" aria-hidden="true">
+              ॐ
+            </span>
             <h2 className="text-xl font-serif text-maroon mb-2">{c.emptyTitle}</h2>
             <p className="text-muted text-sm mb-6">{c.emptyDesc}</p>
             <Button variant="primary" href="/books">

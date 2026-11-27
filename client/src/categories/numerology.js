@@ -1,4 +1,4 @@
-// Category: Numerology
+// Category: numerology
 export const numerologyBooks = [
   {
     "id": "nemalaji",

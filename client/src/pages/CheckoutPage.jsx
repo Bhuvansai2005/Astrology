@@ -2,7 +2,12 @@ import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Button, Container, SectionKicker } from '../components/UI';
 import { useCart, useLanguage } from '../hooks';
-import { BUSINESS } from '../config';
+import { BUSINESS, CATALOG_ITEMS } from '../config';
+
+// Defensive sanitizer to prevent WhatsApp markdown formatting disruption or injection
+function sanitizeText(str = '') {
+  return str.replace(/[*_~`]/g, '').trim();
+}
 
 export default function CheckoutPage() {
   const { cart, subtotal, clearCart } = useCart();
@@ -15,6 +20,7 @@ export default function CheckoutPage() {
     email: '',
     address: '',
   });
+  const [submitting, setSubmitting] = useState(false);
   const [pendingOrder, setPendingOrder] = useState(null);
   const [whatsappUrl, setWhatsappUrl] = useState('');
   const [error, setError] = useState('');
@@ -24,12 +30,32 @@ export default function CheckoutPage() {
     setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
-  // Step 1: Prepare order & WhatsApp preview
+  // Step 1: Validate, sanitize, re-verify prices against catalogue, and prepare WhatsApp preview
   const handleSubmit = (e) => {
     e.preventDefault();
     if (cart.length === 0) return;
 
     setError('');
+
+    const cleanName = sanitizeText(formData.name);
+    const cleanAddress = sanitizeText(formData.address);
+    const digitsOnlyPhone = formData.phone.replace(/\D/g, '');
+
+    if (cleanName.length < 2) {
+      setError(t.checkout?.nameError || 'Please enter a valid full name.');
+      return;
+    }
+
+    // Validate 10-digit Indian mobile number
+    if (digitsOnlyPhone.length < 10 || !/^[6-9]\d{9}$/.test(digitsOnlyPhone.slice(-10))) {
+      setError(t.checkout?.phoneError || 'Please enter a valid 10-digit mobile number.');
+      return;
+    }
+
+    if (cleanAddress.length < 5) {
+      setError(t.checkout?.addressError || 'Please provide a complete delivery address with PIN code.');
+      return;
+    }
 
     const refCode =
       'APB-' +
@@ -37,32 +63,40 @@ export default function CheckoutPage() {
       '-' +
       Math.random().toString(36).substring(2, 6).toUpperCase();
 
-    const items = cart.map((item) => ({
-      bookId: item.bookId || item._id || item.id,
-      name: item.name,
-      price: item.price,
-      quantity: item.quantity,
-      type: item.type || 'physical',
-    }));
+    // Security mitigation: Recalculate price from source-of-truth CATALOG_ITEMS to prevent client tampering
+    let verifiedSubtotal = 0;
+    const items = cart.map((item) => {
+      const canonicalBook = CATALOG_ITEMS.find((b) => b.id === (item.bookId || item.id));
+      const authoritativePrice = canonicalBook ? canonicalBook.price : item.price;
+      const safeQuantity = Math.max(1, Math.floor(Number(item.quantity) || 1));
+      verifiedSubtotal += authoritativePrice * safeQuantity;
+
+      return {
+        bookId: item.bookId || item._id || item.id,
+        name: sanitizeText(canonicalBook?.title || item.name),
+        price: authoritativePrice,
+        quantity: safeQuantity,
+        type: item.type || 'physical',
+      };
+    });
 
     const itemsList = items
       .map((item) => `• ${item.name} (Qty: ${item.quantity}) - ₹${item.price * item.quantity}`)
       .join('\n');
 
-    const msg = `*New Order - Adya Pustaka Bhandara*\n\n*Order Ref:* ${refCode}\n*Name:* ${
-      formData.name
-    }\n*Phone:* ${formData.phone}\n${
-      formData.email ? `*Email:* ${formData.email}\n` : ''
-    }*Address:* ${formData.address}\n\n*Items:*\n${itemsList}\n\n*Total:* ₹${subtotal}\n\nKindly confirm edition availability, postage, and payment instructions.`;
+    const msg = `*New Order - Adya Pustaka Bhandara*\n\n*Order Ref:* ${refCode}\n*Name:* ${cleanName}\n*Phone:* ${digitsOnlyPhone.slice(-10)}\n${
+      formData.email ? `*Email:* ${formData.email.trim()}\n` : ''
+    }*Address:* ${cleanAddress}\n\n*Items:*\n${itemsList}\n\n*Total:* ₹${verifiedSubtotal}\n\nKindly confirm edition availability, postage, and payment instructions.`;
 
     setWhatsappUrl(`${BUSINESS.orderWhatsapp}?text=${encodeURIComponent(msg)}`);
     setPendingOrder({
       orderRef: refCode,
-      name: formData.name,
-      phone: formData.phone,
-      email: formData.email || undefined,
-      address: formData.address,
+      name: cleanName,
+      phone: digitsOnlyPhone.slice(-10),
+      email: formData.email ? formData.email.trim() : undefined,
+      address: cleanAddress,
       items,
+      subtotal: verifiedSubtotal,
     });
   };
 
@@ -71,10 +105,12 @@ export default function CheckoutPage() {
     if (!pendingOrder || !whatsappUrl) return;
 
     setError('');
+    setSubmitting(true);
 
     const whatsappWindow = window.open(whatsappUrl, '_blank');
     if (!whatsappWindow) {
-      setError(t.checkout.popupBlockedError);
+      setSubmitting(false);
+      setError(t.checkout?.popupBlockedError || 'Popup blocked. Please click the direct WhatsApp link below.');
       return;
     }
 
@@ -84,6 +120,7 @@ export default function CheckoutPage() {
       // Ignore opener assignment errors on restricted contexts
     }
 
+    const orderSubtotal = pendingOrder.subtotal ?? subtotal;
     const orderData = {
       orderRef: pendingOrder.orderRef,
       customer: {
@@ -93,8 +130,8 @@ export default function CheckoutPage() {
         address: pendingOrder.address,
       },
       items: pendingOrder.items,
-      subtotal,
-      total: subtotal,
+      subtotal: orderSubtotal,
+      total: orderSubtotal,
       createdAt: new Date().toISOString(),
     };
 

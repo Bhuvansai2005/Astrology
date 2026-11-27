@@ -18,7 +18,6 @@ export default function BookDetailsPage() {
     price: bookFromConfig.price,
     language: 'ಕನ್ನಡ',
     type: bookFromConfig.category === 'sacred-articles' ? 'ಪವಿತ್ರ ಪರಿಕರ' : 'ಮುದ್ರಿತ ಆವೃತ್ತಿ',
-    pages: 0,
     availability: 'ಲಭ್ಯವಿದೆ',
   } : null);
 
@@ -80,7 +79,7 @@ export default function BookDetailsPage() {
               style={{ backgroundImage: `url(${imageUrl})` }}
             />
             <div className="mt-4 flex justify-between text-xs text-muted">
-              <span>✦ {dp.catalogue}</span>
+              <span>{dp.catalogue}</span>
               <span className="text-success-text font-bold">● {book.availability}</span>
             </div>
           </div>
@@ -103,7 +102,7 @@ export default function BookDetailsPage() {
 
               <p className="text-muted text-[15px] leading-relaxed mb-6">{book.description}</p>
 
-              <div className="grid grid-cols-2 gap-3 p-4 bg-cream border border-line text-xs mb-8">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 p-4 bg-cream border border-line text-xs mb-8">
                 <div>
                   <span className="text-muted block">{dp.languageLabel}</span>
                   <strong className="text-maroon font-serif text-sm">{book.language}</strong>
@@ -115,10 +114,6 @@ export default function BookDetailsPage() {
                 <div>
                   <span className="text-muted block">{dp.authorLabel}</span>
                   <strong className="text-maroon font-serif text-sm">{book.author}</strong>
-                </div>
-                <div>
-                  <span className="text-muted block">{dp.pagesLabel}</span>
-                  <strong className="text-maroon font-serif text-sm">{book.pages}</strong>
                 </div>
               </div>
             </div>

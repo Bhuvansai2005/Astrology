@@ -1,4 +1,4 @@
-// Category: Astrology Books
+// Category: astrology
 export const astrologyBooks = [
   {
     "id": "30-dinadalli-jyotishya-kaliyiri",
@@ -329,5 +329,45 @@ export const astrologyBooks = [
     "category": "astrology",
     "description": "",
     "englishTitle": "Horatantra"
+  },
+  {
+    "id": "aashalaeshaakalapa",
+    "title": "ಆಶ್ಲೇಷಾಕಲ್ಪ:",
+    "sanskritLabel": "JYOTISHYA",
+    "price": 225,
+    "imageUrl": "/images/astrology/aashalaeshaakalapa.jpg",
+    "category": "astrology",
+    "description": "210 ಪುಟಗಳು ಸರ್ಪಸಂಸ್ಕಾರ ನಾಗ ಪ್ರತಿಷ್ಠಾ ವಿಧಿ ಸರ್ಪ ಸೂಕ್ತ ಹೋಮ ಆಶ್ಲೇಷ ಬಲಿ ವಿಶೇಷ ಪ್ರಾರ್ಥನಾ ಶ್ಲೋಕ ಸಹಿತ ಪ್ರಯೋಗ ಅನುಷ್ಠಾನವಿಧಿ ಇರುವಂತಹ ಪುಸ್ತಕ ಡಾ. ಬೆಳವಾಡಿ ಹರೀಶ ಭಟ್ಟ",
+    "englishTitle": "Aashalaeshaakalapa"
+  },
+  {
+    "id": "naivau-jayaotaishayarae-bhaaga-1-2",
+    "title": "ನೀವೂ ಜ್ಯೋತಿಷ್ಯರೆ ಭಾಗ 1 2",
+    "sanskritLabel": "JYOTISHYA",
+    "price": 2100,
+    "imageUrl": "/images/astrology/naivau-jayaotaishayarae-bhaaga-1-2.jpg",
+    "category": "astrology",
+    "description": "ಭಾಗ-182 ಪುಟಗಳು ಭಾಗ-2 456 ಪುಟಗಳ ಲೇಖಕರು ಶ್ರೀ ಕೃಪಾನಂದ ಗುರೂಜಿ ಅವರ ವೈದಿಕ ಪದ್ಧತಿ ಪುಸ್ತಕಗಳು",
+    "englishTitle": "Naivau Jayaotaishayarae Bhaaga 1 2"
+  },
+  {
+    "id": "30-dainagalalalai-jayaotaishaya-kalaiyairai",
+    "title": "30 ದಿನಗಳಲ್ಲಿ ಜ್ಯೋತಿಷ್ಯ ಕಲಿಯಿರಿ",
+    "sanskritLabel": "JYOTISHYA",
+    "price": 550,
+    "imageUrl": "/images/astrology/30-dainagalalalai-jayaotaishaya-kalaiyairai.jpg",
+    "category": "astrology",
+    "description": "616 ಪುಟಗಳ ಶ್ರೀ ರಾಘವೇಂದ್ರ ಕುಲಕರ್ಣಿ ದಿದ್ದಿಗಿ ಅವರ ಜ್ಯೋತಿಷ್ಯವನ್ನ 30 ದಿನಗಳಲ್ಲಿ ಕಲಿಯುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿಸುವಂತಹ ಅತ್ಯಂತ ವಿಶೇಷವಾದ ಪುಸ್ತಕ",
+    "englishTitle": "30 Dainagalalalai Jayaotaishaya Kalaiyairai"
+  },
+  {
+    "id": "samsakaaragalau-bhaaga-1-2",
+    "title": "ಸಂಸ್ಕಾರಗಳು ಭಾಗ-1 2",
+    "sanskritLabel": "JYOTISHYA",
+    "price": 900,
+    "imageUrl": "/images/astrology/samsakaaragalau-bhaaga-1-2.jpg",
+    "category": "astrology",
+    "description": "ಭಾಗ ಒಂದು 530 ಭಾಗ-2 235 ಪುಟಗಳ ಸಂಸ್ಕಾರಗಳು, ಏನು, ಏಕೆ, ಹೇಗೆ, ಎನ್ನುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಮಾಹಿತಿ ಇರುವ ಪುಸ್ತಕ. ಉಪನಯನ, ಅಗ್ನಿ ಕಾರ್ಯ, ಗರ್ಭದಾನ, ಪುಂಸವನ, ಸೀಮಂತೋನ್ನಯನ, ಜಾತಕರ್ಮ, ನಾಮಕರಣ, ನಿಷ್ಕ್ರಮಣ, ಉಪವೇಷನ, ಅನ್ನಪ್ರಾಶನ, ಕರ್ಣವೇದ, ಚೂಡಾಕರ್ಮ, ಅಕ್ಷರಾಭ್ಯಾಸ, ಇನ್ನು ಹಲವಾರು ವಿಶೇಷಗಳನ್ನು ಒಳಗೊಂಡ ಪುಸ್ತಕ ಶ್ರೀ ಶ್ರೀ ರಂಗಪ್ರಿಯ ಶ್ರೀ ಶ್ರೀ",
+    "englishTitle": "Samsakaaragalau Bhaaga 1 2"
   }
 ];

@@ -1,4 +1,4 @@
-// Category: Yantra Mantra Tantra
+// Category: tantra-mantra
 export const tantraMantraBooks = [
   {
     "id": "301-brihat-yantra-raja",
@@ -679,5 +679,65 @@ export const tantraMantraBooks = [
     "category": "tantra-mantra",
     "description": "",
     "englishTitle": "Hanuman Yantra Mantra Tantra"
+  },
+  {
+    "id": "upanaishata-mamtaraaratha-samgaraha-sampauta-1-2-3",
+    "title": "ಉಪನಿಷತ್ ಮಂತ್ರಾರ್ಥ ಸಂಗ್ರಹ ಸಂಪುಟ 1 2 3",
+    "sanskritLabel": "TANTRA",
+    "price": 4500,
+    "imageUrl": "/images/tantra-mantra/upanaishata-mamtaraaratha-samgaraha-sampauta-1-2-3.jpg",
+    "category": "tantra-mantra",
+    "description": "ಭಾಗ-1 818 ಪುಟಗಳು ಭಾಗ - 2 805 ಪುಟಗಳು ಭಾಗ-3 812 ಪುಟಗಳು ಒಟ್ಟು 2430 ಪುಟಗಳು ಇರುವಂತಹ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ ಮತ್ತು ವಿಸ್ತಾರವಾದ 127 ಉಪನಿಷತ್ತುಗಳ ಮಂತ್ರ ಅರ್ಥ ಸಹಿತವಾಗಿ ಇರುವಂತಹ ಮೊದಲ ಬಾರಿಗೆ ಕನ್ನಡದಲ್ಲಿ ಅನುವಾದ ಮಾಡಿರುವಂತಹ ಪುಸ್ತಕ ಸಂಗ್ರಹ ಮತ್ತು ಅನುವಾದ ಕೆವಿ ಶ್ರೀನಿವಾಸಮೂರ್ತಿ.",
+    "englishTitle": "Upanaishata Mamtaraaratha Samgaraha Sampauta 1 2 3"
+  },
+  {
+    "id": "garauda-mahaa-pauraana",
+    "title": "ಗರುಡ ಮಹಾ ಪುರಾಣ",
+    "sanskritLabel": "TANTRA",
+    "price": 2250,
+    "imageUrl": "/images/tantra-mantra/garauda-mahaa-pauraana.jpg",
+    "category": "tantra-mantra",
+    "description": "969 ಪುಟಗಳ ವಿದ್ವಾನ್ ಬಿ ಎನ್ ಶ್ರೀಕಂಠಯ್ಯ ಅವರ, ಪೂರ್ವ ಕಂಡ ಉತ್ತರ ಖಂಡ ಆಚಾರ ಕಂಡ ಧರ್ಮಚರಣೆ ಪ್ರೇತ ಕಲ್ಪ ದಾನಾದಿಗಳು ಹಾಗೂ ಶ್ರದ್ಧೆಗಳು ಇರುವಂತಹ ಕೃಷ್ಣ ಧ್ವಪಾಯನ ವ್ಯಾಸ ಪ್ರೋಗ್ರಾಮ್, ಗರುಡ ಮಹಾಪುರಾಣದಲ್ಲಿ ಮೂರು ಕಾಂಡಗಳಿದ್ದು, ಮೊದಲನೆಯದು ಪೂರ್ವಖಂಡ (ಆಚಾರ ಕಾಂಡ), ಎರಡನೆಯದು ಉತ್ತರಖಂಡ (ಧರ್ಮಕಾಂಡ-ಪ್ರೇತಕಲ್ಪ), ಮತ್ತು ಮೂರನೆಯದು ಬ್ರಹ್ಮಕಾಂಡ. ಗರುಡ ಮಹಾಪುರಾಣದ ಅಧಿಷ್ಠಾತ್ರ ದೇವರು ಭಗವಾನ್ ವಿಷ್ಣುವೇ ಆಗಿರುವುದರಿಂದ ಇದು ವೈಷ್ಣವ ಪುರಾಣ. ಜನಸಾಮಾನ್ಯರಲ್ಲಿ- ಗರುಡ ಮಹಾಪುರಾಣ ಮರಣಾನಂತರ ಕೇವಲ ಮೃತಜೀವಿಗಳ ಕಲ್ಯಾಣಕ್ಕಾಗಿಯೇ ಹೇಳಲ್ಪಡುವುದು ಎಂಬ ನಂಬಿಕೆ ಇದೆ. ಇದು ಸರ್ವಥಾ ತಪ್ಪು. ಈ ಪುರಾಣ ಬೇರೆ ಪುರಾಣಗಳಂತೆ ನಿತ್ಯಪಠನ-ಪಾಠನ ಮತ್ತು ಮನನದ ವಿಷಯವಾಗಿದೆ. ಇದರ ಸ್ವಾಧ್ಯಾಯ ಅನಂತ ಪುಣ್ಯದ ಪ್ರಾಪ್ತಿಯ ಜೊತೆಗೆ ಭಕ್ತಿ-ಜ್ಞಾನದ ವೃದ್ಧಿಯಲ್ಲಿ ಅನುಪಮ ಸಹಾಯಕವಾಗಿದೆ.\n\nಕೆಲವು ಮೂಢ ಜನರು ಯಾವುದೋ ಕಾಲದಲ್ಲಿ ಕಾರಣಾಂತರಗಳಿಂದ ಈ ಮಹಾಪುರಾಣ ಅಶೌಚ ನಿಷಿದ್ಧ ಎಂದರು. ಇದಕ್ಕೆ ಯಾವುದೇ ರೀತಿಯ ಶಾಸ್ತ್ರಾಧಾರವಿಲ್ಲ. ಸ್ವಯಂಕೃತ ಮಿಥ್ಯಾಕಲ್ಪನೆ. ಅಪ್ಪ ಹಾಕಿದ ಆಲದ ಮರ ಎನ್ನುವಂತೆ ಈಗಲೂ ಕೆಲವರು ಇದನ್ನು ಬಹಿಷ್ಕರಿಸಿದ್ದಾರೆ. ಇದು ಮೌಡ್ಯದ ಪರಮಾವಧಿ. ಪ್ರೇತಕರ್ಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಅನೇಕ ಮಂತ್ರಗಳನ್ನು ಪುರೋಹಿತರು ಬಾಯಿ ಪಾಠ ಮಾಡಿರುತ್ತಾರೆ. ಅದು ಸದಾ ಅವರ ಕೃತಿಯಲ್ಲಿ ಇರುತ್ತದೆ. ಹಾಗಾದರೆ, ಪುರೋಹಿತರು ಅಶೌಚರೇ? ಸ್ವಲ್ಪ ಯೋಚಿಸಬೇಕು.\n\nಈ ಪೂರ್ವಖಂಡ(ಆಚಾರಕಾಂಡ)ದಲ್ಲಿ ಬಹಳಷ್ಟು ಮುಖ್ಯ ವಿಷಯಗಳು ಉಲ್ಲೇಖಿತವಾಗಿವೆ. ಪ್ರಮುಖವಾಗಿ ಧರ್ಮ-ನೀತಿಸಾರ, ಆಯುರ್ವೇದ ಪ್ರಕರಣ, ವಿವಿಧ ರೋಗರುಜಿನಗಳ ಶಮನಾರ್ಥ ಅನೇಕ ದೇವಿ-ದೇವತೆಯರ ಸ್ತೋತ್ರಗಳು ನಿರೂಪಿತವಾಗಿವೆ. ಇದನ್ನು ಶ್ರದ್ಧಾ-ಭಕ್ತಿಯಿಂದ ಅಧ್ಯಯನ ಮಾಡಿದರೆ ಜೀವನ ಖಂಡಿತ ಸುಖಮಯವಾಗುವುದು. ಆದ್ದರಿಂದ ಸ್ತ್ರೀ-ಪುರುಷರಾದಿಯಾಗಿ ಅವಶ್ಯವಾಗಿ ಓದಲೇಬೇಕು.",
+    "englishTitle": "Garauda Mahaa Pauraana"
+  },
+  {
+    "id": "sharai-paratayamgairaa-tamtara-rahasaya",
+    "title": "ಶ್ರೀ ಪ್ರತ್ಯಂಗಿರಾ ತಂತ್ರ ರಹಸ್ಯ",
+    "sanskritLabel": "TANTRA",
+    "price": 350,
+    "imageUrl": "/images/tantra-mantra/sharai-paratayamgairaa-tamtara-rahasaya.jpg",
+    "category": "tantra-mantra",
+    "description": "400 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಶ್ರೀ ಪ್ರತ್ಯಂಗಿರಾ ಪುರಸ್ಚರಣ ಪದ್ಧತಿ ಹಾಗೂ ಹೋಮ ವಿಧಾನ ಸಹಿತ ಇರುವಂತಹ ವಿಶಿಷ್ಟವಾದ ಪುಸ್ತಕ ಶ್ರೀ ರಾಘವೇಂದ್ರ ಕುಲಕರ್ಣಿ ದಿದ್ದಿಗಿ",
+    "englishTitle": "Sharai Paratayamgairaa Tamtara Rahasaya"
+  },
+  {
+    "id": "dashakamtha-raavana",
+    "title": "ದಶಕಂಠ ರಾವಣ",
+    "sanskritLabel": "TANTRA",
+    "price": 350,
+    "imageUrl": "/images/tantra-mantra/dashakamtha-raavana.jpg",
+    "category": "tantra-mantra",
+    "description": "280 ಪುಟಗಳ ಜಗದೀಶ ಶರ್ಮ ಸಂಪ ಅವರ ದಶಕಂಠ ರಾವಣ. ಅವನು ಬ್ರಹ್ಮನ ಮರಿಮಗ. ವೇದ-ಶಾಸ್ತ್ರಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡಿದವ. ಅಸ್ತ್ರವಿದ್ಯೆಯಲ್ಲಿ ಕುಶಲ. ತಂತ್ರಗಾರಿಕೆಯಲ್ಲಿ ಪ್ರಚಂಡ. ಬಲಿಷ್ಠ-ಸಮರ್ಥ-ಪರಾಕ್ರಮಿ. ಅನ್ನಿಸಿದ್ದನ್ನು ಸಾಧಿಸಿ ಮುಗಿಸುವವ. ಇಷ್ಟೆಲ್ಲ ಇದ್ದೂ ಬೇರೇನೋ ಆಯಿತು. ಒಂದು ವರ; ಒಂದು ತಪ್ಪು ಒಂದು ತಪ್ಪು; ಒಂದು ಶಾಪ ಮತ್ತೊಂದು ವರ; ಮತ್ತೊಂದು ತಪ್ಪು ಮತ್ತೊಂದು ತಪ್ಪು; ಮತ್ತೊಂದು ಶಾಪ ಹೀಗೆ ಸಾಗಿತು ಅವನ ಬದುಕು. ಏಕಾಯಿತು? ಏನಾಯಿತು?\nತ್ರಿಭುವನ ತಲ್ಲಣನ ಇತಿವೃತ್ತ ಮೂಲಕ್ಕೆ ನಿಷ್ಠವಾದ ನಿರೂಪಣೆ ಅದೇ ದಶಕಂಠ ರಾವಣ",
+    "englishTitle": "Dashakamtha Raavana"
+  },
+  {
+    "id": "sharaivaidayaa-upaasanae-yamtara-mamtara-tamtara",
+    "title": "ಶ್ರೀವಿದ್ಯಾ ಉಪಾಸನೆ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
+    "sanskritLabel": "TANTRA",
+    "price": 125,
+    "imageUrl": "/images/tantra-mantra/sharaivaidayaa-upaasanae-yamtara-mamtara-tamtara.jpg",
+    "category": "tantra-mantra",
+    "description": "96 ಪುಟಗಳ ಸಾ ಕೃ ರಾಮಚಂದ್ರ ರಾವ್ ಅವರ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದಂತಹ ಶ್ರೀ ವಿದ್ಯಾ ಉಪಾಸನೆಗೆ ಬೇಕಾದಂತಹ ವಿಶಿಷ್ಟವಾದ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರಗಳ ಪುಸ್ತಕ",
+    "englishTitle": "Sharaivaidayaa Upaasanae Yamtara Mamtara Tamtara"
+  },
+  {
+    "id": "sharaichakara-paujaa-padadhatai-parakaasha",
+    "title": "ಶ್ರೀಚಕ್ರ ಪೂಜಾ ಪದ್ಧತಿ ಪ್ರಕಾಶ",
+    "sanskritLabel": "TANTRA",
+    "price": 1000,
+    "imageUrl": "/images/tantra-mantra/sharaichakara-paujaa-padadhatai-parakaasha.jpg",
+    "category": "tantra-mantra",
+    "description": "488 ಪುಟಗಳ ಅತ್ಯಂತ ವಿಶಿಷ್ಟವಾದ ಶ್ರೀ ಚಕ್ರವನ್ನು ಯಾವ ರೀತಿಯಾಗಿ ಪೂಜೆಯನ್ನು ಮಾಡಬೇಕು ಎನ್ನುವುದರ ಸ್ಪಷ್ಟ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಂತಹ ಪುಸ್ತಕ ಹಿಂದಿ ವ್ಯಾಖ್ಯಾನ ಶ್ರೀ ಸ್ವಾಮಿ ಶಾಂತಿರ್ ಧರ್ಮಾನಂದ ಸರಸ್ವತಿ ಹೃಷಿಕೇಶ, ಅನುವಾದ ಶ್ರೀ ಸ್ವಾಮಿ ಆತ್ಮಪ್ರಕಾಶಾನಂದ ಸರಸ್ವತಿ ಬದರಿ",
+    "englishTitle": "Sharaichakara Paujaa Padadhatai Parakaasha"
   }
 ];

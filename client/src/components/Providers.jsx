@@ -92,7 +92,7 @@ export function LanguageProvider({ children }) {
             >
               ✕
             </button>
-            <span className="grid h-14 w-14 place-items-center rounded-full border border-[#b8995f] mx-auto mb-5 font-serif text-3xl text-[#6f2623]">
+            <span className="grid h-14 w-14 place-items-center rounded-full border border-[#b8995f] mx-auto mb-5 text-[#6f2623] font-serif text-2xl select-none" aria-hidden="true">
               ॐ
             </span>
             <h2

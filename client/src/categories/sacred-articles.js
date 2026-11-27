@@ -1,4 +1,4 @@
-// Category: Sacred Articles & Malas
+// Category: sacred-articles
 export const sacredArticlesBooks = [
   {
     "id": "arishina-male",
@@ -39,5 +39,35 @@ export const sacredArticlesBooks = [
     "category": "sacred-articles",
     "description": "ಮಹಾವಿಷ್ಣು ಹಾಗೂ ಕೃಷ್ಣನ ಅನುಗ್ರಕ್ಕಾಗಿ ಕೀರ್ತಿ ಯಶಸ್ಸು ಹಾಗೂ ಧನದ ಸಮೃದ್ಧಿಗಾಗಿ ಭಕ್ತಿ ಸಾತ್ವಿಕತೆ ಮತ್ತು ಯಶಸ್ವಿಗಾಗಿ ಮನೋಬಲ ಹೆಚ್ಚಾಗಿ ಆತ್ಮವಿಶ್ವಾಸ ದೃಢವಾಗಲು",
     "englishTitle": "Vaijayantimala"
+  },
+  {
+    "id": "spatika-male",
+    "title": "ಸ್ಪಟಿಕ ಮಾಲೆ",
+    "sanskritLabel": "SPATIKA",
+    "price": 450,
+    "imageUrl": "/images/sacred-articles/spatika-mala.jpg",
+    "category": "sacred-articles",
+    "description": "ಶುದ್ಧ ನೈಸರ್ಗಿಕ ಸ್ಪಟಿಕ, ದೇಹದ ಶಾಖ ನಿಯಂತ್ರಣ, ಧ್ಯಾನ-ಜಪ ಸಿದ್ಧಿ ಹಾಗೂ ಮಾನಸಿಕ ಪ್ರಶಾಂತತೆಗಾಗಿ ಶ್ರೇಷ್ಠ ಮಾಲೆ.",
+    "englishTitle": "Spatika Mala"
+  },
+  {
+    "id": "navaratnagalu",
+    "title": "ನವರತ್ನಗಳು",
+    "sanskritLabel": "NAVARATNA",
+    "price": 1200,
+    "imageUrl": "/images/sacred-articles/navaratna.jpg",
+    "category": "sacred-articles",
+    "description": "ನವಗ್ರಹ ದೋಷ ನಿವಾರಣೆ, ಗ್ರಹಬಲ ವೃದ್ಧಿ ಹಾಗೂ ಭಾಗ್ಯೋದಯಕ್ಕಾಗಿ ಪರೀಕ್ಷಿತ ಅಧಿಕೃತ ನೈಸರ್ಗಿಕ ರತ್ನಗಳು.",
+    "englishTitle": "Navaratnas"
+  },
+  {
+    "id": "brasletgalu",
+    "title": "ಆಧ್ಯಾತ್ಮಿಕ ಬ್ರಾಸ್ಲೈಟ್ಗಳು",
+    "sanskritLabel": "KANKANA",
+    "price": 350,
+    "imageUrl": "/images/sacred-articles/bracelets.jpg",
+    "category": "sacred-articles",
+    "description": "ರುದ್ರಾಕ್ಷಿ, ಸ್ಪಟಿಕ ಹಾಗೂ ನೈಸರ್ಗಿಕ ರತ್ನ-ಹರಳುಗಳಿಂದ ಸಿದ್ಧಪಡಿಸಲಾದ ಪವಿತ್ರ ಆಧ್ಯಾತ್ಮಿಕ ರಕ್ಷಾ ಬ್ರೇಸ್ಲೆಟ್‌ಗಳು.",
+    "englishTitle": "Sacred Energy Bracelets"
   }
 ];

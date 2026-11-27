@@ -1,4 +1,4 @@
-// Category: Vastu Shastra
+// Category: vastu
 export const vastuBooks = [
   {
     "id": "nimma-mane-vastu-nive-nodikolli",

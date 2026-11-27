@@ -1,0 +1,133 @@
+{
+  "planHash": "f200b9f88c3167888bbb7aff231c99f494dab5df58f3c715cf4943798cf93f22",
+  "phase": "standalone",
+  "recordedAtUtc": "2026-11-27T14:28:48.2366361Z",
+  "retryCount": 1,
+  "resetBaseline": false,
+  "complete": true,
+  "result": {
+    "setupSucceeded": true,
+    "setupDurationMs": 18789,
+    "setupFailureOutput": null,
+    "assertions": [
+      {
+        "name": "lint",
+        "kind": "process",
+        "verificationMethod": "exit-code",
+        "passed": true,
+        "timedOut": false,
+        "skipped": false,
+        "skippedReason": null,
+        "exitCode": 0,
+        "outputSample": "\r\n\u003E client@0.0.0 lint\r\n\u003E oxlint\r\n\r\n",
+        "durationMs": 872
+      },
+      {
+        "name": "tests-pass",
+        "kind": "process",
+        "verificationMethod": "test-results",
+        "passed": true,
+        "timedOut": false,
+        "skipped": false,
+        "skippedReason": null,
+        "exitCode": 0,
+        "outputSample": "\r\n\u003E client@0.0.0 test\r\n\u003E vitest run\r\n\r\n\r\n RUN  v5.1.2 E:/Adya Pustaka Bhandara/client\r\n\r\n\r\n Test Files  1 passed (1)\r\n      Tests  11 passed (11)\r\n   Start at  19:58:42\r\n   Duration  679ms (import 47%, transform 33%, tests 17%, worker 2%)\r\n\r\n",
+        "durationMs": 3164,
+        "testResults": {
+          "testFramework": "vitest",
+          "runnerDetectedFrom": "package_json",
+          "testsTotal": 11,
+          "testsPassed": 11,
+          "testsFailed": 0,
+          "testsSkipped": 0,
+          "parseFailed": false
+        }
+      },
+      {
+        "name": "production-build",
+        "kind": "process",
+        "verificationMethod": "exit-code",
+        "passed": true,
+        "timedOut": false,
+        "skipped": false,
+        "skippedReason": null,
+        "exitCode": 0,
+        "outputSample": "\r\n\u003E client@0.0.0 build\r\n\u003E vite build\r\n\r\n\u001B[36mvite v8.4.0 \u001B[32mbuilding client environment for production...\u001B[36m\u001B[39m\r\ntransforming...\r\n\u2713 64 modules transformed.\r\nrendering chunks...\r\ncomputing gzip size...\r\ndist/index.html                   1.40 kB \u2502 gzip:   0.69 kB\r\ndist/assets/index-CS-3IctP.css   46.54 kB \u2502 gzip:   9.47 kB\r\ndist/assets/index-BJiDB-bz.js   742.26 kB \u2502 gzip: 166.79 kB\r\n\r\n\u001B[33m[plugin builtin:vite-reporter] \r\n(!) Some chunks are larger than 500 kB after minification. Consider:\r\n- Using dynamic import() to code-split the application\r\n- Use build.rolldownOptions.output.codeSplitting to improve chunking: https://rolldown.rs/reference/OutputOptions.codeSplitting\r\n- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.\u001B[39m\r\n\u001B[32m\u2713 built in 537ms\u001B[39m\r\n",
+        "durationMs": 2168
+      },
+      {
+        "name": "home-page-responds",
+        "kind": "http-probe",
+        "verificationMethod": "http-status",
+        "passed": true,
+        "timedOut": false,
+        "skipped": false,
+        "skippedReason": null,
+        "exitCode": null,
+        "outputSample": "HTTP 200\n\u003C!DOCTYPE html\u003E\n\u003Chtml lang=\u0022kn\u0022\u003E\n  \u003Chead\u003E\n    \u003Cscript type=\u0022module\u0022\u003Eimport { injectIntoGlobalHook } from \u0022/@react-refresh\u0022;\ninjectIntoGlobalHook(window);\nwindow.$RefreshReg$ = () =\u003E {};\nwindow.$RefreshSig$ = () =\u003E (type) =\u003E type;\u003C/script\u003E\n\n    \u003Cscript type=\u0022module\u0022 src=\u0022/@vite/client\u0022\u003E\u003C/script\u003E\n\n    \u003Cmeta charset=\u0022UTF-8\u0022 /\u003E\n    \u003Cmeta name=\u0022viewport\u0022 content=\u0022width=device-width, initial-scale=1.0\u0022 /\u003E\n    \u003Cmeta name=\u0022description\u0022 content=\u0022\u0C86\u0CA6\u0CCD\u0CAF \u0CAA\u0CC1\u0CB8\u0CCD\u0CA4\u0C95 \u0CAD\u0C82\u0CA1\u0CBE\u0CB0 \u0CB9\u0CBE\u0C97\u0CC2 \u0C86\u0CA6\u0CCD\u0CAF \u0C9C\u0CCD\u0CAF\u0CCB\u0CA4\u0CBF\u0CB0\u0CCD\u0CB5\u0CBF\u0C9C\u0CCD\u0C9E\u0CBE\u0CA8 \u0CB8\u0C82\u0CB6\u0CCB\u0CA7\u0CA8\u0CBE \u0C95\u0CC7\u0C82\u0CA6\u0CCD\u0CB0 \u2014 \u0CB5\u0CC7\u0CA6, \u0C86\u0C97\u0CAE, \u0C9C\u0CCD\u0CAF\u0CCB\u0CA4\u0CBF\u0CB7\u0CCD\u0CAF, \u0CAA\u0CC1\u0CB0\u0CBE\u0CA3, \u0C89\u0CAA\u0CA8\u0CBF\u0CB7\u0CA4\u0CCD, \u0CA4\u0C82\u0CA4\u0CCD\u0CB0 \u0CB9\u0CBE\u0C97\u0CC2 \u0CAF\u0C82\u0CA4\u0CCD\u0CB0 \u0CB6\u0CBE\u0CB8\u0CCD\u0CA4\u0CCD\u0CB0\u0C97\u0CB3 \u0CAA\u0CCD\u0CB0\u0CAE\u0CBE\u0CA3\u0CBF\u0CA4 \u0C97\u0CCD\u0CB0\u0C82\u0CA5\u0C97\u0CB3\u0CC1 \u0CAE\u0CA4\u0CCD\u0CA4\u0CC1 \u0CB6\u0CBE\u0CB8\u0CCD\u0CA4\u0CCD\u0CB0\u0CCB\u0C95\u0CCD\u0CA4 \u0CB8\u0CAE\u0CBE\u0CB2\u0CCB\u0C9A\u0CA8\u0CC6.\u0022 /\u003E\n    \u003Clink rel=\u0022preconnect\u0022 href=\u0022https://fonts.googleapis.com\u0022 /\u003E\n    \u003Clink rel=\u0022preconnect\u0022 href=\u0022https://fonts.gstatic.com\u0022 crossorigin /\u003E\n    \u003Clink href=\u0022https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700\u0026family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500\u0026family=Noto\u002BSans\u002BKannada:wght@400;500;600;700\u0026family=Noto\u002BSerif\u002BKannada:wght@400;500;600;700\u0026family=Noto\u002BSerif\u002BDevanagari:wght@500;600;700\u0026display=swap\u0022 rel=\u0022stylesheet\u0022 /\u003E\n    \u003Ctitle\u003E\u0C86\u0CA6\u0CCD\u0CAF \u0CAA\u0CC1\u0CB8\u0CCD\u0CA4\u0C95 \u0CAD\u0C82\u0CA1\u0CBE\u0CB0 | Adya Pustaka Bhandara\u003C/title\u003E\n  \u003C/head\u003E\n  \u003Cbody\u003E\n    \u003Cdiv id=\u0022root\u0022\u003E\u003C/div\u003E\n    \u003Cscript type=\u0022module\u0022 src=\u0022/src/main.jsx\u0022\u003E\u003C/script\u003E\n  \u003C/body\u003E\n\u003C/html\u003E\n\n--- server output ---\n\r\n\u003E client@0.0.0 dev\r\n\u003E vite --host\r\n\r\n\r\n  \u001B[32m\u001B[1mVITE\u001B[22m v8.4.0\u001B[39m  \u001B[2mready in \u001B[0m\u001B[1m1142\u001B[22m\u001B[2m\u001B[0m ms\u001B[22m\r\n\r\n  \u001B[32m\u279C\u001B[39m  \u001B[1mLocal\u001B[22m:   \u001B[36mhttp://localhost:\u001B[1m5173\u001B[22m/\u001B[39m\r\n  \u001B[32m\u279C\u001B[39m  \u001B[1mNetwork\u001B[22m: \u001B[36mhttp://192.168.25.1:\u001B[1m5173\u001B[22m/\u001B[39m  \u001B[2mVMware Network Adap\u2026\u001B[22m\r\n  \u001B[32m\u279C\u001B[39m  \u001B[1mNetwork\u001B[22m: \u001B[36mhttp://192.168.43.1:\u001B[1m5173\u001B[22m/\u001B[39m  \u001B[2mVMware Network Adap\u2026\u001B[22m\r\n  \u001B[32m\u279C\u001B[39m  \u001B[1mNetwork\u001B[22m: \u001B[36mhttp://192.168.1.28:\u001B[1m5173\u001B[22m/\u001B[39m  \u001B[2mWi-Fi\u001B[22m\r\n",
+        "durationMs": 2606
+      }
+    ],
+    "executions": [
+      {
+        "source": "setup[0]",
+        "resolvedExecutable": "C:\\Program Files\\nodejs\\npm.CMD",
+        "args": [
+          "install",
+          "--no-package-lock"
+        ],
+        "cwd": "E:\\Adya Pustaka Bhandara\\client",
+        "env": {},
+        "prependPath": [],
+        "platform": "win32"
+      },
+      {
+        "source": "lint",
+        "resolvedExecutable": "C:\\Program Files\\nodejs\\npm.CMD",
+        "args": [
+          "run",
+          "lint"
+        ],
+        "cwd": "E:\\Adya Pustaka Bhandara\\client",
+        "env": {},
+        "prependPath": [],
+        "platform": "win32"
+      },
+      {
+        "source": "tests-pass",
+        "resolvedExecutable": "C:\\Program Files\\nodejs\\npm.CMD",
+        "args": [
+          "test"
+        ],
+        "cwd": "E:\\Adya Pustaka Bhandara\\client",
+        "env": {},
+        "prependPath": [],
+        "platform": "win32"
+      },
+      {
+        "source": "production-build",
+        "resolvedExecutable": "C:\\Program Files\\nodejs\\npm.CMD",
+        "args": [
+          "run",
+          "build"
+        ],
+        "cwd": "E:\\Adya Pustaka Bhandara\\client",
+        "env": {},
+        "prependPath": [],
+        "platform": "win32"
+      },
+      {
+        "source": "home-page-responds",
+        "resolvedExecutable": "C:\\Program Files\\nodejs\\npm.CMD",
+        "args": [
+          "run",
+          "dev"
+        ],
+        "cwd": "E:\\Adya Pustaka Bhandara\\client",
+        "env": {},
+        "prependPath": [],
+        "platform": "win32"
+      }
+    ]
+  }
+}

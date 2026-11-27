@@ -69,9 +69,6 @@ export default function Footer() {
           <a href={BUSINESS.phoneLinks[0]} className="block text-footer-link text-[12px] my-[9px] hover:text-white transition-colors duration-200">
             {BUSINESS.phone[0]}
           </a>
-          <a href={BUSINESS.phoneLinks[1]} className="block text-footer-link text-[12px] my-[9px] hover:text-white transition-colors duration-200">
-            {BUSINESS.phone[1]}
-          </a>
           <div className="flex flex-col gap-2 mt-3">
             <a
               href={BUSINESS.whatsapp}

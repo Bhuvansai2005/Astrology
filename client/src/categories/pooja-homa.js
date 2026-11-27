@@ -1,4 +1,4 @@
-// Category: Pooja, Homa & Samskara
+// Category: pooja-homa
 export const poojaHomaBooks = [
   {
     "id": "agnimukha-prakasha",
@@ -429,5 +429,35 @@ export const poojaHomaBooks = [
     "category": "pooja-homa",
     "description": "ಹೋಮ ಸಂಪುಟದಲ್ಲಿ 30 ರೀತಿಯ ಹೋಮವನ್ನು ಮಾಡುವ ವಿಧಾನಗಳು ಮಂತ್ರಗಳು ಹಾಗೂ ಅಷ್ಟೋತ್ತರಗಳನ್ನ ಸಂಪೂರ್ಣವಾಗಿ ತಿಳಿಸಿಕೊಟ್ಟಿದ್ದಾರೆ",
     "englishTitle": "Homa Samputa"
+  },
+  {
+    "id": "samsakaaramahaodadhai",
+    "title": "ಸಂಸ್ಕಾರಮಹೋದಧಿ:",
+    "sanskritLabel": "HAVANA",
+    "price": 1500,
+    "imageUrl": "/images/pooja-homa/samsakaaramahaodadhai.jpg",
+    "category": "pooja-homa",
+    "description": "1149 ಪುಟಗಳ ವಿಸ್ತಾರವಾದ ಪುಸ್ತಕ ಸಂಸ್ಕಾರಮಹೋದಧಿಃ ಮಹಾಮಹೋಪಾಧ್ಯಾಯಃ ಡಾ॥ ಸ್ವಚ್ಚಂದಂ ಎ. ಅನಂತನರಸಿಂಹಾಚಾ‌ರ್ ಅವರ ಪುಸ್ತಕ",
+    "englishTitle": "Samsakaaramahaodadhai"
+  },
+  {
+    "id": "yajanya",
+    "title": "ಯಜ್ಞ",
+    "sanskritLabel": "HAVANA",
+    "price": 100,
+    "imageUrl": "/images/pooja-homa/yajanya.jpg",
+    "category": "pooja-homa",
+    "description": "147 ಪುಟಗಳ ಭೌತಿಕ ಹಾಗೂ ಸೂಕ್ಷ್ಮ ಯಜ್ಞ ಪುಸ್ತಕ ಮೂಲ ಇಂಗ್ಲಿಷ್ ಆರ್ ಎಲ್ ಕಶ್ಯಪ ಕನ್ನಡಕ್ಕೆ ಅನುವಾದ ಲಕ್ಷ್ಮಿಕಾಂತ ಹೆಗಡೆ",
+    "englishTitle": "Yajanya"
+  },
+  {
+    "id": "pauraana-bhaarata-kaosha",
+    "title": "ಪುರಾಣ ಭಾರತ ಕೋಶ",
+    "sanskritLabel": "HAVANA",
+    "price": 750,
+    "imageUrl": "/images/pooja-homa/pauraana-bhaarata-kaosha.jpg",
+    "category": "pooja-homa",
+    "description": "682 ಪುಟಗಳ ಪಂಡಿತ ಯಜ್ಞನಾರಾಯಣ ಉಡುಪ ಅವರ ಸಮಗ್ರ ಭರತ ವರುಷದ ವಸ್ತು ವ್ಯಕ್ತಿ ನಿಘಂಟು ವಿಸ್ತೃತ ವಿವರಣೆಯೊಂದಿಗೆ, ಅ ಅಕ್ಷರದಿಂದ ಜ್ಞ ಅಕ್ಷರದವರೆಗೂ ಬರುವಂತಹ ಎಲ್ಲಾ ಸ್ಪಷ್ಟವಾದ ಮಾಹಿತಿಗಳನ್ನು ಒಳಗೊಂಡಿರುವಂತಹ ಪುರಾಣ ಭಾರತ ಕೋಶ,",
+    "englishTitle": "Pauraana Bhaarata Kaosha"
   }
 ];

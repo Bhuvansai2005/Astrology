@@ -1,4 +1,4 @@
-// Category: Prashna Shastra
+// Category: prashna
 export const prashnaBooks = [
   {
     "id": "ashtamangala-prashna-deepika",

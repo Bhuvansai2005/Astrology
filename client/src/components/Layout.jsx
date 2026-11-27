@@ -121,7 +121,19 @@ export function LocationSection() {
               backgroundImage: `linear-gradient(0deg, rgba(62,23,20,.75), rgba(62,23,20,.25)), url(${HERO_IMAGES.location})`,
             }}
           >
-            <span className="font-serif text-[45px] text-gold-rich leading-none">⌖</span>
+            <svg
+              className="w-10 h-10 text-gold-light"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.75"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0" />
+              <circle cx="12" cy="10" r="3" />
+            </svg>
             <div className="leading-snug">
               {t.location.visualText1}
               <br />

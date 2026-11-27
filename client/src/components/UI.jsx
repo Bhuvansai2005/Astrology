@@ -121,50 +121,117 @@ export function CategoryCard({
   id,
   title,
   subtitle,
-  description,
+  _description,
+  author,
+  categoryLabel,
   price,
   imageUrl,
   onAddToCart,
 }) {
   const [ref, isVisible] = useRevealOnScroll(0.05);
+  const [isImgLoaded, setIsImgLoaded] = useState(false);
+  const [isAdded, setIsAdded] = useState(false);
   const { t } = useLanguage();
+
+  const handleAdd = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (onAddToCart) {
+      onAddToCart({ id, bookId: id, name: title, price, type: 'physical' });
+      setIsAdded(true);
+      setTimeout(() => setIsAdded(false), 1400);
+    }
+  };
 
   return (
     <article
       ref={ref}
-      className={`bg-white border border-line transition-all duration-300 hover:-translate-y-[7px] hover:shadow-card-hover flex flex-col ${
-        isVisible ? 'animate-reveal-up' : 'opacity-0 translate-y-[25px]'
+      className={`group bg-white border border-line rounded-xs flex flex-col justify-between transition-all duration-300 hover:border-gold hover:shadow-card-hover hover:-translate-y-1 overflow-hidden ${
+        isVisible ? 'animate-reveal-up' : 'opacity-0 translate-y-4'
       }`}
     >
+      {/* 3:4 Fixed Aspect Ratio Image Container */}
       <Link
         to={id ? `/books/${id}` : '/books'}
-        className="block h-[175px] md:h-[210px] bg-paper bg-contain bg-center bg-no-repeat relative cursor-pointer border-b border-line overflow-hidden"
-        style={{ backgroundImage: `url(${imageUrl})` }}
-      />
+        className="relative block w-full aspect-[3/4] bg-cream-light/60 overflow-hidden border-b border-line/70 select-none"
+        aria-label={title}
+      >
+        {!isImgLoaded && (
+          <div className="absolute inset-0 bg-gradient-to-r from-cream-light via-cream to-cream-light animate-pulse" />
+        )}
+        <img
+          src={imageUrl}
+          alt={title}
+          loading="lazy"
+          onLoad={() => setIsImgLoaded(true)}
+          onError={() => setIsImgLoaded(true)}
+          className={`w-full h-full object-contain p-3 transition-transform duration-500 group-hover:scale-105 ${
+            isImgLoaded ? 'opacity-100' : 'opacity-0'
+          }`}
+        />
+        {categoryLabel && (
+          <span className="absolute top-2 left-2 bg-maroon/90 backdrop-blur-xs text-gold-light text-[9px] uppercase font-bold tracking-wider px-2 py-0.5 rounded-xs shadow-xs">
+            {categoryLabel}
+          </span>
+        )}
+      </Link>
 
-      <div className="p-[14px] md:p-[19px] flex flex-col flex-1">
-        <Link to={id ? `/books/${id}` : '/books'} className="hover:text-saffron transition-colors">
-          <h3 className="m-0 text-maroon font-serif font-semibold text-[17px] md:text-[19px] leading-snug">
-            {title}
-          </h3>
+      {/* Book Content Container */}
+      <div className="p-3 sm:p-4 flex flex-col flex-1 justify-between gap-2.5">
+        <div>
+          {/* Author / Lineage */}
+          <p className="text-[10px] sm:text-[11px] font-sans font-medium text-gold uppercase tracking-wider truncate m-0">
+            {author || 'ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ'}
+          </p>
+
+          {/* Book Title limited strictly to 2 lines */}
+          <Link
+            to={id ? `/books/${id}` : '/books'}
+            className="block text-maroon hover:text-saffron transition-colors mt-1"
+          >
+            <h3 className="m-0 font-serif font-semibold text-[13px] sm:text-[15px] leading-snug line-clamp-2 min-h-[2.5rem] sm:min-h-[2.75rem]">
+              {title}
+            </h3>
+          </Link>
+
+          {/* Optional Subtitle (English or Transliteration) truncated to 1 line */}
           {subtitle && (
-            <span className="block text-[11px] md:text-[12px] font-sans font-medium text-gold-rich tracking-wide mt-1">
+            <p className="text-[10px] sm:text-[11px] font-sans text-muted truncate mt-0.5 mb-0">
               {subtitle}
-            </span>
+            </p>
           )}
-        </Link>
-        <p className="text-[11px] md:text-[12px] text-muted min-h-[58px] my-2.5 leading-relaxed flex-1 line-clamp-3">
-          {description}
-        </p>
-        <div className="flex flex-col sm:flex-row justify-between sm:items-center gap-2 mt-auto pt-3 border-t border-line/40">
-          <span className="font-serif font-bold text-base text-maroon">₹{price}</span>
+        </div>
+
+        {/* Price and Add to Cart Section */}
+        <div className="pt-2.5 border-t border-line/60 flex items-center justify-between gap-2 mt-auto">
+          <div className="flex flex-col">
+            <span className="text-[9px] text-muted uppercase font-bold tracking-wider">Price</span>
+            <span className="font-serif font-bold text-sm sm:text-base text-maroon leading-none">
+              ₹{price}
+            </span>
+          </div>
+
           <button
             type="button"
-            onClick={() => onAddToCart({ id, bookId: id, name: title, price, type: 'physical' })}
-            className="w-full sm:w-auto px-3 py-1.5 bg-maroon text-white hover:bg-maroon-dark active:scale-95 transition-all rounded text-[11px] md:text-xs font-semibold cursor-pointer flex items-center justify-center gap-1 shadow-xs"
+            onClick={handleAdd}
+            aria-label={`Add ${title} to cart`}
+            className={`px-2.5 py-1.5 sm:px-3 sm:py-1.5 rounded-xs text-[10px] sm:text-xs font-semibold cursor-pointer transition-all duration-200 flex items-center gap-1 shrink-0 ${
+              isAdded
+                ? 'bg-green-700 text-white'
+                : 'bg-maroon text-white hover:bg-maroon-dark active:scale-95 shadow-xs'
+            }`}
           >
-            <span>{t.categories.addToCart}</span>
-            <span className="text-sm font-bold leading-none">+</span>
+            {isAdded ? (
+              <>
+                <span>✓</span>
+                <span className="hidden sm:inline">Added</span>
+              </>
+            ) : (
+              <>
+                <span>+</span>
+                <span>{t.categories.addToCart}</span>
+              </>
+            )}
           </button>
         </div>
       </div>

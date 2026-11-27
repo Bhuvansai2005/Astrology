@@ -1,4 +1,4 @@
-// Category: Remedies & Shanti
+// Category: remedies-shanti
 export const remediesShantiBooks = [
   {
     "id": "ashlesha-bali-sarpa-bali-kala-sarpayoga-shanti",

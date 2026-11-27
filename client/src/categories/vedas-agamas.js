@@ -1,4 +1,4 @@
-// Category: Vedas & Agamas
+// Category: vedas-agamas
 export const vedasAgamasBooks = [
   {
     "id": "atharvana-veda",
@@ -189,5 +189,55 @@ export const vedasAgamasBooks = [
     "category": "vedas-agamas",
     "description": "ಸಾಮವೇದ ಅಧ್ಯಯನ ಮಾಡಲು ಎರಡು ಪುಸ್ತಕಗಳು",
     "englishTitle": "Samaveda Purva Mattu Uttararchika Eradu Pustakagalu"
+  },
+  {
+    "id": "naalakau-vaedagalau",
+    "title": "ನಾಲ್ಕು ವೇದಗಳು",
+    "sanskritLabel": "SAMHITA",
+    "price": 1800,
+    "imageUrl": "/images/vedas-agamas/naalakau-vaedagalau.jpg",
+    "category": "vedas-agamas",
+    "description": "1358 ಪುಟಗಳ ಶೇಷ ನವರತ್ನ ಅವರ ನಾಲ್ಕು ವೇದಗಳ ಅಧ್ಯಯನವನ್ನು ಮಾಡುವಂತಹ ಒಂದು ವಿಶೇಷವಾದ ಪುಸ್ತಕ",
+    "englishTitle": "Naalakau Vaedagalau"
+  },
+  {
+    "id": "4-vaedagala-26-pausatakagala-saeta",
+    "title": "4 ವೇದಗಳ 26 ಪುಸ್ತಕಗಳ ಸೆಟ್",
+    "sanskritLabel": "SAMHITA",
+    "price": 9175,
+    "imageUrl": "/images/vedas-agamas/4-vaedagala-26-pausatakagala-saeta.jpg",
+    "category": "vedas-agamas",
+    "description": "ಆರ್ ಎಲ್ ಕಶ್ಯಪ ಅವರ 1. ಋಗ್ವೇದ ಸಂಹಿತೆ 14 ಪುಸ್ತಕಗಳು  2. ಯಜುರ್ವೇದ ತೈತ್ತಿರೀಯ ಸಂಹಿತೆ 4 ಪುಸ್ತಕಗಳು 3. ಸಾಮವೇದ ಪೂರ್ವಾರ್ಚಿಕ 1 ಪುಸ್ತಕ \n4. ಸಾಮವೇದ ಉತ್ತರಾ ರ್ಚಿಕ 1 ಪುಸ್ತಕ \n5. ಅಥರ್ವ ವೇದ 1 ರಿಂದ 20 ಖಂಡಗಳು 6 ಪುಸ್ತಕಗಳು \n\nಒಟ್ಟು 26 ಪುಸ್ತಕಗಳ 1 ಸೆಟ್\nRs 9175/- Post ಚಾರ್ಜ್ 600\nಟೋಟಲ್ 9775/-",
+    "englishTitle": "4 Vaedagala 26 Pausatakagala Saeta"
+  },
+  {
+    "id": "rugavaeda-samhaitae-bhaaga-1-raimda-14",
+    "title": "ಋಗ್ವೇದ ಸಂಹಿತೆ ಭಾಗ 1 ರಿಂದ 14",
+    "sanskritLabel": "SAMHITA",
+    "price": 5025,
+    "imageUrl": "/images/vedas-agamas/rugavaeda-samhaitae-bhaaga-1-raimda-14.jpg",
+    "category": "vedas-agamas",
+    "description": "ಒಟ್ಟು 4665 ಪುಟಗಳ 14 ಭಾಗಗಳ ಅತ್ಯಂತ ವಿಸ್ತಾರವಾದಂತಹ ಋಗ್ವೇದ ಸಂಹಿತೆ ಪುಸ್ತಕಗಳು, ಮೂಲ ಇಂಗ್ಲಿಷ್ ಆರ್ ಎಲ್ ಕಶ್ಯಪ, ಕನ್ನಡಕ್ಕೆ ಅನುವಾದ ಲಕ್ಷ್ಮಿಕಾಂತ ಹೆಗಡೆ",
+    "englishTitle": "Rugavaeda Samhaitae Bhaaga 1 Raimda 14"
+  },
+  {
+    "id": "atharava-vaeda-bhaaga-1-raimda-6",
+    "title": "ಅಥರ್ವ ವೇದ ಭಾಗ 1 ರಿಂದ 6",
+    "sanskritLabel": "SAMHITA",
+    "price": 1950,
+    "imageUrl": "/images/vedas-agamas/atharava-vaeda-bhaaga-1-raimda-6.jpg",
+    "category": "vedas-agamas",
+    "description": "1709 ಪುಟಗಳ ಒಟ್ಟು ಇಪ್ಪತ್ತು ಕಾಂಡಗಳ ಅತ್ಯಂತ ವಿಸ್ತಾರವಾದ ಮಂತ್ರ ಅರ್ಥ ವಿವರಣೆ ಸಹಿತವಾಗಿರುವಂತಹ ಮೂಲ ಇಂಗ್ಲಿಷ್ ಆರ್ ಎಲ್ ಕಶ್ಯಪ , ಕನ್ನಡಕ್ಕೆ ಲಕ್ಷ್ಮಿಕಾಂತ ಹೆಗಡೆ",
+    "englishTitle": "Atharava Vaeda Bhaaga 1 Raimda 6"
+  },
+  {
+    "id": "makakalaigaagai-vaedagalau-matatau-upanaishatataugalau",
+    "title": "ಮಕ್ಕಳಿಗಾಗಿ ವೇದಗಳು ಮತ್ತು ಉಪನಿಷತ್ತುಗಳು",
+    "sanskritLabel": "SAMHITA",
+    "price": 450,
+    "imageUrl": "/images/vedas-agamas/makakalaigaagai-vaedagalau-matatau-upanaishatataugalau.jpg",
+    "category": "vedas-agamas",
+    "description": "443 ಪುಟಗಳ ರೂಪ ಪೈ ಅವರ ನಮ್ಮ ಪ್ರಾಚೀನ ಧರ್ಮಗ್ರಂಥಗಳ ಸಾರವನ್ನು ಮಕ್ಕಳಿಗೆ ತಲುಪಿಸುವುದೆಂದರೆ ಸುಲಭದ ಮಾತೇನಲ್ಲ, ಭಗವದ್ಗೀತೆಯ ಮೂಲಕ ರೂಪಾ ಪೈ ಅವರು ಆ ಕಾರ್ಯವನ್ನು ಈಗಾಗಲೇ ಸಾಧಿಸಿ ತೋರಿಸಿದ್ದಾರೆ. ಅದೇ ಕಾರ್ಯವನ್ನು ಈ ಕೃತಿಯ ಮೂಲಕ ಮತ್ತೆ ಸಾಧಿಸಿದ್ದಾರೆ. ದೊಡ್ಡವರು ಕೂಡ ಈ ಪುಸ್ತಕವನ್ನು ಓದಿ ಆನಂದಿಸಬಹುದು. - ಬಿಬೇಕ್ ದೇಬ್ರಾಯ್",
+    "englishTitle": "Makakalaigaagai Vaedagalau Matatau Upanaishatataugalau"
   }
 ];

@@ -81,7 +81,9 @@ function ServiceGridPage({
           </div>
         ) : (
           <div className="bg-cream border border-line p-8 md:p-10 text-center">
-            <span className="text-3xl font-serif text-gold block mb-2">ॐ</span>
+            <span className="mx-auto mb-2 block font-serif text-3xl text-gold select-none leading-none" aria-hidden="true">
+              ॐ
+            </span>
             <h2 className="font-serif font-medium text-2xl md:text-3xl text-maroon mb-3">
               {bannerTitle}
             </h2>

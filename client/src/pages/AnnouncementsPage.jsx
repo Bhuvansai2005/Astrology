@@ -48,7 +48,7 @@ export default function AnnouncementsPage() {
         </div>
 
         <div className="bg-cream border border-line p-8 text-center max-w-4xl">
-          <span className="text-3xl font-serif text-gold block mb-2">✦</span>
+          <span className="text-3xl font-serif text-gold block mb-2 leading-none">ॐ</span>
           <h2 className="font-serif font-medium text-xl md:text-2xl text-maroon mb-2">
             {ap.bannerTitle}
           </h2>

@@ -24,7 +24,9 @@ export default function AboutPage() {
               className="bg-white border border-line p-8 md:p-10 flex flex-col justify-between shadow-sm"
             >
               <div>
-                <span className="text-gold text-2xl mb-3 block">ॐ</span>
+                <span className="mb-3 block font-serif text-2xl text-gold select-none leading-none" aria-hidden="true">
+                  ॐ
+                </span>
                 <h2 className="font-serif font-semibold text-2xl text-maroon mb-1">{c.title}</h2>
                 <small className="block text-[10px] tracking-[0.2em] text-gold font-bold uppercase mb-4">
                   {c.tag}
@@ -59,7 +61,7 @@ export default function AboutPage() {
                     key={cred}
                     className="inline-flex items-center px-3.5 py-1.5 bg-white border border-line text-maroon text-[12px] font-semibold tracking-wide"
                   >
-                    ✦ {cred}
+                    {cred}
                   </span>
                 ))}
               </div>

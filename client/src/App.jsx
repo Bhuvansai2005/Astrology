@@ -14,6 +14,9 @@ import {
   VastuServicesPage,
   OtherServicesPage,
 } from './pages/ServicePages';
+import RitualServicesPage from './pages/RitualServicesPage';
+import ConsultancyServicePage from './pages/ConsultancyServicePage';
+import YantrasPage from './pages/YantrasPage';
 import ClassesPage from './pages/ClassesPage';
 import AnnouncementsPage from './pages/AnnouncementsPage';
 import ContactPage from './pages/ContactPage';
@@ -45,6 +48,9 @@ export default function App() {
             <Route path="/services/astrology" element={<AstrologyServicesPage />} />
             <Route path="/services/vastu" element={<VastuServicesPage />} />
             <Route path="/services/other" element={<OtherServicesPage />} />
+            <Route path="/services/rituals/:type" element={<RitualServicesPage />} />
+            <Route path="/services/consultations/:type" element={<ConsultancyServicePage />} />
+            <Route path="/yantras" element={<YantrasPage />} />
             <Route path="/classes" element={<ClassesPage />} />
             <Route path="/announcements" element={<AnnouncementsPage />} />
             <Route path="/contact" element={<ContactPage />} />
