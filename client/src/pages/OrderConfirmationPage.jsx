@@ -1,13 +1,18 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { useLocation, useParams } from 'react-router-dom';
 import { Button, Container, SectionKicker } from '../components/UI';
 import { useLanguage } from '../hooks';
-import { BUSINESS, api } from '../config';
+import { BUSINESS } from '../config';
 
 function getCachedOrderData(orderRef) {
   try {
     const cached = sessionStorage.getItem(`apb_order_${orderRef}`);
-    return cached ? JSON.parse(cached) : null;
+    if (cached) return JSON.parse(cached);
+
+    // Fallback: check localStorage history
+    const history = JSON.parse(localStorage.getItem('apb_orders') || '[]');
+    const matched = history.find((o) => o.orderRef === orderRef);
+    return matched ? { order: matched } : null;
   } catch {
     return null;
   }
@@ -16,29 +21,15 @@ function getCachedOrderData(orderRef) {
 export default function OrderConfirmationPage() {
   const { orderRef } = useParams();
   const location = useLocation();
-  const accessToken = new URLSearchParams(location.search).get('accessToken');
   const { t } = useLanguage();
   const oc = t.orderConfirmation;
 
-  const [order, setOrder] = useState(
+  const [order] = useState(
     () => location.state?.order || getCachedOrderData(orderRef)?.order || null
   );
   const [whatsappUrl] = useState(
     () => location.state?.whatsappUrl || getCachedOrderData(orderRef)?.whatsappUrl || ''
   );
-
-  useEffect(() => {
-    if (!order && orderRef) {
-      api
-        .get(`/orders/${orderRef}`, { params: { accessToken } })
-        .then((res) => {
-          if (res.data?.order) setOrder(res.data.order);
-        })
-        .catch(() => {
-          // Order details remain optional fallback
-        });
-    }
-  }, [accessToken, order, orderRef]);
 
   const fallbackWhatsapp = `${BUSINESS.whatsapp}?text=${encodeURIComponent(
     `Adya Pustaka Bhandara — Order Ref: ${orderRef}`

@@ -208,19 +208,12 @@ export default function HomePage() {
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-[18px]">
               {CATALOG_ITEMS.slice(0, 4).map((cat) => {
                 const bookInfo = t.bookDetailsPage?.books?.[cat.id] || {};
-                const slug = (cat.imageUrl || '').split('/').pop().replace(/\.webp$/, '');
-                const cleanSlug = slug.replace(/-\d+$/, '');
-                const englishTitle = cleanSlug
-                  .split('-')
-                  .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
-                  .join(' ');
-
                 return (
                   <CategoryCard
                     key={cat.id}
                     id={cat.id}
                     title={bookInfo.title || cat.title}
-                    subtitle={englishTitle}
+                    subtitle={cat.englishTitle}
                     description={bookInfo.description || cat.description}
                     price={cat.price}
                     imageUrl={cat.imageUrl}

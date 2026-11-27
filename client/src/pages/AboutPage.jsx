@@ -1,6 +1,6 @@
 import { Button, Container, SectionKicker } from '../components/UI';
 import { useLanguage } from '../hooks';
-import { BUSINESS, HERO_IMAGES } from '../config';
+import { BUSINESS } from '../config';
 
 export default function AboutPage() {
   const { t } = useLanguage();
@@ -36,22 +36,14 @@ export default function AboutPage() {
         </div>
 
         <div className="bg-cream border border-line p-8 md:p-12 mb-16">
-          <div className="grid grid-cols-1 md:grid-cols-[1fr_2fr] gap-8 md:gap-12 items-center">
-            <div
-              className="min-h-[360px] md:min-h-[420px] bg-maroon-dark bg-cover bg-center rounded-sm relative"
-              style={{
-                backgroundImage: `linear-gradient(0deg, rgba(49,20,17,.6), transparent 50%), url(${HERO_IMAGES.about})`,
-              }}
-            >
-              <div className="absolute bottom-5 left-5 text-white">
-                <span className="font-serif text-xl block">{ap.scholarName}</span>
-                <small className="text-[10px] tracking-[0.18em] text-gold uppercase">
-                  {ap.scholarRoleLabel}
-                </small>
-              </div>
-            </div>
-
-            <div>
+          <div className="grid items-start gap-8 md:grid-cols-[200px_minmax(0,1fr)]">
+            <img
+              src="/images/brand/chandrashekar-adya.jpeg"
+              alt={ap.scholarName}
+              loading="lazy"
+              className="mx-auto h-44 w-44 rounded-full border-4 border-gold object-cover shadow-sm md:mx-0 md:h-[200px] md:w-[200px]"
+            />
+            <div className="max-w-3xl">
               <SectionKicker number={ap.scholarKickerNum} label={ap.scholarRoleLabel} />
               <h2 className="font-serif font-medium text-[32px] md:text-[40px] text-maroon mt-2 mb-4">
                 {ap.scholarName}

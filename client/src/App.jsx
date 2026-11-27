@@ -18,7 +18,6 @@ import ClassesPage from './pages/ClassesPage';
 import AnnouncementsPage from './pages/AnnouncementsPage';
 import ContactPage from './pages/ContactPage';
 import NotFoundPage from './pages/NotFoundPage';
-import SellerDashboardPage from './pages/SellerDashboardPage';
 import { PrivacyPolicyPage, TermsAndConditionsPage } from './pages/LegalPage';
 
 function ScrollToTopOnRouteChange() {
@@ -35,7 +34,6 @@ export default function App() {
       <CartProvider>
         <ScrollToTopOnRouteChange />
         <Routes>
-          <Route path="/dashboard" element={<SellerDashboardPage />} />
           <Route element={<Layout />}>
             <Route path="/" element={<HomePage />} />
             <Route path="/about" element={<AboutPage />} />

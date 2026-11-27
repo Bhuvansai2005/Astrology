@@ -12,17 +12,10 @@ export default function CataloguePage() {
 
   const localizedBooks = CATALOG_ITEMS.map((item) => {
     const bookInfo = t.bookDetailsPage?.books?.[item.id] || {};
-    const slug = (item.imageUrl || '').split('/').pop().replace(/\.webp$/, '');
-    const cleanSlug = slug.replace(/-\d+$/, '');
-    const englishTitle = cleanSlug
-      .split('-')
-      .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
-      .join(' ');
-
     return {
       ...item,
       kannadaTitle: item.title,
-      englishTitle,
+      englishTitle: item.englishTitle || '',
       title: bookInfo.title || item.title || item.id,
       description: bookInfo.description || item.description || '',
     };

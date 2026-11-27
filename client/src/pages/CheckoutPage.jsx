@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Button, Container, SectionKicker } from '../components/UI';
 import { useCart, useLanguage } from '../hooks';
-import { api, BUSINESS } from '../config';
+import { BUSINESS } from '../config';
 
 export default function CheckoutPage() {
   const { cart, subtotal, clearCart } = useCart();
@@ -17,7 +17,6 @@ export default function CheckoutPage() {
   });
   const [pendingOrder, setPendingOrder] = useState(null);
   const [whatsappUrl, setWhatsappUrl] = useState('');
-  const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState('');
 
   const handleChange = (e) => {
@@ -25,10 +24,10 @@ export default function CheckoutPage() {
     setFormData((prev) => ({ ...prev, [name]: value }));
   };
 
-  // Step 1: Prepare order & WhatsApp preview WITHOUT saving order in DB
+  // Step 1: Prepare order & WhatsApp preview
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (cart.length === 0 || submitting) return;
+    if (cart.length === 0) return;
 
     setError('');
 
@@ -67,22 +66,17 @@ export default function CheckoutPage() {
     });
   };
 
-  // Step 2: Open WhatsApp first and persist order only if the WhatsApp window opens and stays open
-  const openWhatsAppAndPlaceOrder = async () => {
-    if (!pendingOrder || !whatsappUrl || submitting) return;
+  // Step 2: Open WhatsApp and save order details locally
+  const openWhatsAppAndPlaceOrder = () => {
+    if (!pendingOrder || !whatsappUrl) return;
 
     setError('');
 
     const whatsappWindow = window.open(whatsappUrl, '_blank');
-    if (
-      !whatsappWindow ||
-      whatsappWindow.closed
-    ) {
+    if (!whatsappWindow) {
       setError(t.checkout.popupBlockedError);
       return;
     }
-
-    setError('');
 
     try {
       whatsappWindow.opener = null;
@@ -90,39 +84,38 @@ export default function CheckoutPage() {
       // Ignore opener assignment errors on restricted contexts
     }
 
-    setSubmitting(true);
+    const orderData = {
+      orderRef: pendingOrder.orderRef,
+      customer: {
+        name: pendingOrder.name,
+        phone: pendingOrder.phone,
+        email: pendingOrder.email,
+        address: pendingOrder.address,
+      },
+      items: pendingOrder.items,
+      subtotal,
+      total: subtotal,
+      createdAt: new Date().toISOString(),
+    };
 
     try {
-      await new Promise((resolve) => setTimeout(resolve, 1200));
-
-      if (whatsappWindow.closed) {
-        setError(t.checkout.popupBlockedError);
-        return;
-      }
-
-      const response = await api.post('/orders', pendingOrder);
-      const { order, accessToken, whatsappUrl: serverWhatsappUrl } = response.data;
-      const finalWhatsappUrl = serverWhatsappUrl || whatsappUrl;
-
-      try {
-        sessionStorage.setItem(
-          `apb_order_${order.orderRef}`,
-          JSON.stringify({ order, accessToken, whatsappUrl: finalWhatsappUrl })
-        );
-      } catch {
-        // Ignore storage errors
-      }
-
-      setPendingOrder(null);
-      clearCart();
-      navigate(`/order/${order.orderRef}?accessToken=${encodeURIComponent(accessToken)}`, {
-        state: { order, whatsappUrl: finalWhatsappUrl },
-      });
-    } catch (err) {
-      setError(err.message || t.checkout.saveError);
-    } finally {
-      setSubmitting(false);
+      sessionStorage.setItem(
+        `apb_order_${orderData.orderRef}`,
+        JSON.stringify({ order: orderData, whatsappUrl })
+      );
+      // Keep customer's recent orders in localStorage as backup
+      const existingHistory = JSON.parse(localStorage.getItem('apb_orders') || '[]');
+      existingHistory.unshift(orderData);
+      localStorage.setItem('apb_orders', JSON.stringify(existingHistory.slice(0, 50)));
+    } catch {
+      // Ignore storage errors
     }
+
+    setPendingOrder(null);
+    clearCart();
+    navigate(`/order/${orderData.orderRef}`, {
+      state: { order: orderData, whatsappUrl },
+    });
   };
 
   return (

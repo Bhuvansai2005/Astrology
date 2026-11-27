@@ -91,16 +91,9 @@ export default function BookDetailsPage() {
               <h1 className="font-serif font-semibold text-3xl md:text-5xl text-maroon mt-3 mb-1">
                 {book.title}
               </h1>
-              {bookFromConfig?.imageUrl && (
+              {bookFromConfig?.englishTitle && (
                 <div className="text-sm font-sans font-medium text-gold-rich tracking-wider mb-2">
-                  {bookFromConfig.imageUrl
-                    .split('/')
-                    .pop()
-                    .replace(/\.webp$/, '')
-                    .replace(/-\d+$/, '')
-                    .split('-')
-                    .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
-                    .join(' ')}
+                  {bookFromConfig.englishTitle}
                 </div>
               )}
 

@@ -33,14 +33,6 @@ export const kn = {
     "whatsappBtn": "ವಾಟ್ಸಾಪ್‌ನಲ್ಲಿ ಸಂಪರ್ಕಿಸಿ",
     "note": "ಕಾಲಾತೀತ ಶಾಸ್ತ್ರೀಯ ಜ್ಞಾನದ ಸಂರಕ್ಷಣೆ ಮತ್ತು ಸಂವರ್ಧನೆ"
   },
-  "intro": {
-    "kickerNumber": "01",
-    "kickerLabel": "ನಮ್ಮ ಗ್ರಂಥ ಸಂಗ್ರಹ",
-    "title1": "ಕಾಲಾತೀತವಾದ",
-    "title2": "ಅಮೂಲ್ಯ ಜ್ಞಾನ ಪರಂಪರೆ.",
-    "description": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ ಮತ್ತು ಆದ್ಯ ಜ್ಯೋತಿರ್ವಿಜ್ಞಾನ ಸಂಶೋಧನಾ ಕೇಂದ್ರವು ವೇದ-ಆಗಮ ಸಾಹಿತ್ಯ, ಜ್ಯೋತಿಷ್ಯ, ವಾಸ್ತು ಮತ್ತು ಪವಿತ್ರ ಆಚರಣೆಗಳ ಸಹಿತ ಭಾರತದ ಶಾಸ್ತ್ರೀಯ ಜ್ಞಾನ ಪರಂಪರೆಯನ್ನು ಸಂರಕ್ಷಿಸಿ ಪ್ರಕಟಿಸಿ ಬೋಧಿಸುವ ಕಾರ್ಯಕ್ಕೆ ಸಮರ್ಪಿತವಾಗಿದೆ.",
-    "aboutBtn": "ನಮ್ಮ ಕುರಿತು ತಿಳಿಯಿರಿ"
-  },
   "categories": {
     "kickerNumber": "02",
     "kickerLabel": "ವಿಷಯಾನುಸಾರ ಅನ್ವೇಷಿಸಿ",
@@ -113,41 +105,6 @@ export const kn = {
       }
 }
   },
-  "videos": {
-    "kickerNumber": "03",
-    "kickerLabel": "ಅಧ್ಯಯನ ದೃಶ್ಯಾವಳಿ",
-    "title1": "ಜ್ಯೋತಿರ್ವಿಜ್ಞಾನ",
-    "title2": "ಉಪನ್ಯಾಸ ಮಾಲಿಕೆ",
-    "subtitle": "ವೈದಿಕ ಜ್ಯೋತಿಷ್ಯ ಶಾಸ್ತ್ರದ ಮೂಲಭೂತ ತತ್ತ್ವಗಳನ್ನು ಪರಿಚಯಿಸುವ ದೃಶ್ಯಾವಳಿಗಳು.",
-    "video1Category": "ಜ್ಯೋತಿಷ್ಯ ಮೂಲತತ್ತ್ವ",
-    "video1Title": "ದ್ವಾದಶ ರಾಶಿಗಳ ಸ್ವರೂಪ ಮತ್ತು ವಿವೇಚನೆ",
-    "video1Desc": "ಹನ್ನೆರಡು ರಾಶಿಗಳ ಲಕ್ಷಣ, ಗ್ರಹಾಧಿಪತ್ಯ ಹಾಗೂ ಜಾತಕ ವಿಶ್ಲೇಷಣೆಯಲ್ಲಿ ಅವುಗಳ ಮಹತ್ವವನ್ನು ವಿವರಿಸುವ ಪರಿಚಯಾತ್ಮಕ ಉಪನ್ಯಾಸ.",
-    "video2Category": "ವೈದಿಕ ಜ್ಯೋತಿಷ್ಯ",
-    "video2Title": "ನಕ್ಷತ್ರ ಮಂಡಲ ಮತ್ತು ಗ್ರಹ ಗಣಿತ",
-    "video2Desc": "ಅಶ್ವಿನ್ಯಾದಿ ಸಪ್ತವಿಂಶತಿ ನಕ್ಷತ್ರಗಳು ಹಾಗೂ ವೈದಿಕ ಕಾಲಗಣನೆಯ ಪ್ರಾಥಮಿಕ ಅಧ್ಯಯನ."
-  },
-  "about": {
-    "kickerNumber": "04",
-    "kickerLabel": "ಸಂಸ್ಥೆಯ ಪರಿಚಯ",
-    "title": "ನಮ್ಮ ಬಗ್ಗೆ",
-    "subtitle1": "ಶಾಸ್ತ್ರೀಯ ಜಿಜ್ಞಾಸುಗಳ",
-    "subtitle2": "ವಿಶ್ವಾಸಾರ್ಹ ಜ್ಞಾನಕೇಂದ್ರ.",
-    "desc1": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರವು ಭಾರತದ ವೈದಿಕ ಸಾಹಿತ್ಯ, ಆಗಮ, ಜ್ಯೋತಿಷ್ಯ, ಆಧ್ಯಾತ್ಮ ಹಾಗೂ ಪ್ರಾಚೀನ ಶಾಸ್ತ್ರೀಯ ಗ್ರಂಥಗಳನ್ನು ಅಧಿಕೃತವಾಗಿ ಒದಗಿಸಲು ಸಮರ್ಪಿತವಾದ ಸಂಸ್ಥೆಯಾಗಿದೆ.",
-    "desc2": "ನೀವು ಅಧ್ಯಯನದ ಆರಂಭಿಕ ಹಂತದಲ್ಲಿರುವ ಜಿಜ್ಞಾಸುವಾಗಿರಲಿ ಅಥವಾ ಆಳವಾದ ಸಂಶೋಧನೆಯಲ್ಲಿ ನಿರತರಾದ ವಿದ್ವಾಂಸರಾಗಿರಲಿ, ನಿಮ್ಮ ಜ್ಞಾನಾರ್ಜನೆಗೆ ಪೂರಕವಾದ ಪ್ರಮಾಣಿತ ಗ್ರಂಥಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿವೆ.",
-    "readStoryBtn": "ಸಂಸ್ಥೆಯ ಸಂಪೂರ್ಣ ವಿವರ",
-    "connectBtn": "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ",
-    "visualText1": "ಶಾಸ್ತ್ರೀಯ ಜ್ಞಾನದ",
-    "visualText2": "ಮಹಾದ್ವಾರ"
-  },
-  "catalogueCTA": {
-    "kickerNumber": "05",
-    "kickerLabel": "ಅಧ್ಯಯನಕ್ಕೆ ಸೂಕ್ತ ಗ್ರಂಥಗಳು",
-    "title1": "ನಮ್ಮ ಸಂಪೂರ್ಣ",
-    "title2": "ಗ್ರಂಥ ಭಂಡಾರವನ್ನು ವೀಕ್ಷಿಸಿ",
-    "description": "ಲಭ್ಯವಿರುವ ಎಲ್ಲಾ ಪ್ರಮಾಣಿತ ಗ್ರಂಥಗಳನ್ನು ಜಾಲತಾಣದಲ್ಲಿ ಪರಿಶೀಲಿಸಿ ಅಥವಾ ವಾಟ್ಸಾಪ್ ಮೂಲಕ ತರಿಸಿಕೊಳ್ಳಿ.",
-    "browseBtn": "ಜಾಲತಾಣದಲ್ಲಿ ವೀಕ್ಷಿಸಿ",
-    "whatsappBtn": "ವಾಟ್ಸಾಪ್ ಗ್ರಂಥ ಪಟ್ಟಿ"
-  },
   "communities": {
     "whatsappBadge": "ಸಂಸ್ಥೆಯ ಸಂಪರ್ಕ",
     "whatsappTitle": "ನಮ್ಮ ವಾಟ್ಸಾಪ್ ಸಮುದಾಯಕ್ಕೆ ಸೇರಿ",
@@ -186,64 +143,6 @@ export const kn = {
     "instagramTitle": "ಇನ್‌ಸ್ಟಾಗ್ರಾಂನಲ್ಲಿ ನಮ್ಮನ್ನು ಅನುಸರಿಸಿ",
     "instagramButton": "ಇನ್‌ಸ್ಟಾಗ್ರಾಂ ವೀಕ್ಷಿಸಿ",
     "instagramScanNote": "ಕ್ಯೂಆರ್ ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
-  },
-  "sacredOfferings": {
-    "kickerNumber": "08",
-    "kickerLabel": "ವಿಶೇಷ ಸೇವೆಗಳು ಹಾಗೂ ಗ್ರಂಥ ವಿಷಯಗಳು",
-    "title1": "ಶಾಸ್ತ್ರೀಯ ಗ್ರಂಥ ವಿಷಯಗಳು ಹಾಗೂ",
-    "title2": "ಆಧ್ಯಾತ್ಮಿಕ ವಸ್ತುಗಳು",
-    "subtitle": "ವೈದಿಕ ಹಾಗೂ ಆಗಮ ಪರಂಪರೆಯ ಪ್ರಮಾಣಿತ ಪುಸ್ತಕಗಳೊಂದಿಗೆ ಶಾಸ್ತ್ರೋಕ್ತವಾಗಿ ಕೈಯಲ್ಲೇ ಬರೆದು ಪೂಜಿಸಿದ ಯಂತ್ರಗಳು, ಪಿರಮಿಡ್ ವಾಸ್ತು ಪರಿಹಾರಗಳು ಹಾಗೂ ಪವಿತ್ರ ಆಧ್ಯಾತ್ಮಿಕ ವಸ್ತುಗಳು ಲಭ್ಯವಿವೆ.",
-    "subjectsHeading": "ನಮ್ಮಲ್ಲಿ ದೊರೆಯುವ ಪ್ರಮುಖ ಶಾಸ್ತ್ರೀಯ ಪುಸ್ತಕ ವಿಷಯಗಳು",
-    "subjects": [
-      "ಜ್ಯೋತಿಷ್ಯ",
-      "ವಾಸ್ತು ಶಾಸ್ತ್ರ",
-      "ಸಹಸ್ರನಾಮ",
-      "ಪೂಜಾ ವಿಧಿ-ವಿಧಾನಗಳು",
-      "ಯಂತ್ರ ಶಾಸ್ತ್ರ",
-      "ಮಂತ್ರ ಶಾಸ್ತ್ರ",
-      "ತಂತ್ರ ಶಾಸ್ತ್ರ",
-      "ಶ್ರೀ ವಿದ್ಯೆ",
-      "ಪುರಾಣಗಳು",
-      "ಯೋಗ",
-      "ಆಗಮ",
-      "ಸಂಖ್ಯಾಶಾಸ್ತ್ರ",
-      "ಹಸ್ತಸಾಮುದ್ರಿಕ ಶಾಸ್ತ್ರ",
-      "ಆಧ್ಯಾತ್ಮ ಪುಸ್ತಕಗಳು"
-    ],
-    "articlesHeading": "ಆಧ್ಯಾತ್ಮಿಕ ವಸ್ತುಗಳು ಹಾಗೂ ವಿಶೇಷ ಸೇವೆಗಳು",
-    "inquireBtn": "ವಾಟ್ಸಾಪ್ ಮೂಲಕ ವಿಚಾರಿಸಿ",
-    "articles": [
-      {
-        "tag": "ಪವಿತ್ರ ಧಾರಣಾ ವಸ್ತು",
-        "title": "ರುದ್ರಾಕ್ಷಿ",
-        "description": "ಜಪ, ಧ್ಯಾನ ಹಾಗೂ ನಿತ್ಯ ಧಾರಣೆಗಾಗಿ ಶುದ್ಧ ಮತ್ತು ಪ್ರಮಾಣಿತ ರುದ್ರಾಕ್ಷಿಗಳು ಲಭ್ಯವಿವೆ."
-      },
-      {
-        "tag": "ಜಪ ಮತ್ತು ಧ್ಯಾನ",
-        "title": "ಸ್ಪಟಿಕ ಮಾಲೆ",
-        "description": "ದೇವೀ ಮತ್ತು ಶಿವ ಮಂತ್ರ ಜಪ ಹಾಗೂ ಮನಃಶಾಂತಿಗಾಗಿ ಶುದ್ಧ ಸ್ಪಟಿಕ ಜಪಮಾಲೆಗಳು."
-      },
-      {
-        "tag": "ನಿತ್ಯ ಪೂಜಾ ಪ್ರತಿಮೆ",
-        "title": "ಸ್ಪಟಿಕ ಲಿಂಗ",
-        "description": "ಮನೆಯ ದೇವರ ಕೋಣೆಯಲ್ಲಿ ನಿತ್ಯ ಅಭಿಷೇಕ ಹಾಗೂ ಶಿವಪೂಜೆಗಾಗಿ ಪವಿತ್ರ ಸ್ಪಟಿಕ ಲಿಂಗ."
-      },
-      {
-        "tag": "ರಕ್ಷಾ ಮತ್ತು ಸಾಧನೆ",
-        "title": "ಕಾರಂಗುಲಿ ಮಾಲೆ",
-        "description": "ಪಾರಂಪರಿಕ ಸಾಧನೆ, ಜಪ ಹಾಗೂ ರಕ್ಷಣೆಗಾಗಿ ವಿಶೇಷ ಕಾರಂಗುಲಿ ಮಾಲೆ."
-      },
-      {
-        "tag": "ವಿಧಿವಿಧಾನ ಪೂಜಿತ",
-        "title": "ಕೈಯಲ್ಲೇ ಬರೆದ ಯಂತ್ರಗಳು",
-        "description": "ಶಾಸ್ತ್ರೋಕ್ತವಾಗಿ ಕೈಯಲ್ಲೇ ಬರೆದು, ವೈದಿಕ ಮತ್ತು ಆಗಮ ವಿಧಿವಿಧಾನಗಳಂತೆ ಪೂಜೆ ಹಾಗೂ ಮಂತ್ರ ಸಂಸ್ಕಾರ ನೆರವೇರಿಸಿ ಕೊಡಲಾಗುತ್ತದೆ."
-      },
-      {
-        "tag": "ವಾಸ್ತು ದೋಷ ನಿವಾರಣೆ",
-        "title": "ಪಿರಮಿಡ್ ವಾಸ್ತು ಪರಿಹಾರ",
-        "description": "ಮನೆಯ ವಾಸ್ತುವಿಗೆ ಸಂಬಂಧಿಸಿದ ದೋಷಗಳಿಗೆ ಕಟ್ಟಡ ಒಡೆಯದೆ ಪಿರಮಿಡ್ ವಿಧಾನದಿಂದ ಶಾಸ್ತ್ರೋಕ್ತ ಪರಿಹಾರ ಮಾರ್ಗದರ್ಶನ."
-      }
-    ]
   },
   "footer": {
     "brandDesc": "ವೇದ, ಆಗಮ, ಜ್ಯೋತಿಷ್ಯ, ಪುರಾಣ, ಆಧ್ಯಾತ್ಮ ಮತ್ತು ಭಾರತೀಯ ಶಾಸ್ತ್ರೀಯ ಜ್ಞಾನ ಪರಂಪರೆಯ ಪ್ರಮಾಣಿತ ಗ್ರಂಥಗಳು ಹಾಗೂ ಆಧ್ಯಾತ್ಮಿಕ ವಸ್ತುಗಳನ್ನು ಒದಗಿಸುವ ಕೇಂದ್ರ.",
@@ -412,7 +311,7 @@ export const kn = {
     "whatsappBtn": "ವಾಟ್ಸಾಪ್ ಮೂಲಕ ವಿಚಾರಿಸಿ",
     "backBtn": "ಪುಸ್ತಕ ಭಂಡಾರಕ್ಕೆ ಹಿಂತಿರುಗಿ",
     "books": {
-      "4": {
+      "yajurveda-taitariya-samhite-4-pustakagalu": {
             "title": "ಯಜುರ್ವೇದ ತೈತರಿಯ ಸಂಹಿತೆ 4 ಪುಸ್ತಕಗಳು",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -423,7 +322,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "14": {
+      "rigveda-samhita-14-pustakagalu": {
             "title": "ಋಗ್ವೇದ ಸಂಹಿತ 14 ಪುಸ್ತಕಗಳು",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -434,7 +333,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "30": {
+      "30-dinadalli-jyotishya-kaliyiri": {
             "title": "30 ದಿನದಲ್ಲಿ ಜ್ಯೋತಿಷ್ಯ ಕಲಿಯಿರಿ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -445,7 +344,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "301": {
+      "301-brihat-yantra-raja": {
             "title": "301 ಬೃಹತ್ ಯಂತ್ರ ರಾಜ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -456,7 +355,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "400": {
+      "satika-mantra-mohodadi-400-varsha-prachina-grantha": {
             "title": "ಸಟಿಕಾ ಮಂತ್ರ ಮೊಹೋದದಿ 400 ವರ್ಷ ಪ್ರಾಚೀನ ಗ್ರಂಥ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -467,7 +366,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "501": {
+      "lal-kitab-501-sarala-upaya-pariharagalu": {
             "title": "ಲಾಲ್ ಕಿತಾಬ್ 501 ಸರಳ ಉಪಾಯ ಪರಿಹಾರಗಳು",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -478,7 +377,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-176": {
+      "asali-prachina-brihat-ravana-samhita": {
             "title": "ಅಸಲಿ ಪ್ರಾಚೀನ ಬೃಹತ್ ರಾವಣ ಸಂಹಿತ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -489,7 +388,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-217": {
+      "asali-lal-kitabna-adbhuta-tantra-upayagalu": {
             "title": "ಅಸಲಿ ಲಾಲ್ ಕಿತಾಬ್ನ ಅದ್ಭುತ ತಂತ್ರ ಉಪಾಯಗಳು",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -500,7 +399,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-113": {
+      "uttara-kalamruta": {
             "title": "ಉತ್ತರ ಕಾಲಾಮೃತ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -511,7 +410,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-58": {
+      "kala-nirnaya-jyotishya": {
             "title": "ಕಾಲ ನಿರ್ಣಯ ಜ್ಯೋತಿಷ್ಯ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -522,7 +421,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-209": {
+      "kala-kitab": {
             "title": "ಕಾಲಾ ಕಿತಾಬ್",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -533,7 +432,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-105": {
+      "jyotishya-nighantu": {
             "title": "ಜ್ಯೋತಿಷ್ಯ ನಿಘಂಟು",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -544,7 +443,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-66": {
+      "jyotishya-parijata": {
             "title": "ಜ್ಯೋತಿಷ್ಯ ಪಾರಿಜಾತ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -555,7 +454,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-96": {
+      "jyotishya-sarakosha": {
             "title": "ಜ್ಯೋತಿಷ್ಯ ಸಾರಕೋಶ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -566,7 +465,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-168": {
+      "jyotishyamruta": {
             "title": "ಜ್ಯೋತಿಷ್ಯಾಮೃತ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -577,7 +476,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-64": {
+      "dhruvanadi-siddhanta": {
             "title": "ಧ್ರುವನಾಡಿ ಸಿದ್ದಾಂತ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -588,7 +487,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-27": {
+      "nakshatradharita-jyotishya": {
             "title": "ನಕ್ಷತ್ರಧಾರಿತ ಜ್ಯೋತಿಷ್ಯ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -599,7 +498,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-128": {
+      "nadi-jyotishya-margadarshi": {
             "title": "ನಾಡಿ ಜ್ಯೋತಿಷ್ಯ ಮಾರ್ಗದರ್ಶಿ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -610,7 +509,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "1-2": {
+      "neevu-jyotishyare-bhaga-1-bhaga-2": {
             "title": "ನೀವು ಜ್ಯೋತಿಷ್ಯರೇ ಭಾಗ-1 ಭಾಗ-2",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -621,7 +520,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-148": {
+      "phala-deepika": {
             "title": "ಫಲ ದೀಪಿಕಾ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -632,7 +531,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-91": {
+      "phaladeepika": {
             "title": "ಫಲದೀಪಿಕ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -643,7 +542,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-45": {
+      "brihajjatakam": {
             "title": "ಬೃಹಜ್ಜಾತಕಮ್",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -654,7 +553,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-155": {
+      "brihajjatakam-2": {
             "title": "ಬೃಹಜ್ಜಾತಕಮ್",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -665,7 +564,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-73": {
+      "brihat-parashara-hora-shastram": {
             "title": "ಬೃಹತ್ ಪರಾಶರ ಹೋರ ಶಾಸ್ತ್ರಮ್",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -676,7 +575,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-37": {
+      "brihat-samhita": {
             "title": "ಬೃಹತ್ ಸಂಹಿತ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -687,7 +586,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-126": {
+      "brihat-samhita-2": {
             "title": "ಬೃಹತ್ ಸಂಹಿತ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -698,7 +597,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-31": {
+      "brihat-samhita-3": {
             "title": "ಬೃಹತ್ ಸಂಹಿತಾ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -709,7 +608,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-171": {
+      "muhurta-nirnaya": {
             "title": "ಮುಹೂರ್ತ ನಿರ್ಣಯ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -720,7 +619,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-90": {
+      "mela--meli": {
             "title": "ಮೇಳಾ- ಮೇಳಿ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -731,7 +630,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-175": {
+      "ravana-samhita": {
             "title": "ರಾವಣ ಸಂಹಿತಾ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -742,7 +641,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-143": {
+      "rashi-lagnadi-phalagalu": {
             "title": "ರಾಶಿ, ಲಗ್ನಾದಿ ಫಲಗಳು",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -753,7 +652,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-6": {
+      "shambhu-hora-prakasha": {
             "title": "ಶಂಭು ಹೋರಾ ಪ್ರಕಾಶ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -764,7 +663,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-17": {
+      "sankshipta-nadi-sootragalu-mattu-jivitavadhiya-mukhya-ghatanegalu": {
             "title": "ಸಂಕ್ಷಿಪ್ತ ನಾಡಿ ಸೂತ್ರಗಳು ಮತ್ತು ಜೀವಿತಾವಧಿಯ ಮುಖ್ಯ ಘಟನೆಗಳು",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -775,7 +674,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-123": {
+      "samudrika-samuchchhaya": {
             "title": "ಸಾಮುದ್ರಿಕಾ ಸಮುಚ್ಛಯ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -786,7 +685,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-18": {
+      "hasta-samudrika-phalashastra": {
             "title": "ಹಸ್ತ ಸಾಮುದ್ರಿಕ ಫಲಶಾಸ್ತ್ರ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -797,7 +696,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-70": {
+      "hora-tantra": {
             "title": "ಹೋರಾ ತಂತ್ರ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -808,7 +707,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-204": {
+      "horatantra": {
             "title": "ಹೋರಾತಂತ್ರ",
             "sanskrit": "JYOTISHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -819,7 +718,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-178": {
+      "nimma-mane-vastu-nive-nodikolli": {
             "title": "ನಿಮ್ಮ ಮನೆ ವಾಸ್ತು ನೀವೇ ನೋಡಿಕೊಳ್ಳಿ",
             "sanskrit": "VASTU",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -830,7 +729,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-160": {
+      "nimma-manege-nive-engineer": {
             "title": "ನಿಮ್ಮ ಮನೆಗೆ ನೀವೇ ಇಂಜಿನಿಯರ್",
             "sanskrit": "VASTU",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -841,7 +740,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-153": {
+      "varga-sameekshe": {
             "title": "ವರ್ಗ ಸಮೀಕ್ಷೆ",
             "sanskrit": "VASTU",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -852,7 +751,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-4": {
+      "vastu-shastra-ritya-ayadi-vargaganita": {
             "title": "ವಾಸ್ತು ಶಾಸ್ತ್ರ ರೀತ್ಯ ಆಯಾದಿ ವರ್ಗಗಣಿತ",
             "sanskrit": "VASTU",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -863,7 +762,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-95": {
+      "vaijnyanika-vastu-shastrada-adbhuta-prashnottaragalu": {
             "title": "ವೈಜ್ಞಾನಿಕ ವಾಸ್ತು ಶಾಸ್ತ್ರದ ಅದ್ಭುತ ಪ್ರಶ್ನೋತ್ತರಗಳು",
             "sanskrit": "VASTU",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -874,7 +773,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-151": {
+      "sashastriya-vastu": {
             "title": "ಸಶಾಸ್ತ್ರೀಯ ವಾಸ್ತು",
             "sanskrit": "VASTU",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -885,7 +784,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-149": {
+      "ashtamangala-prashna-deepika": {
             "title": "ಅಷ್ಟಮಂಗಲ ಪ್ರಶ್ನ ದೀಪಿಕಾ",
             "sanskrit": "PRASHNA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -896,7 +795,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-121": {
+      "nimma-prashnege-anjaneyana-uttara": {
             "title": "ನಿಮ್ಮ ಪ್ರಶ್ನೆಗೆ ಆಂಜನೇಯನ ಉತ್ತರ",
             "sanskrit": "PRASHNA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -907,7 +806,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-210": {
+      "prashna-chandeshvara": {
             "title": "ಪ್ರಶ್ನ ಚಂಡೇಶ್ವರ",
             "sanskrit": "PRASHNA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -918,7 +817,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-110": {
+      "prashna-sanjeevini": {
             "title": "ಪ್ರಶ್ನ ಸಂಜೀವಿನಿ",
             "sanskrit": "PRASHNA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -929,7 +828,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-30": {
+      "prashnamarga-shloka-sangraha": {
             "title": "ಪ್ರಶ್ನಮಾರ್ಗ ಶ್ಲೋಕ ಸಂಗ್ರಹ",
             "sanskrit": "PRASHNA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -940,7 +839,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-152": {
+      "prashne-sandesha-deva-prashne": {
             "title": "ಪ್ರಶ್ನೆ ಸಂದೇಶ ದೇವ ಪ್ರಶ್ನೆ",
             "sanskrit": "PRASHNA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -951,7 +850,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-98": {
+      "nemalaji": {
             "title": "ನೇಮಲಜಿ",
             "sanskrit": "SANKHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -962,7 +861,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-211": {
+      "bhavishya-nudiyuva-sankhyegalu": {
             "title": "ಭವಿಷ್ಯ ನುಡಿಯುವ ಸಂಖ್ಯೆಗಳು",
             "sanskrit": "SANKHYA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -973,7 +872,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-193": {
+      "ashtakarmayukta-siddha-shabara-mantra-prayoga": {
             "title": "ಅಷ್ಟಕರ್ಮಯುಕ್ತ ಸಿದ್ಧ ಶಾಬರ ಮಂತ್ರ ಪ್ರಯೋಗ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -984,7 +883,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-57": {
+      "aasheervachana-mantrah": {
             "title": "ಆಶೀರ್ವಚನ ಮಂತ್ರಃ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -995,7 +894,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-7": {
+      "uddeesha-tantra": {
             "title": "ಉಡ್ಡೀಶಾ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1006,7 +905,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-137": {
+      "kaka-chandeeshvara-tantra": {
             "title": "ಕಾಕ ಚಂಡೀಶ್ವರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1017,7 +916,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-85": {
+      "kakachandeeshvara-tantra": {
             "title": "ಕಾಕಚಂಡೀಶ್ವರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1028,7 +927,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-112": {
+      "kartaveeryarjuna-tantra": {
             "title": "ಕಾರ್ತವೀರ್ಯಾರ್ಜುನ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1039,7 +938,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-2": {
+      "kali-upasana-tantra": {
             "title": "ಕಾಳಿ ಉಪಾಸನಾ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1050,7 +949,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-5": {
+      "ganapati-mantropasana-deepika": {
             "title": "ಗಣಪತಿ ಮಂತ್ರೋಪಾಸನ ದೀಪಿಕಾ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1061,7 +960,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-32": {
+      "ganapati-yantra-mantra-tantra": {
             "title": "ಗಣಪತಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1072,7 +971,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-184": {
+      "ganapati-yantra-mantra-tantra-2": {
             "title": "ಗಣಪತಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1083,7 +982,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-12": {
+      "damara-tantra-rahasya": {
             "title": "ಡಾಮರ ತಂತ್ರ ರಹಸ್ಯ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1094,7 +993,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-212": {
+      "tantra-kusumanjali": {
             "title": "ತಂತ್ರ ಕುಸುಮಾಂಜಲಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1105,7 +1004,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-147": {
+      "tantra-sadhana-rahasya": {
             "title": "ತಂತ್ರ ಸಾಧನ ರಹಸ್ಯ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1116,7 +1015,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-200": {
+      "tantrada-mulaka-manokamanegala-prapti": {
             "title": "ತಂತ್ರದ ಮೂಲಕ ಮನೋಕಾಮನೆಗಳ ಪ್ರಾಪ್ತಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1127,7 +1026,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-107": {
+      "tara-pratyangira-yantra-mantra-tantra": {
             "title": "ತಾರಾ ಪ್ರತ್ಯಂಗಿರಾ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1138,7 +1037,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-115": {
+      "tara-pratyangira-yantra-mantra-tantra-2": {
             "title": "ತಾರಾ ಪ್ರತ್ಯಂಗಿರಾ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1149,7 +1048,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-179": {
+      "nirvana-tantram": {
             "title": "ನಿರ್ವಾಣ ತಂತ್ರಮ್",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1160,7 +1059,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-195": {
+      "prachina-asali-indrajala-mahendrajala-vidye": {
             "title": "ಪ್ರಾಚೀನ ಅಸಲಿ ಇಂದ್ರಜಾಲ ಮಹೇಂದ್ರಜಾಲ ವಿದ್ಯೆ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1171,7 +1070,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-141": {
+      "batukabhairava-tantrakalpaha": {
             "title": "ಬಟುಕಭೈರವ ತಂತ್ರಕಲ್ಪಹ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1182,7 +1081,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-119": {
+      "brihat-bhairava-tantra": {
             "title": "ಬೃಹತ್ ಭೈರವ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1193,7 +1092,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-213": {
+      "brihat-bhairava-tantra-2": {
             "title": "ಬೃಹತ್ ಭೈರವ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1204,7 +1103,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-185": {
+      "mantra-manjari": {
             "title": "ಮಂತ್ರ ಮಂಜರಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1215,7 +1114,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-94": {
+      "mantragala-chamatkara": {
             "title": "ಮಂತ್ರಗಳ ಚಮತ್ಕಾರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1226,7 +1125,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-20": {
+      "manegobba-mantrika": {
             "title": "ಮನೆಗೊಬ್ಬ ಮಾಂತ್ರಿಕ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1237,7 +1136,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-71": {
+      "malayala-yantra-mantra-tantra": {
             "title": "ಮಲಯಾಳ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1248,7 +1147,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-131": {
+      "malayala-yantra-mantra-tantra-2": {
             "title": "ಮಲಯಾಳ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1259,7 +1158,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-162": {
+      "mahapratyangira-samputa": {
             "title": "ಮಹಾಪ್ರತ್ಯಂಗಿರಾ ಸಂಪುಟ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1270,7 +1169,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-158": {
+      "mulamantra-prayogah": {
             "title": "ಮೂಲಮಂತ್ರ ಪ್ರಯೋಗಃ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1281,7 +1180,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-133": {
+      "yantra-kattu": {
             "title": "ಯಂತ್ರ ಕಟ್ಟು",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1292,7 +1191,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-161": {
+      "yantra-chintamani": {
             "title": "ಯಂತ್ರ ಚಿಂತಾಮಣಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1303,7 +1202,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-52": {
+      "yantra-mantra-anjaneya-tantra": {
             "title": "ಯಂತ್ರ ಮಂತ್ರ ಆಂಜನೇಯ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1314,7 +1213,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-145": {
+      "yantra-mantra-anjaneya-tantra-2": {
             "title": "ಯಂತ್ರ ಮಂತ್ರ ಆಂಜನೇಯ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1325,7 +1224,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item": {
+      "yakshini-samputa": {
             "title": "ಯಕ್ಷಿಣಿ ಸಂಪುಟ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1336,7 +1235,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-142": {
+      "rudhigata-vamachara-prayoga": {
             "title": "ರೂಢಿಗತ ವಾಮಾಚಾರ ಪ್ರಯೋಗ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1347,7 +1246,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-3": {
+      "vamakeshvari-tantra": {
             "title": "ವಾಮಕೇಶ್ವರಿ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1358,7 +1257,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "1-2-2": {
+      "vijnyana-bhairava-tantra-bhaga-1-mattu-2": {
             "title": "ವಿಜ್ಞಾನ ಭೈರವ ತಂತ್ರ ಭಾಗ 1 ಮತ್ತು 2",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1369,7 +1268,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-35": {
+      "shabara-mantra-prayoga": {
             "title": "ಶಾಬರ ಮಂತ್ರ ಪ್ರಯೋಗ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1380,7 +1279,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-187": {
+      "sharada-tilaka": {
             "title": "ಶಾರದಾ ತಿಲಕ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1391,7 +1290,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-25": {
+      "shighra-phaladayaka-puratana-mantra-rahasya": {
             "title": "ಶೀಘ್ರ ಫಲದಾಯಕ ಪುರಾತನ ಮಂತ್ರ ರಹಸ್ಯ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1402,7 +1301,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-167": {
+      "shighra-phaladayaka-puratana-mantra-rahasya-2": {
             "title": "ಶೀಘ್ರ ಫಲದಾಯಕ ಪುರಾತನ ಮಂತ್ರ ರಹಸ್ಯ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1413,7 +1312,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-157": {
+      "shree-dattatreya-tantra": {
             "title": "ಶ್ರೀ ದತ್ತಾತ್ರೇಯ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1424,7 +1323,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-69": {
+      "shree-dattatreya-mantra": {
             "title": "ಶ್ರೀ ದತ್ತಾತ್ರೇಯ ಮಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1435,7 +1334,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-198": {
+      "shree-durga-saptashatiya-mantra-prayoga": {
             "title": "ಶ್ರೀ ದುರ್ಗಾ ಸಪ್ತಶತಿಯ ಮಂತ್ರ ಪ್ರಯೋಗ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1446,7 +1345,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-203": {
+      "shree-bala-tantram": {
             "title": "ಶ್ರೀ ಬಾಲಾ ತಂತ್ರಂ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1457,7 +1356,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-54": {
+      "shree-mantra-rahasya": {
             "title": "ಶ್ರೀ ಮಂತ್ರ ರಹಸ್ಯ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1468,7 +1367,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-42": {
+      "shree-renuka-parashurama-tantram": {
             "title": "ಶ್ರೀ ರೇಣುಕಾ ಪರಶುರಾಮ ತಂತ್ರಂ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1479,7 +1378,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-10": {
+      "shree-vidya": {
             "title": "ಶ್ರೀ ವಿದ್ಯಾ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1490,7 +1389,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-68": {
+      "shree-vidya-mantra-yantra-tantra-rahasyagalu": {
             "title": "ಶ್ರೀ ವಿದ್ಯಾ ಮಂತ್ರ ಯಂತ್ರ ತಂತ್ರ ರಹಸ್ಯಗಳು",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1501,7 +1400,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-116": {
+      "shree-vidya-yantra-mantra-tantra-rahasya": {
             "title": "ಶ್ರೀ ವಿದ್ಯಾ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ ರಹಸ್ಯ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1512,7 +1411,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-39": {
+      "shree-vidya-sahasradhara": {
             "title": "ಶ್ರೀ ವಿದ್ಯಾ ಸಹಸ್ರಧಾರಾ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1523,7 +1422,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-122": {
+      "shree-vidyanusandhana": {
             "title": "ಶ್ರೀ ವಿದ್ಯಾನುಸಂಧಾನ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1534,7 +1433,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-79": {
+      "shree-vidyasaparya": {
             "title": "ಶ್ರೀ ವಿದ್ಯಾಸಪರ್ಯ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1545,7 +1444,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-180": {
+      "shrichakra": {
             "title": "ಶ್ರೀಚಕ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1556,7 +1455,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-135": {
+      "shrichakra-dashamahavidya": {
             "title": "ಶ್ರೀಚಕ್ರ ದಶಮಹಾವಿದ್ಯಾ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1567,7 +1466,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-44": {
+      "shrichakra-dashamahavidyah": {
             "title": "ಶ್ರೀಚಕ್ರ ದಶಮಹಾವಿದ್ಯಾಃ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1578,7 +1477,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-146": {
+      "shrichakra-navavarana-vidhi": {
             "title": "ಶ್ರೀಚಕ್ರ ನವಾವರಣ ವಿಧಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1589,7 +1488,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-89": {
+      "shrichakra-yantra-raja": {
             "title": "ಶ್ರೀಚಕ್ರ ಯಂತ್ರ ರಾಜ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1600,7 +1499,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-111": {
+      "shrichakra-shrichakreshvari": {
             "title": "ಶ್ರೀಚಕ್ರ-ಶ್ರೀಚಕ್ರೇಶ್ವರಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1611,7 +1510,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-165": {
+      "shodasha-nitya-yantra-sadhane": {
             "title": "ಷೋಡಶ ನಿತ್ಯ ಯಂತ್ರ ಸಾಧನೆ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1622,7 +1521,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-59": {
+      "sakala-devata-gayitri-mantragalu": {
             "title": "ಸಕಲ ದೇವತಾ ಗಾಯಿತ್ರಿ ಮಂತ್ರಗಳು",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1633,7 +1532,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-74": {
+      "satatika-mantra-mahodadhi": {
             "title": "ಸಟಟೀಕ ಮಂತ್ರ ಮಹೋದಧಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1644,7 +1543,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-101": {
+      "satika-mantra-mahodadhi": {
             "title": "ಸಟೀಕ ಮಂತ್ರ ಮಹೋದಧಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1655,7 +1554,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-102": {
+      "satika-mantramahodadhi": {
             "title": "ಸಟೀಕ ಮಂತ್ರಮಹೋದಧಿ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1666,7 +1565,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-77": {
+      "sulemani-yantra-mantra-tantra": {
             "title": "ಸುಲೇಮಾನಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1677,7 +1576,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-208": {
+      "sulemani-yantra-mantra-tantra-2": {
             "title": "ಸುಲೇಮಾನಿ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1688,7 +1587,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-23": {
+      "hanuman-yantra-mantra-tantra": {
             "title": "ಹನುಮಾನ್ ಯಂತ್ರ ಮಂತ್ರ ತಂತ್ರ",
             "sanskrit": "TANTRA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1699,7 +1598,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-9": {
+      "ashlesha-bali-sarpa-bali-kala-sarpayoga-shanti": {
             "title": "ಆಶ್ಲೇಷ ಬಲಿ ಸರ್ಪ ಬಲಿ ಕಾಳ ಸರ್ಪಯೋಗ ಶಾಂತಿ",
             "sanskrit": "SHANTI",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1710,7 +1609,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-129": {
+      "karma-vipaka-samhita": {
             "title": "ಕರ್ಮ ವಿಪಾಕ ಸಂಹಿತಾ",
             "sanskrit": "SHANTI",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1721,7 +1620,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-202": {
+      "kuja-dosha-vivechane": {
             "title": "ಕುಜ ದೋಷ ವಿವೇಚನೆ",
             "sanskrit": "SHANTI",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1732,7 +1631,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-72": {
+      "jataka-parihara": {
             "title": "ಜಾತಕ ಪರಿಹಾರ",
             "sanskrit": "SHANTI",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1743,7 +1642,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-134": {
+      "navagraha-shanti-kalpa": {
             "title": "ನವಗ್ರಹ ಶಾಂತಿ ಕಲ್ಪ",
             "sanskrit": "SHANTI",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1754,7 +1653,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-13": {
+      "pitru-dosha-karana-parihara": {
             "title": "ಪಿತೃ ದೋಷ ಕಾರಣ ಪರಿಹಾರ",
             "sanskrit": "SHANTI",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1765,7 +1664,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-186": {
+      "shapa-dosha-parihara-prakasha": {
             "title": "ಶಾಪ ದೋಷ ಪರಿಹಾರ ಪ್ರಕಾಶ",
             "sanskrit": "SHANTI",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1776,7 +1675,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-194": {
+      "saprayoga-shanti-chandrika": {
             "title": "ಸಪ್ರಯೋಗ ಶಾಂತಿ ಚಂದ್ರಿಕಾ",
             "sanskrit": "SHANTI",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1787,7 +1686,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-87": {
+      "atharvana-veda": {
             "title": "ಅಥರ್ವಣ ವೇದ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1798,7 +1697,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-201": {
+      "adhunika-kalakke-veda-jnyana": {
             "title": "ಆಧುನಿಕ ಕಾಲಕ್ಕೆ ವೇದ ಜ್ಞಾನ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1809,7 +1708,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-36": {
+      "rigveda-devatarchana-vidhi": {
             "title": "ಋಗ್ವೇದ ದೇವತಾರ್ಚನ ವಿಧಿ:",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1820,7 +1719,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-170": {
+      "rigveda-prayoga-deepika": {
             "title": "ಋಗ್ವೇದ ಪ್ರಯೋಗ ದೀಪಿಕಾ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1831,7 +1730,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-76": {
+      "rugvediya-prayoga-samputa": {
             "title": "ಋಗ್ವೇದಿಯ ಪ್ರಯೋಗ ಸಂಪುಟ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1842,7 +1741,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-99": {
+      "rugvediya-sukta-saurabha": {
             "title": "ಋಗ್ವೇದಿಯ ಸೂಕ್ತ ಸೌರಭ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1853,7 +1752,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-61": {
+      "yajurveda-upakarma-prayogah": {
             "title": "ಯಜುರ್ವೇದ ಉಪಾಕರ್ಮ ಪ್ರಯೋಗಃ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1864,7 +1763,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-84": {
+      "yajurvediya-upakarma-prayoga-vidhanam": {
             "title": "ಯಜುರ್ವೇದಿಯ ಉಪಕರ್ಮ ಪ್ರಯೋಗ ವಿಧಾನಮ್",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1875,7 +1774,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-190": {
+      "yajurvediya-pitrumedika-prayoga": {
             "title": "ಯಜುರ್ವೇದಿಯ ಪಿತೃಮೇದಿಕ ಪ್ರಯೋಗ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1886,7 +1785,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-65": {
+      "yajurvediya-pitrumedhika-prayogah": {
             "title": "ಯಜುರ್ವೇದೀಯ ಪಿತೃಮೇಧಿಕ ಪ್ರಯೋಗಃ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1897,7 +1796,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-118": {
+      "yajurvediya-pitrumedhika-prayogah-2": {
             "title": "ಯಜುರ್ವೇದೀಯ ಪಿತೃಮೇಧಿಕ ಪ್ರಯೋಗಃ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1908,7 +1807,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-83": {
+      "yajusha-prayoga-ratnamala": {
             "title": "ಯಾಜುಷ ಪ್ರಯೋಗ ರತ್ನಮಾಲಾ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1919,7 +1818,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-53": {
+      "yajusha-sukta-saurabha": {
             "title": "ಯಾಜುಷ ಸೂಕ್ತ ಸೌರಭ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1930,7 +1829,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-16": {
+      "veda-vasanta": {
             "title": "ವೇದ ವಸಂತ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1941,7 +1840,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-75": {
+      "veda-sanvatsara": {
             "title": "ವೇದ ಸಂವತ್ಸರ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1952,7 +1851,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-166": {
+      "shaivagamanusara-nityarchanavidhi": {
             "title": "ಶೈವಾಗಮಾನುಸಾರ ನಿತ್ಯಾರ್ಚನವಿಧಿ",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1963,7 +1862,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-33": {
+      "samaveda-purva-mattu-uttararchika-eradu-pustakagalu": {
             "title": "ಸಾಮವೇದ ಪೂರ್ವ ಮತ್ತು ಉತ್ತರಾರ್ಚಿಕ ಎರಡು ಪುಸ್ತಕಗಳು",
             "sanskrit": "SAMHITA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1974,7 +1873,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-216": {
+      "agnimukha-prakasha": {
             "title": "ಅಗ್ನಿಮುಖ ಪ್ರಕಾಶ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1985,7 +1884,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-56": {
+      "agnimukha-prayoga": {
             "title": "ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -1996,7 +1895,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-46": {
+      "ashlesha-kalpa": {
             "title": "ಆಶ್ಲೇಷ ಕಲ್ಪ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2007,7 +1906,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-26": {
+      "ashvalayana-paitrumedika-medike-prayoga": {
             "title": "ಆಶ್ವಾಲಯನ ಪೈತೃಮೇದಿಕ ಮೇದಿಕೆ ಪ್ರಯೋಗ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2018,7 +1917,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-81": {
+      "utsava-tarangini": {
             "title": "ಉತ್ಸವ ತರಂಗಿಣಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2029,7 +1928,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-60": {
+      "kalyanotsava-kaumudi": {
             "title": "ಕಲ್ಯಾಣೋತ್ಸವ ಕೌಮುದಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2040,7 +1939,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-93": {
+      "kalyanotsava-deepika": {
             "title": "ಕಲ್ಯಾಣೋತ್ಸವ ದೀಪಿಕಾ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2051,7 +1950,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-197": {
+      "kamya-prakasha": {
             "title": "ಕಾಮ್ಯ ಪ್ರಕಾಶ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2062,7 +1961,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-169": {
+      "dipa-samputa": {
             "title": "ದೀಪ ಸಂಪುಟ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2073,7 +1972,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-214": {
+      "devatarchana-vidhihi": {
             "title": "ದೇವತಾರ್ಚನ ವಿಧಿಹಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2084,7 +1983,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-51": {
+      "devapratishta-chudavani": {
             "title": "ದೇವಪ್ರತಿಷ್ಟಾ ಚೂಡಾವಣಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2095,7 +1994,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-103": {
+      "devapratishtha-chudamani": {
             "title": "ದೇವಪ್ರತಿಷ್ಠಾ ಚೂಡಾಮಣಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2106,7 +2005,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-62": {
+      "nitya-panchayatana-devatarchana-vistaraniyam": {
             "title": "ನಿತ್ಯ ಪಂಚಾಯತನ ದೇವತಾರ್ಚನ ವಿಸ್ತರಣೀಯಮ್",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2117,7 +2016,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-55": {
+      "nitya-pooja-vidhi": {
             "title": "ನಿತ್ಯ ಪೂಜಾ ವಿಧಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2128,7 +2027,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-183": {
+      "nitya-sanskara": {
             "title": "ನಿತ್ಯ ಸಂಸ್ಕಾರ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2139,7 +2038,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-22": {
+      "pancha-durga-dipa-namaskara-vidhi": {
             "title": "ಪಂಚ ದುರ್ಗಾ ದೀಪ ನಮಸ್ಕಾರ ವಿಧಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2150,7 +2049,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-49": {
+      "puranokta-prayoga-sangraha": {
             "title": "ಪುರಾಣೋಕ್ತ ಪ್ರಯೋಗ ಸಂಗ್ರಹ:",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2161,7 +2060,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-86": {
+      "pujahomakalpadrumah": {
             "title": "ಪೂಜಾಹೋಮಕಲ್ಪದ್ರುಮಃ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2172,7 +2071,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-164": {
+      "prayoga-samputa": {
             "title": "ಪ್ರಯೋಗ ಸಂಪುಟ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2183,7 +2082,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-191": {
+      "mandala-darpana": {
             "title": "ಮಂಡಲ ದರ್ಪಣ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2194,7 +2093,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-80": {
+      "rudrashtadhyayi": {
             "title": "ರುದ್ರಷ್ಟಾಧ್ಯಾಯಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2205,7 +2104,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-92": {
+      "vatuka-bhairava-upasane": {
             "title": "ವಟುಕ ಭೈರವ ಉಪಾಸನೆ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2216,7 +2115,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-182": {
+      "vancha-kalpa-lata": {
             "title": "ವಾಂಚ ಕಲ್ಪ ಲತಾ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2227,7 +2126,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-177": {
+      "vrata-mala": {
             "title": "ವ್ರತ ಮಾಲಾ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2238,7 +2137,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-104": {
+      "vrataratnam": {
             "title": "ವ್ರತರತ್ನಂ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2249,7 +2148,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-106": {
+      "shree-ashta-vinayaka-upasana-sarvasvam": {
             "title": "ಶ್ರೀ ಅಷ್ಟ ವಿನಾಯಕ ಉಪಾಸನ ಸರ್ವಸ್ವಂ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2260,7 +2159,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-48": {
+      "shree-uchchishta-mahaganapati-varivasya": {
             "title": "ಶ್ರೀ ಉಚ್ಚಿಷ್ಟ ಮಹಾಗಣಪತಿ ವರಿವಸ್ಯಾ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2271,7 +2170,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-189": {
+      "shree-chandi-homa-prayoga": {
             "title": "ಶ್ರೀ ಚಂಡಿ ಹೋಮ ಪ್ರಯೋಗ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2282,7 +2181,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-132": {
+      "shree-durga-pooja-dipa-namaskara-homa-vidhi": {
             "title": "ಶ್ರೀ ದುರ್ಗಾ ಪೂಜಾ ದೀಪಾ ನಮಸ್ಕಾರ ಹೋಮ ವಿಧಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2293,7 +2192,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-50": {
+      "shree-nandi-prayoga-vidhanam": {
             "title": "ಶ್ರೀ ನಾಂದಿ ಪ್ರಯೋಗ ವಿಧಾನಮ್",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2304,7 +2203,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-11": {
+      "shree-bala-saparya": {
             "title": "ಶ್ರೀ ಬಾಲ ಸಪರ್ಯ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2315,7 +2214,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-188": {
+      "shree-bhairava-digbandhana-prayoga": {
             "title": "ಶ್ರೀ ಭೈರವ ದಿಗ್ಬಂಧನ ಪ್ರಯೋಗ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2326,7 +2225,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-24": {
+      "shree-bhairava-digbandhana-prayoga-2": {
             "title": "ಶ್ರೀ ಭೈರವ ದಿಗ್ಬಂಧನಾ ಪ್ರಯೋಗ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2337,7 +2236,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-120": {
+      "shree-mangala-gauri-vrata-kathe": {
             "title": "ಶ್ರೀ ಮಂಗಳ ಗೌರಿ ವ್ರತ, ಕಥೆ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2348,7 +2247,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-34": {
+      "shree-rudrahomaprayogah": {
             "title": "ಶ್ರೀ ರುದ್ರಹೋಮಪ್ರಯೋಗಃ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2359,7 +2258,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-154": {
+      "shree-satya-ganapati-vrata-vidhi": {
             "title": "ಶ್ರೀ ಸತ್ಯ ಗಣಪತಿ ವ್ರತ ವಿಧಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2370,7 +2269,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-108": {
+      "shree-satyanarayana-pooja-vidhi": {
             "title": "ಶ್ರೀ ಸತ್ಯನಾರಾಯಣ ಪೂಜಾ ವಿಧಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2381,7 +2280,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-125": {
+      "shree-hanuman-pratishtha-prayoga": {
             "title": "ಶ್ರೀ ಹನುಮಾನ್ ಪ್ರತಿಷ್ಠಾ ಪ್ರಯೋಗ:",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2392,7 +2291,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-150": {
+      "shriashta-vinayaka-upasanasarvasvam": {
             "title": "ಶ್ರೀಅಷ್ಟ ವಿನಾಯಕ ಉಪಾಸನಸರ್ವಸ್ವಮ್",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2403,7 +2302,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-206": {
+      "shrikrushnavratakalpoktapuja": {
             "title": "ಶ್ರೀಕೃಷ್ಣವ್ರತಕಲ್ಪೋಕ್ತಪೂಜಾ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2414,7 +2313,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-78": {
+      "satika-vrataratnam": {
             "title": "ಸಟೀಕಾ ವ್ರತರತ್ನಂ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2425,7 +2324,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-29": {
+      "svasti-punya-havachana-mattu-navagraha-pooja-vidhi": {
             "title": "ಸ್ವಸ್ತಿ ಪುಣ್ಯ ಹವಾಚನ ಮತ್ತು ನವಗ್ರಹ ಪೂಜಾ ವಿಧಿ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2436,7 +2335,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-21": {
+      "homa-samputa": {
             "title": "ಹೋಮ ಸಂಪುಟ",
             "sanskrit": "HAVANA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2447,7 +2346,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-207": {
+      "ambika-vijaya": {
             "title": "ಅಂಬಿಕಾ ವಿಜಯ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2458,7 +2357,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-174": {
+      "dinakkondu-prarthane": {
             "title": "ದಿನಕ್ಕೊಂದು ಪ್ರಾರ್ಥನೆ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2469,7 +2368,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-181": {
+      "padmapurana": {
             "title": "ಪದ್ಮಪುರಾಣ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2480,7 +2379,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-127": {
+      "brihat-stotra-ratnakara": {
             "title": "ಬೃಹತ್ ಸ್ತೋತ್ರ ರತ್ನಾಕರ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2491,7 +2390,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-117": {
+      "laghu-devi-mahatme": {
             "title": "ಲಘು ದೇವಿ ಮಹಾತ್ಮೆ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2502,7 +2401,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-28": {
+      "shree-ganesha-purana": {
             "title": "ಶ್ರೀ ಗಣೇಶ ಪುರಾಣ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2513,7 +2412,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-156": {
+      "shree-chakra-rupini-shrunga-giri-devi-shree-sharadamba-vaibhava": {
             "title": "ಶ್ರೀ ಚಕ್ರ ರೂಪಿಣಿ ಶೃಂಗ ಗಿರಿ ದೇವಿ ಶ್ರೀ ಶಾರದಾಂಬ ವೈಭವ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2524,7 +2423,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-159": {
+      "shree-vishnu-puranam": {
             "title": "ಶ್ರೀ ವಿಷ್ಣು ಪುರಾಣಂ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2535,7 +2434,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-40": {
+      "shree-shrinivasa-kalyanam": {
             "title": "ಶ್ರೀ ಶ್ರೀನಿವಾಸ ಕಲ್ಯಾಣಮ್",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2546,7 +2445,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-192": {
+      "shridevi-mahatme": {
             "title": "ಶ್ರೀದೇವಿ ಮಹಾತ್ಮೆ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2557,7 +2456,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-88": {
+      "saundarya-lahari-stotra-darpana": {
             "title": "ಸೌಂದರ್ಯ ಲಹರಿ ಸ್ತೋತ್ರ ದರ್ಪಣ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2568,7 +2467,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-19": {
+      "saundaryalahari-stotradipike": {
             "title": "ಸೌಂದರ್ಯಲಹರೀ ಸ್ತೋತ್ರದೀಪಿಕೆ",
             "sanskrit": "VEDANTA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2579,7 +2478,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-215": {
+      "ayurveda-mattu-padartha-vijnyana": {
             "title": "ಆಯುರ್ವೇದ ಮತ್ತು ಪದಾರ್ಥ ವಿಜ್ಞಾನ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2590,7 +2489,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-97": {
+      "goraksha-shataka": {
             "title": "ಗೋರಕ್ಷಾ ಶತಕ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2601,7 +2500,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-144": {
+      "charaka-samhite": {
             "title": "ಚರಕ ಸಂಹಿತೆ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2612,7 +2511,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-109": {
+      "jnyana-sindhu-nili-hottige-grantha": {
             "title": "ಜ್ಞಾನ ಸಿಂಧು ನೀಲಿ ಹೊತ್ತಿಗೆ ಗ್ರಂಥ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2623,7 +2522,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-140": {
+      "jnyanasindhu": {
             "title": "ಜ್ಞಾನಸಿಂಧು",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2634,7 +2533,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-172": {
+      "patanjaliya-yogasootra": {
             "title": "ಪತಂಜಲಿಯ ಯೋಗಸೂತ್ರ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2645,7 +2544,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-15": {
+      "purvajanma-punarjanma": {
             "title": "ಪೂರ್ವಜನ್ಮ ಪುನರ್ಜನ್ಮ...!",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2656,7 +2555,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-138": {
+      "yogaratna-manjusha": {
             "title": "ಯೋಗರತ್ನ ಮಂಜೂಷ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2667,7 +2566,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-41": {
+      "shiva-yoga-deepika": {
             "title": "ಶಿವ ಯೋಗ ದೀಪಿಕಾ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2678,7 +2577,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-163": {
+      "shivayoga-pradeepika": {
             "title": "ಶಿವಯೋಗ ಪ್ರದೀಪಿಕಾ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2689,7 +2588,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-114": {
+      "shivasanhite": {
             "title": "ಶಿವಸಂಹಿತೆ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2700,7 +2599,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-205": {
+      "satika-jnyanasindhu": {
             "title": "ಸಟೀಕಾ ಜ್ಞಾನಸಿಂಧು",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2711,7 +2610,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-100": {
+      "svatmaramara-hathayoga-pradeepika": {
             "title": "ಸ್ವಾತ್ಮರಾಮರ ಹಠಯೋಗ ಪ್ರದೀಪಿಕಾ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2722,7 +2621,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-136": {
+      "hatha-pradeepika-brahmanandara-tikasara-sahita": {
             "title": "ಹಠ ಪ್ರದೀಪಿಕಾ ( ಬ್ರಹ್ಮಾನಂದರ ಟೀಕಾಸಾರ ಸಹಿತ )",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2733,7 +2632,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-130": {
+      "hathayoga-rajayoga-muktige-marga": {
             "title": "ಹಠಯೋಗ ರಾಜಯೋಗ ಮುಕ್ತಿಗೆ ಮಾರ್ಗ",
             "sanskrit": "ADHYATMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2744,7 +2643,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-199": {
+      "ashtadhyayi": {
             "title": "ಅಷ್ಟಾಧ್ಯಾಯೀ",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2755,7 +2654,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-38": {
+      "dharmashastra": {
             "title": "ಧರ್ಮಶಾಸ್ತ್ರ",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2766,7 +2665,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-82": {
+      "dharmasindhu": {
             "title": "ಧರ್ಮಸಿಂಧು",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2777,7 +2676,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-8": {
+      "nirnaya-sindhu": {
             "title": "ನಿರ್ಣಯ ಸಿಂಧು",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2788,7 +2687,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-139": {
+      "meghadutam": {
             "title": "ಮೇಘದೂತಮ್",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2799,7 +2698,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-67": {
+      "vivaha-panchaka": {
             "title": "ವಿವಾಹ ಪಂಚಕ",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2810,7 +2709,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-47": {
+      "shalagrama-pariksha": {
             "title": "ಶಾಲಗ್ರಾಮ ಪರೀಕ್ಷ",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2821,7 +2720,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-14": {
+      "sanskruta-kannada-shabdartha-kosham": {
             "title": "ಸಂಸ್ಕೃತ ಕನ್ನಡ ಶಬ್ದಾರ್ಥ ಕೋಶಮ್",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2832,7 +2731,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-43": {
+      "sarala-sanskruta-vyakarana": {
             "title": "ಸರಳ ಸಂಸ್ಕೃತ ವ್ಯಾಕರಣ",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2843,7 +2742,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-63": {
+      "sahasra-suktigalu": {
             "title": "ಸಹಸ್ರ ಸೂಕ್ತಿಗಳು",
             "sanskrit": "DHARMA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2854,7 +2753,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-124": {
+      "arishina-male": {
             "title": "ಅರಿಶಿಣ ಮಾಲೆ",
             "sanskrit": "MANGALA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2865,7 +2764,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-196": {
+      "karanguli-mala": {
             "title": "ಕಾರಂಗುಲಿ ಮಾಲಾ",
             "sanskrit": "MANGALA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2876,7 +2775,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "6-mm": {
+      "rudrakshi-mala-6-mm": {
             "title": "ರುದ್ರಾಕ್ಷಿ ಮಾಲಾ 6 mm",
             "sanskrit": "MANGALA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",
@@ -2887,7 +2786,7 @@ export const kn = {
             "pages": 0,
             "availability": "ಲಭ್ಯವಿದೆ"
       },
-      "item-173": {
+      "vaijayantimala": {
             "title": "ವೈಜಯಂತಿಮಾಲಾ",
             "sanskrit": "MANGALA",
             "author": "ಆದ್ಯ ಪುಸ್ತಕ ಭಂಡಾರ",

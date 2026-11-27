@@ -16,12 +16,11 @@ export function Brand({ variant = 'default', className = '' }) {
         isLight ? 'text-footer-brand' : 'text-maroon'
       } ${className}`}
     >
-      <span
-        className="grid place-items-center w-[40px] h-[40px] sm:w-[42px] sm:h-[42px] border border-gold rounded-full font-serif text-[22px] sm:text-[23px] text-gold shrink-0"
-        aria-hidden="true"
-      >
-        ॐ
-      </span>
+      <img
+        src="/images/brand/adya-logo.jpeg"
+        alt=""
+        className="w-[68px] h-[46px] sm:w-[72px] sm:h-[48px] object-contain rounded-sm shrink-0 bg-[#fff9eb]"
+      />
       <span className="max-w-[215px] sm:max-w-[260px] xl:max-w-[320px]">
         <strong
           className={`block font-serif font-semibold leading-[1.2] ${
